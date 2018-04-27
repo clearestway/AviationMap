@@ -5,7 +5,7 @@ import Data_Server
 
 app = Flask(__name__)
 
-
+# sets the what flask returns for a web site path
 @app.route('/')
 def aviation(name=None):
     return render_template('Test.html',name=name),
