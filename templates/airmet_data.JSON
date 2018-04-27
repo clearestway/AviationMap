@@ -2,137 +2,308 @@
   "features": [
   { "type": "Feature",
     "properties": {
-      "icaoId": "KSFO", 
+      "icaoId": "KMIA", 
       "airSigmetType": "AIRMET", 
       "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T15:12:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "0", 
       "altitudeLow1": 0, 
       "altitudeHi2": 1000, 
-      "rawAirSigmet": "WAUS46 KKCI 262045 \nSFOS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET IFR...WA OR CA AND CSTL WTRS \nFROM 20NW TOU TO 20ESE HQM TO 40S ONP TO 30S FOT TO 40SW OAK TO \n20W RZS TO 30ESE LAX TO 30S MZB TO 220SW MZB TO 140WSW FOT TO \n120WNW ONP TO 130WSW TOU TO 90W TOU TO 20NW TOU \nCIG BLW 010/VIS BLW 3SM BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...MTN OBSCN CA \nBOUNDED BY 90SSW LKV-50NNW FMG-30SSW FMG-70SSW OAL-50NNE EHF-40E \nSAC-90SSW LKV \nMTNS OBSC BY CLDS/PCPN/BR. CONDS DVLPG 06-09Z. CONDS CONTG THRU \n09Z. \nAREA 2...MTN OBSCN CA \nBOUNDED BY 30WNW SAC-30SSW EHF-20W TRM-60S TRM-30SSW MZB-30SE \nLAX-40W RZS-40SSW SNS-PYE-30WNW SAC \nMTNS OBSC BY CLDS/BR. CONDS DVLPG 06-09Z. CONDS CONTG THRU 09Z."
+      "rawAirSigmet": "WAUS42 KKCI 271512 AAA \nMIAS WA 271512 AMD \nAIRMET SIERRA UPDT 6 FOR IFR AND MTN OBSCN VALID UNTIL 272100 \nAIRMET IFR...NC SC ME NH VT MA RI CT NY NJ PA WV MD DC DE VA AND \nCSTL WTRS...UPDT \nFROM 50E YSC TO 50E BOS TO 50ESE ACK TO 30SSE HTO TO 70ESE SIE \nTO 40SE CLT TO SPA TO 30S PSK TO 20NNW HMV TO HNK TO 20SSW MSS \nTO 50E YSC \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG BYD 21Z ENDG 21-00Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-124.98,48.53],[-123.70,46.82],[-124.06,43.92],[-124.23,40.17],
-        [-122.81,37.26],[-120.17,34.51],[-117.87,33.74],[-117.23,32.28],
-        [-120.22,30.16],[-127.03,39.75],[-126.68,45.31],[-127.59,47.43],
-        [-126.88,48.28],[-124.98,48.53] ] ]
+        [[-70.49,45.42],[-69.86,42.35],[-69.01,40.96],[-72.07,40.45],
+        [-73.42,38.64],[-80.36,34.75],[-81.93,35.03],[-80.71,36.59],
+        [-82.29,36.75],[-75.32,42.06],[-74.90,44.60],[-70.49,45.42] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
-      "icaoId": "KSFO", 
+      "icaoId": "KBOS", 
       "airSigmetType": "AIRMET", 
       "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T15:12:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "0", 
       "altitudeLow1": 0, 
       "altitudeHi2": 1000, 
-      "rawAirSigmet": "WAUS46 KKCI 262045 \nSFOS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET IFR...WA OR CA AND CSTL WTRS \nFROM 20NW TOU TO 20ESE HQM TO 40S ONP TO 30S FOT TO 40SW OAK TO \n20W RZS TO 30ESE LAX TO 30S MZB TO 220SW MZB TO 140WSW FOT TO \n120WNW ONP TO 130WSW TOU TO 90W TOU TO 20NW TOU \nCIG BLW 010/VIS BLW 3SM BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...MTN OBSCN CA \nBOUNDED BY 90SSW LKV-50NNW FMG-30SSW FMG-70SSW OAL-50NNE EHF-40E \nSAC-90SSW LKV \nMTNS OBSC BY CLDS/PCPN/BR. CONDS DVLPG 06-09Z. CONDS CONTG THRU \n09Z. \nAREA 2...MTN OBSCN CA \nBOUNDED BY 30WNW SAC-30SSW EHF-20W TRM-60S TRM-30SSW MZB-30SE \nLAX-40W RZS-40SSW SNS-PYE-30WNW SAC \nMTNS OBSC BY CLDS/BR. CONDS DVLPG 06-09Z. CONDS CONTG THRU 09Z."
+      "rawAirSigmet": "WAUS41 KKCI 271512 AAA \nBOSS WA 271512 AMD \nAIRMET SIERRA UPDT 6 FOR IFR AND MTN OBSCN VALID UNTIL 272100 \nAIRMET IFR...ME NH VT MA RI CT NY NJ PA WV MD DC DE VA NC SC AND \nCSTL WTRS...UPDT \nFROM 50E YSC TO 50E BOS TO 50ESE ACK TO 30SSE HTO TO 70ESE SIE \nTO 40SE CLT TO SPA TO 30S PSK TO 20NNW HMV TO HNK TO 20SSW MSS \nTO 50E YSC \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG BYD 21Z ENDG 21-00Z. \nOTLK VALID 2100-0300Z...IFR ME NH VT MA RI CT NY NJ PA AND CSTL \nWTRS \nBOUNDED BY 70NW PQI-40NE PQI-130E ACK-20SSE CYN-30NE HAR-MSS-YSC- \n70NW PQI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS DVLPG 21-00Z. CONDS CONTG \nTHRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-124.98,48.53],[-123.70,46.82],[-124.06,43.92],[-124.23,40.17],
-        [-122.81,37.26],[-120.17,34.51],[-117.87,33.74],[-117.23,32.28],
-        [-120.22,30.16],[-127.03,39.75],[-126.68,45.31],[-127.59,47.43],
-        [-126.88,48.28],[-124.98,48.53] ] ]
+        [[-70.49,45.42],[-69.86,42.35],[-69.01,40.96],[-72.07,40.45],
+        [-73.42,38.64],[-80.36,34.75],[-81.93,35.03],[-80.71,36.59],
+        [-82.29,36.75],[-75.32,42.06],[-74.90,44.60],[-70.49,45.42] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
-      "icaoId": "KDFW", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "MTN OBSCN", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "0", 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET MTN OBSCN...TN KY \nFROM 60SSW HNN TO HMV TO GQO TO 50WSW LOZ TO 60SSW HNN \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z...IFR TN MS AL KY \nBOUNDED BY 60E CVG-HNN-HMV-GQO-30NNW PZD-30SE CEW-30NNE SJI- \n20ENE MHZ-60SSE DYR-30S BNA-20NE LOZ-60E CVG \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS DVLPG AFT 03Z. CONDS \nCONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-82.51,37.83],[-82.13,36.44],[-85.15,34.96],[-85.08,36.71],
-        [-82.51,37.83] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KDFW", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "MTN OBSCN", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "0", 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET MTN OBSCN...TN KY \nFROM 60SSW HNN TO HMV TO GQO TO 50WSW LOZ TO 60SSW HNN \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z...IFR TN MS AL KY \nBOUNDED BY 60E CVG-HNN-HMV-GQO-30NNW PZD-30SE CEW-30NNE SJI- \n20ENE MHZ-60SSE DYR-30S BNA-20NE LOZ-60E CVG \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS DVLPG AFT 03Z. CONDS \nCONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-82.51,37.83],[-82.13,36.44],[-85.15,34.96],[-85.08,36.71],
-        [-82.51,37.83] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KDFW", 
+      "icaoId": "KCHI", 
       "airSigmetType": "AIRMET", 
       "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T15:12:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "0", 
       "altitudeLow1": 0, 
       "altitudeHi2": 1000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET IFR...TN AL \nFROM 40E BNA TO GQO TO 50SW PZD TO 50ESE CEW TO 20NE MGM TO \n20WSW MSL TO 40E BNA \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS ENDG BY 03Z. \nOTLK VALID 0300-0900Z...IFR TN MS AL KY \nBOUNDED BY 60E CVG-HNN-HMV-GQO-30NNW PZD-30SE CEW-30NNE SJI- \n20ENE MHZ-60SSE DYR-30S BNA-20NE LOZ-60E CVG \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS DVLPG AFT 03Z. CONDS \nCONTG THRU 09Z."
+      "rawAirSigmet": "WAUS43 KKCI 271512 AAA \nCHIS WA 271512 AMD \nAIRMET SIERRA UPDT 6 FOR IFR VALID UNTIL 272100 \nAIRMET IFR...LM LS MI LH IN \nFROM 60WNW SSM TO 60NNE ASP TO MKG TO 20SE GIJ TO 30NNW BVT TO \n60WNW TVC TO 60WNW SSM \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS ENDG 15-18Z. \nOTLK VALID 2100-0300Z...IFR IA WI LM IL \nBOUNDED BY 60W RHI-50SSE RHI-50ESE GRB-40ENE BAE-20ESE ORD-20E \nDBQ-40NW DBQ-20ENE ODI-20NNW EAU-60W RHI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-85.86,36.14],[-85.15,34.96],[-84.98,31.07],[-85.78,30.51],
-        [-86.04,32.45],[-87.85,34.57],[-85.86,36.14] ] ]
+        [[-85.66,46.78],[-82.85,45.37],[-86.04,43.17],[-86.01,41.53],
+        [-87.33,41.02],[-86.85,45.04],[-85.66,46.78] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
-      "icaoId": "KDFW", 
+      "icaoId": "KCHI", 
       "airSigmetType": "AIRMET", 
-      "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "0", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 1000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET IFR...TN AL \nFROM 40E BNA TO GQO TO 50SW PZD TO 50ESE CEW TO 20NE MGM TO \n20WSW MSL TO 40E BNA \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS ENDG BY 03Z. \nOTLK VALID 0300-0900Z...IFR TN MS AL KY \nBOUNDED BY 60E CVG-HNN-HMV-GQO-30NNW PZD-30SE CEW-30NNE SJI- \n20ENE MHZ-60SSE DYR-30S BNA-20NE LOZ-60E CVG \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS DVLPG AFT 03Z. CONDS \nCONTG THRU 09Z."
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 3000, 
+      "altitudeLow2": 7000, 
+      "altitudeHi2": 16000, 
+      "rawAirSigmet": "WAUS43 KKCI 271445 \nCHIZ WA 271445 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET ICE...LM LS MI LH IN \nFROM 20WNW SSM TO YVV TO 30ESE ECK TO FWA TO 50S FWA TO 30S BVT \nTO 20SSW GRR TO 20WNW SSM \nMOD ICE BTN FRZLVL AND 160. FRZLVL 030-070. CONDS CONTG BYD 21Z \nENDG BY 03Z. \nOTLK VALID 2100-0300Z...ICE MN IA MO WI LM LS MI LH IL IN \nBOUNDED BY 30N INL-60ESE YQT-30WNW TVC-20E DXO-FWA-CVG-50SSW \nTTH-20ESE STL-30S IOW-20WSW DBQ-40SW MSP-60SW BRD-70WNW INL-30N \nINL \nMOD ICE BTN FRZLVL AND 140. FRZLVL 030-060. CONDS CONTG THRU 03Z. \nFRZLVL...RANGING FROM 005-125 ACRS AREA \n 040 ALG 50NNE MOT-50ENE MOT-30NNW BRD-50SW GRB-40NE BAE-50S \n TVC-60NW YVV \n 080 ALG 20WSW ISN-50SW FOD-60SE OVR-50WSW IRK-30SSW IIU-40W \n BKW \n 120 ALG 40NNW GLD-40SW HLC-40SE GCK-40E LBL"
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-85.86,36.14],[-85.15,34.96],[-84.98,31.07],[-85.78,30.51],
-        [-86.04,32.45],[-87.85,34.57],[-85.86,36.14] ] ]
+        [[-84.76,46.54],[-81.10,44.75],[-82.08,43.07],[-85.19,40.98],
+        [-85.19,40.14],[-87.07,40.06],[-85.67,42.48],[-84.76,46.54] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KCHI", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 3000, 
+      "altitudeLow2": 7000, 
+      "altitudeHi2": 16000, 
+      "rawAirSigmet": "WAUS43 KKCI 271445 \nCHIZ WA 271445 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET ICE...LM LS MI LH IN \nFROM 20WNW SSM TO YVV TO 30ESE ECK TO FWA TO 50S FWA TO 30S BVT \nTO 20SSW GRR TO 20WNW SSM \nMOD ICE BTN FRZLVL AND 160. FRZLVL 030-070. CONDS CONTG BYD 21Z \nENDG BY 03Z. \nOTLK VALID 2100-0300Z...ICE MN IA MO WI LM LS MI LH IL IN \nBOUNDED BY 30N INL-60ESE YQT-30WNW TVC-20E DXO-FWA-CVG-50SSW \nTTH-20ESE STL-30S IOW-20WSW DBQ-40SW MSP-60SW BRD-70WNW INL-30N \nINL \nMOD ICE BTN FRZLVL AND 140. FRZLVL 030-060. CONDS CONTG THRU 03Z. \nFRZLVL...RANGING FROM 005-125 ACRS AREA \n 040 ALG 50NNE MOT-50ENE MOT-30NNW BRD-50SW GRB-40NE BAE-50S \n TVC-60NW YVV \n 080 ALG 20WSW ISN-50SW FOD-60SE OVR-50WSW IRK-30SSW IIU-40W \n BKW \n 120 ALG 40NNW GLD-40SW HLC-40SE GCK-40E LBL"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-84.76,46.54],[-81.10,44.75],[-82.08,43.07],[-85.19,40.98],
+        [-85.19,40.14],[-87.07,40.06],[-85.67,42.48],[-84.76,46.54] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KCHI", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 2000, 
+      "altitudeLow2": 6000, 
+      "altitudeHi2": 14000, 
+      "rawAirSigmet": "WAUS43 KKCI 271445 \nCHIZ WA 271445 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET ICE...MN IA WI LM LS MI IL IN \nFROM 30N INL TO 40ESE YQT TO 20SSW TVC TO 20SSW GRR TO 20SSW GIJ \nTO 40SSW BDF TO 30S IOW TO 40SSW BRD TO 70W INL TO 30N INL \nMOD ICE BTN FRZLVL AND 140. FRZLVL 020-060. CONDS CONTG BYD 21Z \nTHRU 03Z. \nOTLK VALID 2100-0300Z...ICE MN IA MO WI LM LS MI LH IL IN \nBOUNDED BY 30N INL-60ESE YQT-30WNW TVC-20E DXO-FWA-CVG-50SSW \nTTH-20ESE STL-30S IOW-20WSW DBQ-40SW MSP-60SW BRD-70WNW INL-30N \nINL \nMOD ICE BTN FRZLVL AND 140. FRZLVL 030-060. CONDS CONTG THRU 03Z. \nFRZLVL...RANGING FROM 005-125 ACRS AREA \n 040 ALG 50NNE MOT-50ENE MOT-30NNW BRD-50SW GRB-40NE BAE-50S \n TVC-60NW YVV \n 080 ALG 20WSW ISN-50SW FOD-60SE OVR-50WSW IRK-30SSW IIU-40W \n BKW \n 120 ALG 40NNW GLD-40SW HLC-40SE GCK-40E LBL"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-93.40,49.07],[-88.40,48.11],[-85.73,44.36],[-85.67,42.48],
+        [-86.49,41.46],[-89.92,40.55],[-91.61,41.02],[-94.39,45.74],
+        [-95.16,48.56],[-93.40,49.07] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KBOS", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 3000, 
+      "altitudeLow2": 7000, 
+      "altitudeHi2": 16000, 
+      "rawAirSigmet": "WAUS41 KKCI 271445 \nBOSZ WA 271445 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET ICE...NY PA OH LE WV \nFROM 30ESE ECK TO 30NW JHW TO 40ENE EWC TO HNN TO CVG TO FWA TO \n30ESE ECK \nMOD ICE BTN FRZLVL AND 160. FRZLVL 030-070. CONDS CONTG BYD 21Z \nTHRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...ICE NY LO PA OH LE WV MD VA \nBOUNDED BY 60SSW YOW-50ENE SYR-20W ETX-20W DCA-40S \nHNN-HNN-CVG-20NE APE-20E DXO-40WSW BUF-30E YYZ-60SSW YOW \nMOD ICE BTN FRZLVL AND 160. FRZLVL 050-070. CONDS CONTG THRU 03Z. \nAREA 2...ICE OH LE \nBOUNDED BY 20E DXO-20NE APE-CVG-FWA-20E DXO \nMOD ICE BTN FRZLVL AND 140. FRZLVL 030-060. CONDS DVLPG AFT 00Z. \nCONDS CONTG THRU 03Z. \nFRZLVL...RANGING FROM 055-120 ACRS AREA \n 080 ALG 40W BKW-20E BKW-20SW SAX-20WSW ENE-30W BGR-30NNE PQI- \n 50NE PQI"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-82.08,43.07],[-79.60,42.54],[-79.40,41.08],[-82.03,38.75],
+        [-84.70,39.02],[-85.19,40.98],[-82.08,43.07] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KCHI", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 2000, 
+      "altitudeLow2": 6000, 
+      "altitudeHi2": 14000, 
+      "rawAirSigmet": "WAUS43 KKCI 271445 \nCHIZ WA 271445 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET ICE...MN IA WI LM LS MI IL IN \nFROM 30N INL TO 40ESE YQT TO 20SSW TVC TO 20SSW GRR TO 20SSW GIJ \nTO 40SSW BDF TO 30S IOW TO 40SSW BRD TO 70W INL TO 30N INL \nMOD ICE BTN FRZLVL AND 140. FRZLVL 020-060. CONDS CONTG BYD 21Z \nTHRU 03Z. \nOTLK VALID 2100-0300Z...ICE MN IA MO WI LM LS MI LH IL IN \nBOUNDED BY 30N INL-60ESE YQT-30WNW TVC-20E DXO-FWA-CVG-50SSW \nTTH-20ESE STL-30S IOW-20WSW DBQ-40SW MSP-60SW BRD-70WNW INL-30N \nINL \nMOD ICE BTN FRZLVL AND 140. FRZLVL 030-060. CONDS CONTG THRU 03Z. \nFRZLVL...RANGING FROM 005-125 ACRS AREA \n 040 ALG 50NNE MOT-50ENE MOT-30NNW BRD-50SW GRB-40NE BAE-50S \n TVC-60NW YVV \n 080 ALG 20WSW ISN-50SW FOD-60SE OVR-50WSW IRK-30SSW IIU-40W \n BKW \n 120 ALG 40NNW GLD-40SW HLC-40SE GCK-40E LBL"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-93.40,49.07],[-88.40,48.11],[-85.73,44.36],[-85.67,42.48],
+        [-86.49,41.46],[-89.92,40.55],[-91.61,41.02],[-94.39,45.74],
+        [-95.16,48.56],[-93.40,49.07] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KBOS", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 6000, 
+      "altitudeLow2": 10000, 
+      "altitudeHi2": 22000, 
+      "rawAirSigmet": "WAUS41 KKCI 271445 \nBOSZ WA 271445 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET ICE...ME NH VT MA RI CT NY LO NJ PA OH LE WV MD DC DE VA \nAND CSTL WTRS \nFROM 30N PQI TO 40WSW YSJ TO 150E ACK TO 90SE ACK TO 200S ACK TO \n120E ORF TO 40N HMV TO HNN TO 40ENE EWC TO 30NW JHW TO 40E YYZ TO \n30SE YOW TO 30SSE YSC TO 60WNW PQI TO 30N PQI \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 060-100. CONDS CONTG BYD 21Z \nTHRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...ICE NY LO PA OH LE WV MD VA \nBOUNDED BY 60SSW YOW-50ENE SYR-20W ETX-20W DCA-40S \nHNN-HNN-CVG-20NE APE-20E DXO-40WSW BUF-30E YYZ-60SSW YOW \nMOD ICE BTN FRZLVL AND 160. FRZLVL 050-070. CONDS CONTG THRU 03Z. \nAREA 2...ICE OH LE \nBOUNDED BY 20E DXO-20NE APE-CVG-FWA-20E DXO \nMOD ICE BTN FRZLVL AND 140. FRZLVL 030-060. CONDS DVLPG AFT 00Z. \nCONDS CONTG THRU 03Z. \nFRZLVL...RANGING FROM 055-120 ACRS AREA \n 080 ALG 40W BKW-20E BKW-20SW SAX-20WSW ENE-30W BGR-30NNE PQI- \n 50NE PQI"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-68.09,47.27],[-66.75,45.06],[-66.71,41.23],[-68.64,40.21],
+        [-70.03,37.96],[-73.71,36.86],[-82.13,37.10],[-82.03,38.75],
+        [-79.40,41.08],[-79.60,42.54],[-78.71,43.67],[-75.17,44.96],
+        [-71.41,44.96],[-69.44,47.14],[-68.09,47.27] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
       "icaoId": "KMIA", 
       "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS42 KKCI 262045 \nMIAT WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...NC SC GA FL AND CSTL WTRS \nFROM 50SE LYH TO 40W ILM TO 70SSE CHS TO 50ENE CRG TO 20NW CRG \nTO 50SE CTY TO 80SSW CEW TO 40W CEW TO 50SW PZD TO GQO TO 30SSW \nVXV TO 40WNW SPA TO 30SSW PSK TO 50SE LYH \nMOD TURB BLW FL180. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z...TURB NC SC GA NY NJ WV MD DC DE VA AND \nCSTL WTRS \nBOUNDED BY 30WNW EMI-90S HTO-90SE ECG-100SE SAV-50ENE CRG-50SW \nPZD-GQO-30NNE ODF-40SSW PSK-40SSW LYH-50W CSN-30WNW EMI \nMOD TURB BTN 030 AND FL180. CONDS CONTG THRU 09Z."
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T20:45:00Z", 
+      "severity": "1", 
+      "rawAirSigmet": "WAUS42 KKCI 271445 \nMIAZ WA 271445 \nAIRMET ZULU UPDT 2 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET NO SGFNT ICE EXP OUTSIDE OF CNVTV ACT. \n \nFRZLVL...RANGING FROM 090-135 ACRS AREA \n 120 ALG 130ESE LEV-100S CEW-80SW TLH-50W CTY-40NNW PIE-20WNW \n ORL-220SSE ILM"
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-78.49,36.66],[-78.68,34.35],[-79.51,31.81],[-80.61,30.66],
-        [-81.78,30.57],[-82.37,29.01],[-87.27,29.60],[-87.45,30.83],
-        [-84.98,31.07],[-85.15,34.96],[-84.13,35.44],[-82.68,35.28],
-        [-80.95,36.62],[-78.49,36.66] ] ]
+        [ ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KDFW", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T20:45:00Z", 
+      "severity": "1", 
+      "rawAirSigmet": "WAUS44 KKCI 271445 \nDFWZ WA 271445 \nAIRMET ZULU UPDT 2 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET NO SGFNT ICE EXP OUTSIDE OF CNVTV ACT. \n \nFRZLVL...RANGING FROM 085-140 ACRS AREA \n 120 ALG 40E LBL-40ENE SJT-30SE JCT-30SSW SAT-120SE PSX"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [ ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSLC", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 14000, 
+      "altitudeHi2": 24000, 
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCZ WA 271445 \nAIRMET ZULU UPDT 2 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET ICE...AZ NM \nFROM 50SE BCE TO 30NNE ABQ TO 50NE ELP TO ELP TO 50S SSO TO 20NNE \nDRK TO 50SE BCE \nMOD ICE BTN 140 AND FL240. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z...ICE UT CO AZ NM \nBOUNDED BY 50SW MTU-50S DVC-30NNE ABQ-50NE ELP-ELP-50SSE SSO-20N \nDRK-60N PGS-50WSW DTA-50SW MTU \nMOD ICE BTN 140 AND FL240. CONDS CONTG THRU 03Z. \nFRZLVL...RANGING FROM 075-135 ACRS AREA \n 120 ALG 40W OAL-70SW BAM-30S REO \n 120 ALG 20SSW YXC-40ENE FCA-40NNW GLD"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-111.56,37.10],[-106.58,35.50],[-105.58,32.41],[-106.28,31.82],
+        [-109.26,31.43],[-112.32,35.01],[-111.56,37.10] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KDFW", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T20:45:00Z", 
+      "severity": "1", 
+      "rawAirSigmet": "WAUS44 KKCI 271445 \nDFWZ WA 271445 \nAIRMET ZULU UPDT 2 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET NO SGFNT ICE EXP OUTSIDE OF CNVTV ACT. \n \nFRZLVL...RANGING FROM 085-140 ACRS AREA \n 120 ALG 40E LBL-40ENE SJT-30SE JCT-30SSW SAT-120SE PSX"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [ ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KMIA", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T20:45:00Z", 
+      "severity": "1", 
+      "rawAirSigmet": "WAUS42 KKCI 271445 \nMIAZ WA 271445 \nAIRMET ZULU UPDT 2 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET NO SGFNT ICE EXP OUTSIDE OF CNVTV ACT. \n \nFRZLVL...RANGING FROM 090-135 ACRS AREA \n 120 ALG 130ESE LEV-100S CEW-80SW TLH-50W CTY-40NNW PIE-20WNW \n ORL-220SSE ILM"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [ ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSFO", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 7000, 
+      "altitudeLow2": 12000, 
+      "altitudeHi2": 21000, 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOZ WA 271445 \nAIRMET ZULU UPDT 2 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET ICE...WA OR CA AND CSTL WTRS \nFROM 50WNW TOU TO 40ENE BTG TO 20WNW BKE TO 60NW REO TO 80ENE RBL \nTO 70SSE OED TO 30WNW OED TO 160WSW ONP TO 140W TOU TO 50WNW TOU \nMOD ICE BTN FRZLVL AND FL210. FRZLVL 070-120. CONDS CONTG BYD 21Z \nTHRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...ICE WA OR CA AND CSTL WTRS \nBOUNDED BY 160WNW ONP-40SW BTG-70NE LKV-20NNE LKV-80NNW \nFMG-120WSW PYE-140WSW FOT-160WNW ONP \nMOD ICE BTN FRZLVL AND 150. FRZLVL 050-080. CONDS CONTG THRU 03Z. \nAREA 2...ICE WA OR AND CSTL WTRS \nBOUNDED BY 60WNW TOU-20SSE TOU-20NE YKM-30ESE PDT-70NE LKV-40SW \nBTG-160WNW ONP-140W TOU-60WNW TOU \nMOD ICE BTN FRZLVL AND FL200. FRZLVL 070-120. CONDS CONTG THRU \n03Z. \nFRZLVL...RANGING FROM 050-135 ACRS AREA \n 080 ALG 140SW PYE-110SSW PYE-20WSW SAC-60SE RBL-40WSW LKV- \n 40WSW DSD-160W HQM \n 120 ALG 150WSW RZS-40SSE CZQ-50ENE CZQ-40W OAL \n 120 ALG 30S REO-40NNW REO-40E SEA-40SSE HUH-20NE HUH"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-125.80,48.61],[-121.71,46.00],[-118.24,44.97],[-118.84,43.29],
+        [-120.62,40.60],[-122.31,41.40],[-123.54,42.67],[-127.45,43.51],
+        [-128.13,48.25],[-125.80,48.61] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSFO", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "ICE", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 5000, 
+      "altitudeHi2": 15000, 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOZ WA 271445 \nAIRMET ZULU UPDT 2 FOR ICE AND FRZLVL VALID UNTIL 272100 \nAIRMET ICE...OR CA AND CSTL WTRS \nFROM 160WSW ONP TO 30WNW OED TO 70SSE OED TO 40S RBL TO 120WSW \nPYE TO 140WSW FOT TO 160WSW ONP \nMOD ICE BTN 050 AND 150. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...ICE WA OR CA AND CSTL WTRS \nBOUNDED BY 160WNW ONP-40SW BTG-70NE LKV-20NNE LKV-80NNW \nFMG-120WSW PYE-140WSW FOT-160WNW ONP \nMOD ICE BTN FRZLVL AND 150. FRZLVL 050-080. CONDS CONTG THRU 03Z. \nAREA 2...ICE WA OR AND CSTL WTRS \nBOUNDED BY 60WNW TOU-20SSE TOU-20NE YKM-30ESE PDT-70NE LKV-40SW \nBTG-160WNW ONP-140W TOU-60WNW TOU \nMOD ICE BTN FRZLVL AND FL200. FRZLVL 070-120. CONDS CONTG THRU \n03Z. \nFRZLVL...RANGING FROM 050-135 ACRS AREA \n 080 ALG 140SW PYE-110SSW PYE-20WSW SAC-60SE RBL-40WSW LKV- \n 40WSW DSD-160W HQM \n 120 ALG 150WSW RZS-40SSE CZQ-50ENE CZQ-40W OAL \n 120 ALG 30S REO-40NNW REO-40E SEA-40SSE HUH-20NE HUH"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-127.45,43.51],[-123.54,42.67],[-122.31,41.40],[-122.24,39.44],
+        [-125.19,37.29],[-127.03,39.75],[-127.45,43.51] ] ]
     } 
   },
   { "type": "Feature",
@@ -140,10 +311,10 @@
       "icaoId": "KSLC", 
       "airSigmetType": "AIRMET", 
       "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T02:45:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T20:45:00Z", 
       "severity": "1", 
-      "rawAirSigmet": "WAUS45 KKCI 262045 \nSLCS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR VALID UNTIL 270300 \nAIRMET NO SGFNT IFR EXP OUTSIDE OF CNVTV ACT. \n"
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCS WA 271445 \nAIRMET SIERRA UPDT 2 FOR IFR VALID UNTIL 272100 \nAIRMET NO SGFNT IFR EXP OUTSIDE OF CNVTV ACT. \n"
     },
     "geometry": {
       "type": "Polygon",
@@ -156,10 +327,10 @@
       "icaoId": "KSLC", 
       "airSigmetType": "AIRMET", 
       "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T02:45:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T20:45:00Z", 
       "severity": "1", 
-      "rawAirSigmet": "WAUS45 KKCI 262045 \nSLCS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR VALID UNTIL 270300 \nAIRMET NO SGFNT IFR EXP OUTSIDE OF CNVTV ACT. \n"
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCS WA 271445 \nAIRMET SIERRA UPDT 2 FOR IFR VALID UNTIL 272100 \nAIRMET NO SGFNT IFR EXP OUTSIDE OF CNVTV ACT. \n"
     },
     "geometry": {
       "type": "Polygon",
@@ -169,43 +340,151 @@
   },
   { "type": "Feature",
     "properties": {
-      "icaoId": "KMIA", 
+      "icaoId": "KSFO", 
       "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS42 KKCI 262045 \nMIAT WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...NC SC GA FL AND CSTL WTRS \nFROM 50SE LYH TO 40W ILM TO 70SSE CHS TO 50ENE CRG TO 20NW CRG \nTO 50SE CTY TO 80SSW CEW TO 40W CEW TO 50SW PZD TO GQO TO 30SSW \nVXV TO 40WNW SPA TO 30SSW PSK TO 50SE LYH \nMOD TURB BLW FL180. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z...TURB NC SC GA NY NJ WV MD DC DE VA AND \nCSTL WTRS \nBOUNDED BY 30WNW EMI-90S HTO-90SE ECG-100SE SAV-50ENE CRG-50SW \nPZD-GQO-30NNE ODF-40SSW PSK-40SSW LYH-50W CSN-30WNW EMI \nMOD TURB BTN 030 AND FL180. CONDS CONTG THRU 09Z."
+      "hazard": "MTN OBSCN", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "0", 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOS WA 271445 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 272100 \nAIRMET MTN OBSCN...WA OR CA \nFROM 30S HUH TO 50SW DSD TO 20N FOT TO HQM TO 20WNW TOU TO 30S \nHUH \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 21Z THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-78.49,36.66],[-78.68,34.35],[-79.51,31.81],[-80.61,30.66],
-        [-81.78,30.57],[-82.37,29.01],[-87.27,29.60],[-87.45,30.83],
-        [-84.98,31.07],[-85.15,34.96],[-84.13,35.44],[-82.68,35.28],
-        [-80.95,36.62],[-78.49,36.66] ] ]
+        [[-122.58,48.45],[-122.12,43.66],[-124.23,41.00],[-124.15,46.95],
+        [-125.09,48.43],[-122.58,48.45] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
-      "icaoId": "KMIA", 
+      "icaoId": "KSFO", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "MTN OBSCN", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "0", 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOS WA 271445 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 272100 \nAIRMET MTN OBSCN...OR CA \nFROM 60SSW OED TO 20S RBL TO 20W SAC TO 30WSW EHF TO 50WNW TRM \nTO 50ESE MZB TO 20S MZB TO LAX TO 50W RZS TO 20WSW ENI TO 20NNW \nFOT TO 60SSW OED \nMTNS OBSC BY CLDS/BR. CONDS CONTG BYD 21Z THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-123.42,41.56],[-122.24,39.77],[-121.97,38.44],[-119.67,35.29],
+        [-117.09,33.95],[-116.32,32.46],[-117.23,32.45],[-118.43,33.93],
+        [-120.78,34.51],[-123.66,38.92],[-124.40,40.98],[-123.42,41.56] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSFO", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "MTN OBSCN", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "0", 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOS WA 271445 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 272100 \nAIRMET MTN OBSCN...CA \nFROM 50SSE OED TO 60N FMG TO 20SW FMG TO 60W BTY TO 30NE EHF TO \n30ESE SAC TO 50SSE OED \nMTNS OBSC BY CLDS/BR. CONDS ENDG 18-21Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-122.48,41.71],[-119.66,40.53],[-119.96,39.29],[-118.00,36.79],
+        [-118.66,35.83],[-120.96,38.25],[-122.48,41.71] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSFO", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "IFR", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "0", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 1000, 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOS WA 271445 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 272100 \nAIRMET IFR...WA OR CA AND CSTL WTRS \nFROM 50SW YDC TO OED TO 60NNW FOT TO 70S HQM TO 20WNW TOU TO \n50SW YDC \nCIG BLW 010/VIS BLW 3SM BR/FG. CONDS ENDG 18-21Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-121.42,48.88],[-122.91,42.48],[-124.74,41.59],[-124.15,45.78],
+        [-125.09,48.43],[-121.42,48.88] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KDFW", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
-      "altitudeLow1": 20000, 
+      "altitudeLow1": 24000, 
       "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS42 KKCI 262045 \nMIAT WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...NC SC GA FL AND CSTL WTRS \nFROM 30W ORF TO 30W ILM TO 60ESE CHS TO 50NE OMN TO 20WNW CTY TO \n50W TLH TO 20ENE CEW TO 50SW PZD TO GQO TO HMV TO 30W ORF \nMOD TURB BTN FL200 AND FL400. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z...TURB NC SC GA NY NJ WV MD DC DE VA AND \nCSTL WTRS \nBOUNDED BY 30WNW EMI-90S HTO-90SE ECG-100SE SAV-50ENE CRG-50SW \nPZD-GQO-30NNE ODF-40SSW PSK-40SSW LYH-50W CSN-30WNW EMI \nMOD TURB BTN 030 AND FL180. CONDS CONTG THRU 09Z."
+      "rawAirSigmet": "WAUS44 KKCI 271445 \nDFWT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB VALID UNTIL 272100 \nAIRMET TURB...OK TX AR TN LA MS AL AND CSTL WTRS \nFROM 30NNE ARG TO HMV TO GQO TO 40SSE LGC TO 50SW CEW TO 30NW \nSJI TO 30NE LSU TO 60ESE TTT TO 60SSE MLC TO 30NNE ARG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG BYD 21Z THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-76.83,36.89],[-78.48,34.35],[-78.95,32.50],[-80.43,29.89],
-        [-83.40,29.73],[-85.34,30.56],[-86.32,30.96],[-84.98,31.07],
-        [-85.15,34.96],[-82.13,36.44],[-76.83,36.89] ] ]
+        [[-90.71,36.57],[-82.13,36.44],[-85.15,34.96],[-84.91,32.44],
+        [-87.36,30.24],[-88.78,31.09],[-90.89,30.84],[-95.95,32.48],
+        [-95.32,33.93],[-90.71,36.57] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KDFW", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 40000, 
+      "rawAirSigmet": "WAUS44 KKCI 271445 \nDFWT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB VALID UNTIL 272100 \nAIRMET TURB...OK TX AR TN LA MS AL AND CSTL WTRS \nFROM 30NNE ARG TO HMV TO GQO TO 40SSE LGC TO 50SW CEW TO 30NW \nSJI TO 30NE LSU TO 60ESE TTT TO 60SSE MLC TO 30NNE ARG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG BYD 21Z THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-90.71,36.57],[-82.13,36.44],[-85.15,34.96],[-84.91,32.44],
+        [-87.36,30.24],[-88.78,31.09],[-90.89,30.84],[-95.95,32.48],
+        [-95.32,33.93],[-90.71,36.57] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KDFW", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 9000, 
+      "rawAirSigmet": "WAUS44 KKCI 271445 \nDFWT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB VALID UNTIL 272100 \nAIRMET TURB...TX \nFROM 70W INK TO 100SE MRF TO 90S MRF TO ELP TO 70W INK \nMOD TURB BLW 090. CONDS ENDG BY 18Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-104.61,31.86],[-102.60,29.12],[-103.95,28.80],[-106.28,31.82],
+        [-104.61,31.86] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KDFW", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 9000, 
+      "rawAirSigmet": "WAUS44 KKCI 271445 \nDFWT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB VALID UNTIL 272100 \nAIRMET TURB...TX \nFROM 70W INK TO 100SE MRF TO 90S MRF TO ELP TO 70W INK \nMOD TURB BLW 090. CONDS ENDG BY 18Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-104.61,31.86],[-102.60,29.12],[-103.95,28.80],[-106.28,31.82],
+        [-104.61,31.86] ] ]
     } 
   },
   { "type": "Feature",
@@ -213,57 +492,41 @@
       "icaoId": "KMIA", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
-      "altitudeLow1": 20000, 
+      "altitudeLow1": 24000, 
       "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS42 KKCI 262045 \nMIAT WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...NC SC GA FL AND CSTL WTRS \nFROM 30W ORF TO 30W ILM TO 60ESE CHS TO 50NE OMN TO 20WNW CTY TO \n50W TLH TO 20ENE CEW TO 50SW PZD TO GQO TO HMV TO 30W ORF \nMOD TURB BTN FL200 AND FL400. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z...TURB NC SC GA NY NJ WV MD DC DE VA AND \nCSTL WTRS \nBOUNDED BY 30WNW EMI-90S HTO-90SE ECG-100SE SAV-50ENE CRG-50SW \nPZD-GQO-30NNE ODF-40SSW PSK-40SSW LYH-50W CSN-30WNW EMI \nMOD TURB BTN 030 AND FL180. CONDS CONTG THRU 09Z."
+      "rawAirSigmet": "WAUS42 KKCI 271445 \nMIAT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB VALID UNTIL 272100 \nAIRMET TURB...NC SC GA OH LE WV VA \nFROM 30SE ECK TO 20NNW ERI TO 30S AIR TO 50WNW CSN TO 20E CLT TO \n30SSE ATL TO 40SSE LGC TO GQO TO HMV TO HNN TO CVG TO FWA TO \n30SE ECK \nMOD TURB BTN FL240 AND FL400. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB NC SC GA FL NY NJ PA OH LE WV MD DC DE VA AND CSTL \nWTRS \nBOUNDED BY 20S YYZ-30SW PSB-30SSW CYN-60E ORF-60SE CHS-40SE PZD- \n90SSE SJI-40W CEW-50SW PZD-GQO-HMV-HNN-CVG-FWA-40ESE ECK-20S YYZ \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 03Z. \nAREA 2...TURB SC GA FL AND CSTL WTRS \nBOUNDED BY 130SSE ILM-180E PBI-70ENE PBI-90SE MIA-90W EYW-90WSW \nPIE-170SE LEV-130ESE LEV-90SSE SJI-40SE PZD-60SE CHS-130SSE ILM \nMOD TURB BTN FL280 AND FL410. CONDS CONTG THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-76.83,36.89],[-78.48,34.35],[-78.95,32.50],[-80.43,29.89],
-        [-83.40,29.73],[-85.34,30.56],[-86.32,30.96],[-84.98,31.07],
-        [-85.15,34.96],[-82.13,36.44],[-76.83,36.89] ] ]
+        [[-82.23,42.90],[-80.47,42.33],[-80.82,39.52],[-78.86,38.96],
+        [-80.52,35.22],[-84.21,33.16],[-84.91,32.44],[-85.15,34.96],
+        [-82.13,36.44],[-82.03,38.75],[-84.70,39.02],[-85.19,40.98],
+        [-82.23,42.90] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
-      "icaoId": "KCHI", 
+      "icaoId": "KMIA", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 8000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...MN IA WI LM LS MI \nFROM 20WNW DLH TO 40NNE GRB TO 60SSE IOW TO 20NW OVR TO 20WNW DLH \nMOD TURB BLW 080. CONDS ENDG 21-00Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB ND SD NE KS MN IA MO WI LM LS MI LH IL IN OK TX AR \nLA \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB ND SD MN WI LS \nBOUNDED BY 50NNW ISN-80WNW YQT-40NW EAU-40SSW RWF-30NW FSD-40ENE \nDPR-20N DIK-50NNW ISN \nMOD TURB BTN 050 AND FL180. CONDS CONTG THRU 09Z."
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 40000, 
+      "rawAirSigmet": "WAUS42 KKCI 271445 \nMIAT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB VALID UNTIL 272100 \nAIRMET TURB...NC SC GA OH LE WV VA \nFROM 30SE ECK TO 20NNW ERI TO 30S AIR TO 50WNW CSN TO 20E CLT TO \n30SSE ATL TO 40SSE LGC TO GQO TO HMV TO HNN TO CVG TO FWA TO \n30SE ECK \nMOD TURB BTN FL240 AND FL400. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB NC SC GA FL NY NJ PA OH LE WV MD DC DE VA AND CSTL \nWTRS \nBOUNDED BY 20S YYZ-30SW PSB-30SSW CYN-60E ORF-60SE CHS-40SE PZD- \n90SSE SJI-40W CEW-50SW PZD-GQO-HMV-HNN-CVG-FWA-40ESE ECK-20S YYZ \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 03Z. \nAREA 2...TURB SC GA FL AND CSTL WTRS \nBOUNDED BY 130SSE ILM-180E PBI-70ENE PBI-90SE MIA-90W EYW-90WSW \nPIE-170SE LEV-130ESE LEV-90SSE SJI-40SE PZD-60SE CHS-130SSE ILM \nMOD TURB BTN FL280 AND FL410. CONDS CONTG THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-92.65,46.93],[-87.83,45.17],[-91.11,40.60],[-96.05,41.40],
-        [-92.65,46.93] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 8000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...MN IA WI LM LS MI \nFROM 20WNW DLH TO 40NNE GRB TO 60SSE IOW TO 20NW OVR TO 20WNW DLH \nMOD TURB BLW 080. CONDS ENDG 21-00Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB ND SD NE KS MN IA MO WI LM LS MI LH IL IN OK TX AR \nLA \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB ND SD MN WI LS \nBOUNDED BY 50NNW ISN-80WNW YQT-40NW EAU-40SSW RWF-30NW FSD-40ENE \nDPR-20N DIK-50NNW ISN \nMOD TURB BTN 050 AND FL180. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-92.65,46.93],[-87.83,45.17],[-91.11,40.60],[-96.05,41.40],
-        [-92.65,46.93] ] ]
+        [[-82.23,42.90],[-80.47,42.33],[-80.82,39.52],[-78.86,38.96],
+        [-80.52,35.22],[-84.21,33.16],[-84.91,32.44],[-85.15,34.96],
+        [-82.13,36.44],[-82.03,38.75],[-84.70,39.02],[-85.19,40.98],
+        [-82.23,42.90] ] ]
     } 
   },
   { "type": "Feature",
@@ -271,20 +534,20 @@
       "icaoId": "KDFW", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...OK TX KS \nFROM 40NNW GLD TO 20SE MCK TO 60WSW SLN TO 60WSW ICT TO 60NNW \nSPS TO 50SW SJT TO 20SSE FST TO 50SW MRF TO ELP TO INK TO 30ESE \nTBE TO 50W LBL TO GLD TO 40NNW GLD \nMOD TURB BLW FL180. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OK TX AR LA ND SD NE KS MN IA MO WI LM LS MI LH IL \nIN \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB TX AND CSTL WTRS \nBOUNDED BY TXO-30ENE CWK-60ESE PSX-40W BRO-90W BRO-DLF-90S MRF- \nELP-INK-TXO \nMOD TURB BTN FL280 AND FL420. CONDS CONTG THRU 09Z."
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 41000, 
+      "rawAirSigmet": "WAUS44 KKCI 271445 \nDFWT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB VALID UNTIL 272100 \nAIRMET TURB...TX LA AND CSTL WTRS \nFROM 50SSW TXO TO 20E LBB TO 50SW TTT TO 50W GGG TO 40SW MCB TO \n70SSE LEV TO 120SSW LCH TO 80E BRO TO 90W BRO TO 40SSW LRD TO \nDLF TO 90S MRF TO ELP TO INK TO 50SSW TXO \nMOD TURB BTN FL240 AND FL410. CONDS CONTG BYD 21Z THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-102.02,40.00],[-100.28,39.96],[-98.80,38.54],[-98.74,37.36],
-        [-99.06,34.91],[-101.15,30.79],[-102.83,30.64],[-104.63,29.71],
-        [-106.28,31.82],[-103.24,31.87],[-103.02,37.08],[-102.02,37.04],
-        [-101.69,39.39],[-102.02,40.00] ] ]
+        [[-103.22,33.73],[-101.52,33.70],[-97.74,32.28],[-95.74,32.42],
+        [-90.81,30.83],[-89.59,28.10],[-93.98,28.29],[-95.90,25.91],
+        [-99.05,25.91],[-99.71,26.87],[-100.77,29.36],[-103.95,28.80],
+        [-106.28,31.82],[-103.24,31.87],[-103.22,33.73] ] ]
     } 
   },
   { "type": "Feature",
@@ -292,283 +555,60 @@
       "icaoId": "KDFW", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...OK TX KS \nFROM 40NNW GLD TO 20SE MCK TO 60WSW SLN TO 60WSW ICT TO 60NNW \nSPS TO 50SW SJT TO 20SSE FST TO 50SW MRF TO ELP TO INK TO 30ESE \nTBE TO 50W LBL TO GLD TO 40NNW GLD \nMOD TURB BLW FL180. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OK TX AR LA ND SD NE KS MN IA MO WI LM LS MI LH IL \nIN \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB TX AND CSTL WTRS \nBOUNDED BY TXO-30ENE CWK-60ESE PSX-40W BRO-90W BRO-DLF-90S MRF- \nELP-INK-TXO \nMOD TURB BTN FL280 AND FL420. CONDS CONTG THRU 09Z."
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 41000, 
+      "rawAirSigmet": "WAUS44 KKCI 271445 \nDFWT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB VALID UNTIL 272100 \nAIRMET TURB...TX LA AND CSTL WTRS \nFROM 50SSW TXO TO 20E LBB TO 50SW TTT TO 50W GGG TO 40SW MCB TO \n70SSE LEV TO 120SSW LCH TO 80E BRO TO 90W BRO TO 40SSW LRD TO \nDLF TO 90S MRF TO ELP TO INK TO 50SSW TXO \nMOD TURB BTN FL240 AND FL410. CONDS CONTG BYD 21Z THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-102.02,40.00],[-100.28,39.96],[-98.80,38.54],[-98.74,37.36],
-        [-99.06,34.91],[-101.15,30.79],[-102.83,30.64],[-104.63,29.71],
-        [-106.28,31.82],[-103.24,31.87],[-103.02,37.08],[-102.02,37.04],
-        [-101.69,39.39],[-102.02,40.00] ] ]
+        [[-103.22,33.73],[-101.52,33.70],[-97.74,32.28],[-95.74,32.42],
+        [-90.81,30.83],[-89.59,28.10],[-93.98,28.29],[-95.90,25.91],
+        [-99.05,25.91],[-99.71,26.87],[-100.77,29.36],[-103.95,28.80],
+        [-106.28,31.82],[-103.24,31.87],[-103.22,33.73] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
-      "icaoId": "KCHI", 
+      "icaoId": "KMIA", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 5000, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...ND MN \nFROM 70NNW ISN TO 50NW INL TO 30SSW BJI TO 50WSW FAR TO 40ENE \nDIK TO 70NNW ISN \nMOD TURB BTN 050 AND FL180. CONDS DVLPG 00-03Z. CONDS CONTG BYD \n03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB ND SD NE KS MN IA MO WI LM LS MI LH IL IN OK TX AR \nLA \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB ND SD MN WI LS \nBOUNDED BY 50NNW ISN-80WNW YQT-40NW EAU-40SSW RWF-30NW FSD-40ENE \nDPR-20N DIK-50NNW ISN \nMOD TURB BTN 050 AND FL180. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-104.31,49.26],[-94.30,49.16],[-95.30,47.11],[-97.97,46.42],
-        [-101.87,47.11],[-104.31,49.26] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KSLC", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS45 KKCI 262045 \nSLCT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...CO NM \nFROM 40NNW GLD TO GLD TO 50W LBL TO 30ESE TBE TO INK TO ELP TO \n50NE SJN TO 30SSE ALS TO 40S AKO TO 40NNW GLD \nMOD TURB BLW FL180. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB CO AZ NM \nBOUNDED BY 40ESE LAA-50W LBL-30ESE TBE-INK-ELP-60S SSO-50NE TUS- \n60S ABQ-50W TBE-40ESE LAA \nMOD TURB BLW FL180. CONDS CONTG THRU 09Z. \nAREA 2...TURB NV CA AND CSTL WTRS \nBOUNDED BY 50NE FOT-100SSE LKV-40WNW OAL-30ENE CZQ-70WNW RZS- \n150WSW RZS-120WSW PYE-40SW FOT-50NE FOT \nMOD TURB BLW 150. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-102.02,40.00],[-101.69,39.39],[-102.02,37.04],[-103.02,37.08],
-        [-103.24,31.87],[-106.28,31.82],[-108.42,35.01],[-105.58,36.88],
-        [-103.18,39.50],[-102.02,40.00] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KDFW", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...TN MS AL AND CSTL WTRS \nFROM 70ESE DYR TO 30SSW VXV TO GQO TO 50SW PZD TO 40W CEW TO \n80SSW CEW TO 20W SJI TO 30SSE MHZ TO 20E SQS TO 70ESE DYR \nMOD TURB BLW FL180. CONDS ENDG BY 03Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OK TX AR LA ND SD NE KS MN IA MO WI LM LS MI LH IL \nIN \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB TX AND CSTL WTRS \nBOUNDED BY TXO-30ENE CWK-60ESE PSX-40W BRO-90W BRO-DLF-90S MRF- \nELP-INK-TXO \nMOD TURB BTN FL280 AND FL420. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-87.99,35.57],[-84.13,35.44],[-85.15,34.96],[-84.98,31.07],
-        [-87.45,30.83],[-87.27,29.60],[-88.75,30.73],[-89.87,31.96],
-        [-89.88,33.46],[-87.99,35.57] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KSLC", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS45 KKCI 262045 \nSLCT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...CO NM \nFROM 40NNW GLD TO GLD TO 50W LBL TO 30ESE TBE TO INK TO ELP TO \n50NE SJN TO 30SSE ALS TO 40S AKO TO 40NNW GLD \nMOD TURB BLW FL180. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB CO AZ NM \nBOUNDED BY 40ESE LAA-50W LBL-30ESE TBE-INK-ELP-60S SSO-50NE TUS- \n60S ABQ-50W TBE-40ESE LAA \nMOD TURB BLW FL180. CONDS CONTG THRU 09Z. \nAREA 2...TURB NV CA AND CSTL WTRS \nBOUNDED BY 50NE FOT-100SSE LKV-40WNW OAL-30ENE CZQ-70WNW RZS- \n150WSW RZS-120WSW PYE-40SW FOT-50NE FOT \nMOD TURB BLW 150. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-102.02,40.00],[-101.69,39.39],[-102.02,37.04],[-103.02,37.08],
-        [-103.24,31.87],[-106.28,31.82],[-108.42,35.01],[-105.58,36.88],
-        [-103.18,39.50],[-102.02,40.00] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 5000, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...ND MN \nFROM 70NNW ISN TO 50NW INL TO 30SSW BJI TO 50WSW FAR TO 40ENE \nDIK TO 70NNW ISN \nMOD TURB BTN 050 AND FL180. CONDS DVLPG 00-03Z. CONDS CONTG BYD \n03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB ND SD NE KS MN IA MO WI LM LS MI LH IL IN OK TX AR \nLA \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB ND SD MN WI LS \nBOUNDED BY 50NNW ISN-80WNW YQT-40NW EAU-40SSW RWF-30NW FSD-40ENE \nDPR-20N DIK-50NNW ISN \nMOD TURB BTN 050 AND FL180. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-104.31,49.26],[-94.30,49.16],[-95.30,47.11],[-97.97,46.42],
-        [-101.87,47.11],[-104.31,49.26] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KDFW", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...TN MS AL AND CSTL WTRS \nFROM 70ESE DYR TO 30SSW VXV TO GQO TO 50SW PZD TO 40W CEW TO \n80SSW CEW TO 20W SJI TO 30SSE MHZ TO 20E SQS TO 70ESE DYR \nMOD TURB BLW FL180. CONDS ENDG BY 03Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OK TX AR LA ND SD NE KS MN IA MO WI LM LS MI LH IL \nIN \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB TX AND CSTL WTRS \nBOUNDED BY TXO-30ENE CWK-60ESE PSX-40W BRO-90W BRO-DLF-90S MRF- \nELP-INK-TXO \nMOD TURB BTN FL280 AND FL420. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-87.99,35.57],[-84.13,35.44],[-85.15,34.96],[-84.98,31.07],
-        [-87.45,30.83],[-87.27,29.60],[-88.75,30.73],[-89.87,31.96],
-        [-89.88,33.46],[-87.99,35.57] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...KS OK TX \nFROM 40NNW GLD TO 20SE MCK TO 60WSW SLN TO 60WSW ICT TO 60NNW \nSPS TO 50SW SJT TO 20SSE FST TO 50SW MRF TO ELP TO INK TO 30ESE \nTBE TO 50W LBL TO GLD TO 40NNW GLD \nMOD TURB BLW FL180. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB ND SD NE KS MN IA MO WI LM LS MI LH IL IN OK TX AR \nLA \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB ND SD MN WI LS \nBOUNDED BY 50NNW ISN-80WNW YQT-40NW EAU-40SSW RWF-30NW FSD-40ENE \nDPR-20N DIK-50NNW ISN \nMOD TURB BTN 050 AND FL180. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-102.02,40.00],[-100.28,39.96],[-98.80,38.54],[-98.74,37.36],
-        [-99.06,34.91],[-101.15,30.79],[-102.83,30.64],[-104.63,29.71],
-        [-106.28,31.82],[-103.24,31.87],[-103.02,37.08],[-102.02,37.04],
-        [-101.69,39.39],[-102.02,40.00] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KSLC", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
       "altitudeLow1": 28000, 
-      "altitudeHi2": 42000, 
-      "rawAirSigmet": "WAUS45 KKCI 262045 \nSLCT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...NV AZ NM CA AND CSTL WTRS \nFROM 20S RSK TO 70SE ABQ TO 20NW TXO TO INK TO ELP TO 50S TUS TO \nBZA TO 20S MZB TO 220SW MZB TO 190SSW RZS TO HEC TO 20S RSK \nMOD TURB BTN FL280 AND FL420. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB CO AZ NM \nBOUNDED BY 40ESE LAA-50W LBL-30ESE TBE-INK-ELP-60S SSO-50NE TUS- \n60S ABQ-50W TBE-40ESE LAA \nMOD TURB BLW FL180. CONDS CONTG THRU 09Z. \nAREA 2...TURB NV CA AND CSTL WTRS \nBOUNDED BY 50NE FOT-100SSE LKV-40WNW OAL-30ENE CZQ-70WNW RZS- \n150WSW RZS-120WSW PYE-40SW FOT-50NE FOT \nMOD TURB BLW 150. CONDS CONTG THRU 09Z."
+      "altitudeHi2": 41000, 
+      "rawAirSigmet": "WAUS42 KKCI 271445 \nMIAT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB VALID UNTIL 272100 \nAIRMET TURB...GA FL AND CSTL WTRS \nFROM 200SSE ILM TO 170E PBI TO 70ENE PBI TO 150SE MIA TO 80WSW \nEYW TO 110WNW EYW TO 90WSW PIE TO 170SE LEV TO 110SSE SJI TO \n80WSW CTY TO 30NNW CRG TO 200SSE ILM \nMOD TURB BTN FL280 AND FL410. CONDS DVLPG 15-18Z. CONDS CONTG \nBYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB NC SC GA FL NY NJ PA OH LE WV MD DC DE VA AND CSTL \nWTRS \nBOUNDED BY 20S YYZ-30SW PSB-30SSW CYN-60E ORF-60SE CHS-40SE PZD- \n90SSE SJI-40W CEW-50SW PZD-GQO-HMV-HNN-CVG-FWA-40ESE ECK-20S YYZ \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 03Z. \nAREA 2...TURB SC GA FL AND CSTL WTRS \nBOUNDED BY 130SSE ILM-180E PBI-70ENE PBI-90SE MIA-90W EYW-90WSW \nPIE-170SE LEV-130ESE LEV-90SSE SJI-40SE PZD-60SE CHS-130SSE ILM \nMOD TURB BTN FL280 AND FL410. CONDS CONTG THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-108.10,36.42],[-105.82,34.21],[-103.13,34.73],[-103.24,31.87],
-        [-106.28,31.82],[-110.92,31.26],[-114.60,32.77],[-117.23,32.45],
-        [-120.22,30.16],[-121.19,31.58],[-116.46,34.80],[-108.10,36.42] ] ]
+        [[-76.38,31.27],[-76.92,26.64],[-78.88,27.12],[-78.37,24.02],
+        [-83.15,24.08],[-83.67,25.28],[-84.24,27.33],[-87.85,27.16],
+        [-87.56,29.03],[-84.46,29.08],[-81.73,30.80],[-76.38,31.27] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
-      "icaoId": "KCHI", 
+      "icaoId": "KMIA", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...KS OK TX \nFROM 40NNW GLD TO 20SE MCK TO 60WSW SLN TO 60WSW ICT TO 60NNW \nSPS TO 50SW SJT TO 20SSE FST TO 50SW MRF TO ELP TO INK TO 30ESE \nTBE TO 50W LBL TO GLD TO 40NNW GLD \nMOD TURB BLW FL180. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB ND SD NE KS MN IA MO WI LM LS MI LH IL IN OK TX AR \nLA \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB ND SD MN WI LS \nBOUNDED BY 50NNW ISN-80WNW YQT-40NW EAU-40SSW RWF-30NW FSD-40ENE \nDPR-20N DIK-50NNW ISN \nMOD TURB BTN 050 AND FL180. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-102.02,40.00],[-100.28,39.96],[-98.80,38.54],[-98.74,37.36],
-        [-99.06,34.91],[-101.15,30.79],[-102.83,30.64],[-104.63,29.71],
-        [-106.28,31.82],[-103.24,31.87],[-103.02,37.08],[-102.02,37.04],
-        [-101.69,39.39],[-102.02,40.00] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KDFW", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 20000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...AR TN MS AL MO MI IL IN KY \nFROM 20ENE DXO TO FWA TO CVG TO HNN TO HMV TO GQO TO 50SW PZD TO \n20ENE CEW TO 30SSE SQS TO 30W ARG TO 40SW STL TO 20S GIJ TO \n20ENE DXO \nMOD TURB BTN FL200 AND FL400. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OK TX AR LA ND SD NE KS MN IA MO WI LM LS MI LH IL \nIN \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB TX AND CSTL WTRS \nBOUNDED BY TXO-30ENE CWK-60ESE PSX-40W BRO-90W BRO-DLF-90S MRF- \nELP-INK-TXO \nMOD TURB BTN FL280 AND FL420. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-82.95,42.34],[-85.19,40.98],[-84.70,39.02],[-82.03,38.75],
-        [-82.13,36.44],[-85.15,34.96],[-84.98,31.07],[-86.32,30.96],
-        [-90.05,32.99],[-91.57,36.11],[-91.08,38.39],[-86.32,41.44],
-        [-82.95,42.34] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KSLC", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
       "altitudeLow1": 28000, 
-      "altitudeHi2": 42000, 
-      "rawAirSigmet": "WAUS45 KKCI 262045 \nSLCT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...NV AZ NM CA AND CSTL WTRS \nFROM 20S RSK TO 70SE ABQ TO 20NW TXO TO INK TO ELP TO 50S TUS TO \nBZA TO 20S MZB TO 220SW MZB TO 190SSW RZS TO HEC TO 20S RSK \nMOD TURB BTN FL280 AND FL420. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB CO AZ NM \nBOUNDED BY 40ESE LAA-50W LBL-30ESE TBE-INK-ELP-60S SSO-50NE TUS- \n60S ABQ-50W TBE-40ESE LAA \nMOD TURB BLW FL180. CONDS CONTG THRU 09Z. \nAREA 2...TURB NV CA AND CSTL WTRS \nBOUNDED BY 50NE FOT-100SSE LKV-40WNW OAL-30ENE CZQ-70WNW RZS- \n150WSW RZS-120WSW PYE-40SW FOT-50NE FOT \nMOD TURB BLW 150. CONDS CONTG THRU 09Z."
+      "altitudeHi2": 41000, 
+      "rawAirSigmet": "WAUS42 KKCI 271445 \nMIAT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB VALID UNTIL 272100 \nAIRMET TURB...GA FL AND CSTL WTRS \nFROM 200SSE ILM TO 170E PBI TO 70ENE PBI TO 150SE MIA TO 80WSW \nEYW TO 110WNW EYW TO 90WSW PIE TO 170SE LEV TO 110SSE SJI TO \n80WSW CTY TO 30NNW CRG TO 200SSE ILM \nMOD TURB BTN FL280 AND FL410. CONDS DVLPG 15-18Z. CONDS CONTG \nBYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB NC SC GA FL NY NJ PA OH LE WV MD DC DE VA AND CSTL \nWTRS \nBOUNDED BY 20S YYZ-30SW PSB-30SSW CYN-60E ORF-60SE CHS-40SE PZD- \n90SSE SJI-40W CEW-50SW PZD-GQO-HMV-HNN-CVG-FWA-40ESE ECK-20S YYZ \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 03Z. \nAREA 2...TURB SC GA FL AND CSTL WTRS \nBOUNDED BY 130SSE ILM-180E PBI-70ENE PBI-90SE MIA-90W EYW-90WSW \nPIE-170SE LEV-130ESE LEV-90SSE SJI-40SE PZD-60SE CHS-130SSE ILM \nMOD TURB BTN FL280 AND FL410. CONDS CONTG THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-108.10,36.42],[-105.82,34.21],[-103.13,34.73],[-103.24,31.87],
-        [-106.28,31.82],[-110.92,31.26],[-114.60,32.77],[-117.23,32.45],
-        [-120.22,30.16],[-121.19,31.58],[-116.46,34.80],[-108.10,36.42] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KDFW", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 20000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...AR TN MS AL MO MI IL IN KY \nFROM 20ENE DXO TO FWA TO CVG TO HNN TO HMV TO GQO TO 50SW PZD TO \n20ENE CEW TO 30SSE SQS TO 30W ARG TO 40SW STL TO 20S GIJ TO \n20ENE DXO \nMOD TURB BTN FL200 AND FL400. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OK TX AR LA ND SD NE KS MN IA MO WI LM LS MI LH IL \nIN \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB TX AND CSTL WTRS \nBOUNDED BY TXO-30ENE CWK-60ESE PSX-40W BRO-90W BRO-DLF-90S MRF- \nELP-INK-TXO \nMOD TURB BTN FL280 AND FL420. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-82.95,42.34],[-85.19,40.98],[-84.70,39.02],[-82.03,38.75],
-        [-82.13,36.44],[-85.15,34.96],[-84.98,31.07],[-86.32,30.96],
-        [-90.05,32.99],[-91.57,36.11],[-91.08,38.39],[-86.32,41.44],
-        [-82.95,42.34] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 20000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...MO MI IL IN KY AR TN MS AL \nFROM 20ENE DXO TO FWA TO CVG TO HNN TO HMV TO GQO TO 50SW PZD TO \n20ENE CEW TO 30SSE SQS TO 30W ARG TO 40SW STL TO 20S GIJ TO \n20ENE DXO \nMOD TURB BTN FL200 AND FL400. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB ND SD NE KS MN IA MO WI LM LS MI LH IL IN OK TX AR \nLA \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB ND SD MN WI LS \nBOUNDED BY 50NNW ISN-80WNW YQT-40NW EAU-40SSW RWF-30NW FSD-40ENE \nDPR-20N DIK-50NNW ISN \nMOD TURB BTN 050 AND FL180. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-82.95,42.34],[-85.19,40.98],[-84.70,39.02],[-82.03,38.75],
-        [-82.13,36.44],[-85.15,34.96],[-84.98,31.07],[-86.32,30.96],
-        [-90.05,32.99],[-91.57,36.11],[-91.08,38.39],[-86.32,41.44],
-        [-82.95,42.34] ] ]
+        [[-76.38,31.27],[-76.92,26.64],[-78.88,27.12],[-78.37,24.02],
+        [-83.15,24.08],[-83.67,25.28],[-84.24,27.33],[-87.85,27.16],
+        [-87.56,29.03],[-84.46,29.08],[-81.73,30.80],[-76.38,31.27] ] ]
     } 
   },
   { "type": "Feature",
@@ -576,18 +616,96 @@
       "icaoId": "KSFO", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 15000, 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB STG WNDS AND LLWS VALID UNTIL 272100 \nAIRMET TURB...CA NV AND CSTL WTRS \nFROM 60ESE LKV TO 50E FMG TO OAL TO 50W BTY TO 50SE CZQ TO 80SW \nSNS TO 20SW ENI TO 40S OED TO 60ESE LKV \nMOD TURB BLW 150. CONDS CONTG BYD 21Z THRU 03Z. \nLLWS POTENTIAL...CA NV \nBOUNDED BY 80S LKV-50NE FMG-40W OAL-50ENE CZQ-30NNE MOD-60ESE \nRBL-40N RBL-80S LKV \nLLWS EXP. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB WA OR AND CSTL WTRS \nBOUNDED BY 110W HQM-20ESE HQM-40NE PDT-30S BKE-50SE REO-30SW LKV- \n30SE ONP-90W ONP-140WSW HQM-110W HQM \nMOD TURB BTN 140 AND FL180. CONDS CONTG THRU 03Z. \nAREA 2...STG SFC WNDS CA AND CSTL WTRS \nBOUNDED BY 80W RZS-30ESE RZS-70SSW LAX-120SSW RZS-80W RZS \nSUSTAINED SURFACE WINDS GTR THAN 30KT EXP. CONDS DVLPG 21-00Z. \nCONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-119.27,42.10],[-118.58,39.52],[-117.77,38.00],[-117.79,36.80],
+        [-119.09,36.29],[-122.76,35.71],[-123.57,38.81],[-122.91,41.82],
+        [-119.27,42.10] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSFO", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 15000, 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB STG WNDS AND LLWS VALID UNTIL 272100 \nAIRMET TURB...CA NV AND CSTL WTRS \nFROM 60ESE LKV TO 50E FMG TO OAL TO 50W BTY TO 50SE CZQ TO 80SW \nSNS TO 20SW ENI TO 40S OED TO 60ESE LKV \nMOD TURB BLW 150. CONDS CONTG BYD 21Z THRU 03Z. \nLLWS POTENTIAL...CA NV \nBOUNDED BY 80S LKV-50NE FMG-40W OAL-50ENE CZQ-30NNE MOD-60ESE \nRBL-40N RBL-80S LKV \nLLWS EXP. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB WA OR AND CSTL WTRS \nBOUNDED BY 110W HQM-20ESE HQM-40NE PDT-30S BKE-50SE REO-30SW LKV- \n30SE ONP-90W ONP-140WSW HQM-110W HQM \nMOD TURB BTN 140 AND FL180. CONDS CONTG THRU 03Z. \nAREA 2...STG SFC WNDS CA AND CSTL WTRS \nBOUNDED BY 80W RZS-30ESE RZS-70SSW LAX-120SSW RZS-80W RZS \nSUSTAINED SURFACE WINDS GTR THAN 30KT EXP. CONDS DVLPG 21-00Z. \nCONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-119.27,42.10],[-118.58,39.52],[-117.77,38.00],[-117.79,36.80],
+        [-119.09,36.29],[-122.76,35.71],[-123.57,38.81],[-122.91,41.82],
+        [-119.27,42.10] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSFO", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
       "altitudeLow1": 0, 
       "altitudeHi2": 12000, 
-      "rawAirSigmet": "WAUS46 KKCI 262045 \nSFOT WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...CA AND CSTL WTRS \nFROM RBL TO 50SW SNS TO 120SW PYE TO 40S FOT TO RBL \nMOD TURB BLW 120. CONDS DVLPG 00-03Z. CONDS CONTG BYD 03Z THRU \n09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OR CA AND CSTL WTRS \nBOUNDED BY 150NW FOT-70SE OED-40NW FMG-20NNE CZQ-40NW RZS-150WSW \nRZS-140WSW FOT-150NW FOT \nMOD TURB BTN FL240 AND FL370. CONDS CONTG THRU 09Z. \nAREA 2...TURB CA NV AND CSTL WTRS \nBOUNDED BY 50NE FOT-100SSE LKV-40WNW OAL-30ENE CZQ-70WNW RZS- \n150WSW RZS-120WSW PYE-40SW FOT-50NE FOT \nMOD TURB BLW 150. CONDS CONTG THRU 09Z."
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB STG WNDS AND LLWS VALID UNTIL 272100 \nAIRMET TURB...CA AND CSTL WTRS \nFROM 20SW BTY TO 20NW EED TO 50WNW TRM TO 60SSW RZS TO 50WNW RZS \nTO 40SSE EHF TO 20SW BTY \nMOD TURB BLW 120. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB WA OR AND CSTL WTRS \nBOUNDED BY 110W HQM-20ESE HQM-40NE PDT-30S BKE-50SE REO-30SW LKV- \n30SE ONP-90W ONP-140WSW HQM-110W HQM \nMOD TURB BTN 140 AND FL180. CONDS CONTG THRU 03Z. \nAREA 2...STG SFC WNDS CA AND CSTL WTRS \nBOUNDED BY 80W RZS-30ESE RZS-70SSW LAX-120SSW RZS-80W RZS \nSUSTAINED SURFACE WINDS GTR THAN 30KT EXP. CONDS DVLPG 21-00Z. \nCONDS CONTG THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-122.24,40.10],[-122.33,36.07],[-124.63,36.66],[-124.23,40.01],
-        [-122.24,40.10] ] ]
+        [[-117.04,36.56],[-114.76,35.00],[-117.09,33.95],[-120.23,33.59],
+        [-120.71,34.83],[-118.79,34.87],[-117.04,36.56] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSFO", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 12000, 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB STG WNDS AND LLWS VALID UNTIL 272100 \nAIRMET TURB...CA AND CSTL WTRS \nFROM 20SW BTY TO 20NW EED TO 50WNW TRM TO 60SSW RZS TO 50WNW RZS \nTO 40SSE EHF TO 20SW BTY \nMOD TURB BLW 120. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB WA OR AND CSTL WTRS \nBOUNDED BY 110W HQM-20ESE HQM-40NE PDT-30S BKE-50SE REO-30SW LKV- \n30SE ONP-90W ONP-140WSW HQM-110W HQM \nMOD TURB BTN 140 AND FL180. CONDS CONTG THRU 03Z. \nAREA 2...STG SFC WNDS CA AND CSTL WTRS \nBOUNDED BY 80W RZS-30ESE RZS-70SSW LAX-120SSW RZS-80W RZS \nSUSTAINED SURFACE WINDS GTR THAN 30KT EXP. CONDS DVLPG 21-00Z. \nCONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-117.04,36.56],[-114.76,35.00],[-117.09,33.95],[-120.23,33.59],
+        [-120.71,34.83],[-118.79,34.87],[-117.04,36.56] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSFO", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 14000, 
+      "altitudeHi2": 18000, 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB STG WNDS AND LLWS VALID UNTIL 272100 \nAIRMET TURB...WA OR AND CSTL WTRS \nFROM 40SSE HQM TO 50NNE DSD TO 50W REO TO 30ESE OED TO 50SSW ONP \nTO 120W ONP TO 40SSE HQM \nMOD TURB BTN 140 AND FL180. CONDS DVLPG 15-18Z. CONDS CONTG BYD \n21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB WA OR AND CSTL WTRS \nBOUNDED BY 110W HQM-20ESE HQM-40NE PDT-30S BKE-50SE REO-30SW LKV- \n30SE ONP-90W ONP-140WSW HQM-110W HQM \nMOD TURB BTN 140 AND FL180. CONDS CONTG THRU 03Z. \nAREA 2...STG SFC WNDS CA AND CSTL WTRS \nBOUNDED BY 80W RZS-30ESE RZS-70SSW LAX-120SSW RZS-80W RZS \nSUSTAINED SURFACE WINDS GTR THAN 30KT EXP. CONDS DVLPG 21-00Z. \nCONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-123.78,46.34],[-120.85,45.02],[-119.00,42.58],[-122.28,42.29],
+        [-124.50,43.81],[-126.86,44.55],[-123.78,46.34] ] ]
     } 
   },
   { "type": "Feature",
@@ -595,20 +713,178 @@
       "icaoId": "KCHI", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
-      "altitudeLow1": 20000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...MO MI IL IN KY AR TN MS AL \nFROM 20ENE DXO TO FWA TO CVG TO HNN TO HMV TO GQO TO 50SW PZD TO \n20ENE CEW TO 30SSE SQS TO 30W ARG TO 40SW STL TO 20S GIJ TO \n20ENE DXO \nMOD TURB BTN FL200 AND FL400. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB ND SD NE KS MN IA MO WI LM LS MI LH IL IN OK TX AR \nLA \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB ND SD MN WI LS \nBOUNDED BY 50NNW ISN-80WNW YQT-40NW EAU-40SSW RWF-30NW FSD-40ENE \nDPR-20N DIK-50NNW ISN \nMOD TURB BTN 050 AND FL180. CONDS CONTG THRU 09Z."
+      "altitudeLow1": 0, 
+      "altitudeHi2": 15000, 
+      "rawAirSigmet": "WAUS43 KKCI 271445 \nCHIT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...ND SD NE MN IA MO WI LM IL \nFROM 20NW BJI TO 30E MSP TO 60S RHI TO 20NE ORD TO 40SE BDF TO \n20E UIN TO 50S DSM TO 20N OVR TO 70ESE PIR TO 50S BIS TO 60SE \nMOT TO 20NW BJI \nMOD TURB BLW 150. CONDS CONTG BYD 21Z THRU 03Z. \nLLWS POTENTIAL...MN IA WI \nBOUNDED BY 30SSW EAU-40ESE ODI-50WNW DBQ-50SE FOD-40WNW DSM-50W \nFOD-50S RWF-40NW MCW-30SSW EAU \nLLWS EXP. CONDS ENDG 15-18Z. \nOTLK VALID 2100-0300Z...TURB SD MN IA MO WI LM MI IL IN \nBOUNDED BY 60NNW RWF-60S BRD-30SSW DLL-20ESE BAE-20ESE ORD-20ENE \nFWA-20WNW CVG-40WNW IIU-20S STL-40WSW IRK-30NNE OVR-70SSE ABR- \n60NNW RWF \nMOD TURB BLW 150. CONDS CONTG THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-82.95,42.34],[-85.19,40.98],[-84.70,39.02],[-82.03,38.75],
-        [-82.13,36.44],[-85.15,34.96],[-84.98,31.07],[-86.32,30.96],
-        [-90.05,32.99],[-91.57,36.11],[-91.08,38.39],[-86.32,41.44],
-        [-82.95,42.34] ] ]
+        [[-95.37,47.81],[-92.52,44.88],[-89.45,44.63],[-87.58,42.21],
+        [-88.97,40.69],[-90.85,39.85],[-93.65,40.60],[-95.74,41.50],
+        [-98.67,43.94],[-100.67,45.93],[-100.25,47.55],[-95.37,47.81] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSFO", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 14000, 
+      "altitudeHi2": 18000, 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB STG WNDS AND LLWS VALID UNTIL 272100 \nAIRMET TURB...WA OR AND CSTL WTRS \nFROM 40SSE HQM TO 50NNE DSD TO 50W REO TO 30ESE OED TO 50SSW ONP \nTO 120W ONP TO 40SSE HQM \nMOD TURB BTN 140 AND FL180. CONDS DVLPG 15-18Z. CONDS CONTG BYD \n21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB WA OR AND CSTL WTRS \nBOUNDED BY 110W HQM-20ESE HQM-40NE PDT-30S BKE-50SE REO-30SW LKV- \n30SE ONP-90W ONP-140WSW HQM-110W HQM \nMOD TURB BTN 140 AND FL180. CONDS CONTG THRU 03Z. \nAREA 2...STG SFC WNDS CA AND CSTL WTRS \nBOUNDED BY 80W RZS-30ESE RZS-70SSW LAX-120SSW RZS-80W RZS \nSUSTAINED SURFACE WINDS GTR THAN 30KT EXP. CONDS DVLPG 21-00Z. \nCONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-123.78,46.34],[-120.85,45.02],[-119.00,42.58],[-122.28,42.29],
+        [-124.50,43.81],[-126.86,44.55],[-123.78,46.34] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KCHI", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 15000, 
+      "rawAirSigmet": "WAUS43 KKCI 271445 \nCHIT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...ND SD NE MN IA MO WI LM IL \nFROM 20NW BJI TO 30E MSP TO 60S RHI TO 20NE ORD TO 40SE BDF TO \n20E UIN TO 50S DSM TO 20N OVR TO 70ESE PIR TO 50S BIS TO 60SE \nMOT TO 20NW BJI \nMOD TURB BLW 150. CONDS CONTG BYD 21Z THRU 03Z. \nLLWS POTENTIAL...MN IA WI \nBOUNDED BY 30SSW EAU-40ESE ODI-50WNW DBQ-50SE FOD-40WNW DSM-50W \nFOD-50S RWF-40NW MCW-30SSW EAU \nLLWS EXP. CONDS ENDG 15-18Z. \nOTLK VALID 2100-0300Z...TURB SD MN IA MO WI LM MI IL IN \nBOUNDED BY 60NNW RWF-60S BRD-30SSW DLL-20ESE BAE-20ESE ORD-20ENE \nFWA-20WNW CVG-40WNW IIU-20S STL-40WSW IRK-30NNE OVR-70SSE ABR- \n60NNW RWF \nMOD TURB BLW 150. CONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-95.37,47.81],[-92.52,44.88],[-89.45,44.63],[-87.58,42.21],
+        [-88.97,40.69],[-90.85,39.85],[-93.65,40.60],[-95.74,41.50],
+        [-98.67,43.94],[-100.67,45.93],[-100.25,47.55],[-95.37,47.81] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSFO", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 42000, 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB STG WNDS AND LLWS VALID UNTIL 272100 \nAIRMET TURB...WA OR CA NV AND CSTL WTRS \nFROM 130WSW TOU TO 30ESE DSD TO 50ENE OAL TO 20NW LAS TO 30NNE \nEHF TO 80WNW RZS TO 160NW FOT TO 100W ONP TO 130WSW TOU \nMOD TURB BTN FL240 AND FL420. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB WA OR AND CSTL WTRS \nBOUNDED BY 110W HQM-20ESE HQM-40NE PDT-30S BKE-50SE REO-30SW LKV- \n30SE ONP-90W ONP-140WSW HQM-110W HQM \nMOD TURB BTN 140 AND FL180. CONDS CONTG THRU 03Z. \nAREA 2...STG SFC WNDS CA AND CSTL WTRS \nBOUNDED BY 80W RZS-30ESE RZS-70SSW LAX-120SSW RZS-80W RZS \nSUSTAINED SURFACE WINDS GTR THAN 30KT EXP. CONDS DVLPG 21-00Z. \nCONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-127.59,47.43],[-120.65,44.06],[-116.79,38.32],[-115.45,36.31],
+        [-118.86,35.94],[-121.27,35.01],[-126.78,42.52],[-126.39,44.56],
+        [-127.59,47.43] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSFO", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 42000, 
+      "rawAirSigmet": "WAUS46 KKCI 271445 \nSFOT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB STG WNDS AND LLWS VALID UNTIL 272100 \nAIRMET TURB...WA OR CA NV AND CSTL WTRS \nFROM 130WSW TOU TO 30ESE DSD TO 50ENE OAL TO 20NW LAS TO 30NNE \nEHF TO 80WNW RZS TO 160NW FOT TO 100W ONP TO 130WSW TOU \nMOD TURB BTN FL240 AND FL420. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB WA OR AND CSTL WTRS \nBOUNDED BY 110W HQM-20ESE HQM-40NE PDT-30S BKE-50SE REO-30SW LKV- \n30SE ONP-90W ONP-140WSW HQM-110W HQM \nMOD TURB BTN 140 AND FL180. CONDS CONTG THRU 03Z. \nAREA 2...STG SFC WNDS CA AND CSTL WTRS \nBOUNDED BY 80W RZS-30ESE RZS-70SSW LAX-120SSW RZS-80W RZS \nSUSTAINED SURFACE WINDS GTR THAN 30KT EXP. CONDS DVLPG 21-00Z. \nCONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-127.59,47.43],[-120.65,44.06],[-116.79,38.32],[-115.45,36.31],
+        [-118.86,35.94],[-121.27,35.01],[-126.78,42.52],[-126.39,44.56],
+        [-127.59,47.43] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KCHI", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 8000, 
+      "rawAirSigmet": "WAUS43 KKCI 271445 \nCHIT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...MO LM IL IN KY \nFROM 20NE ORD TO 40SSE FWA TO 40SSE CVG TO 40SW IIU TO 40NNW DYR \nTO 30SSE SGF TO 20SE BUM TO 30N COU TO 40SE BDF TO 20NE ORD \nMOD TURB BLW 080. CONDS ENDG 18-21Z. \nOTLK VALID 2100-0300Z...TURB SD MN IA MO WI LM MI IL IN \nBOUNDED BY 60NNW RWF-60S BRD-30SSW DLL-20ESE BAE-20ESE ORD-20ENE \nFWA-20WNW CVG-40WNW IIU-20S STL-40WSW IRK-30NNE OVR-70SSE ABR- \n60NNW RWF \nMOD TURB BLW 150. CONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-87.58,42.21],[-84.86,40.37],[-84.38,38.41],[-86.17,37.63],
+        [-89.64,36.63],[-93.09,36.90],[-94.19,38.03],[-92.22,39.32],
+        [-88.97,40.69],[-87.58,42.21] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KCHI", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 40000, 
+      "rawAirSigmet": "WAUS43 KKCI 271445 \nCHIT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...MN IA MO WI LM LS MI LH IL IN KY \nFROM 40S YWG TO 30N INL TO YQT TO SSM TO 30SE ECK TO FWA TO CVG \nTO HNN TO HMV TO 30NNE ARG TO 30WNW AXC TO 40S YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z...TURB SD MN IA MO WI LM MI IL IN \nBOUNDED BY 60NNW RWF-60S BRD-30SSW DLL-20ESE BAE-20ESE ORD-20ENE \nFWA-20WNW CVG-40WNW IIU-20S STL-40WSW IRK-30NNE OVR-70SSE ABR- \n60NNW RWF \nMOD TURB BLW 150. CONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-97.23,49.24],[-93.40,49.07],[-89.32,48.37],[-84.31,46.41],
+        [-82.23,42.90],[-85.19,40.98],[-84.70,39.02],[-82.03,38.75],
+        [-82.13,36.44],[-90.71,36.57],[-89.46,39.92],[-97.23,49.24] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KCHI", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 40000, 
+      "rawAirSigmet": "WAUS43 KKCI 271445 \nCHIT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...MN IA MO WI LM LS MI LH IL IN KY \nFROM 40S YWG TO 30N INL TO YQT TO SSM TO 30SE ECK TO FWA TO CVG \nTO HNN TO HMV TO 30NNE ARG TO 30WNW AXC TO 40S YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z...TURB SD MN IA MO WI LM MI IL IN \nBOUNDED BY 60NNW RWF-60S BRD-30SSW DLL-20ESE BAE-20ESE ORD-20ENE \nFWA-20WNW CVG-40WNW IIU-20S STL-40WSW IRK-30NNE OVR-70SSE ABR- \n60NNW RWF \nMOD TURB BLW 150. CONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-97.23,49.24],[-93.40,49.07],[-89.32,48.37],[-84.31,46.41],
+        [-82.23,42.90],[-85.19,40.98],[-84.70,39.02],[-82.03,38.75],
+        [-82.13,36.44],[-90.71,36.57],[-89.46,39.92],[-97.23,49.24] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KCHI", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 8000, 
+      "rawAirSigmet": "WAUS43 KKCI 271445 \nCHIT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...MO LM IL IN KY \nFROM 20NE ORD TO 40SSE FWA TO 40SSE CVG TO 40SW IIU TO 40NNW DYR \nTO 30SSE SGF TO 20SE BUM TO 30N COU TO 40SE BDF TO 20NE ORD \nMOD TURB BLW 080. CONDS ENDG 18-21Z. \nOTLK VALID 2100-0300Z...TURB SD MN IA MO WI LM MI IL IN \nBOUNDED BY 60NNW RWF-60S BRD-30SSW DLL-20ESE BAE-20ESE ORD-20ENE \nFWA-20WNW CVG-40WNW IIU-20S STL-40WSW IRK-30NNE OVR-70SSE ABR- \n60NNW RWF \nMOD TURB BLW 150. CONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-87.58,42.21],[-84.86,40.37],[-84.38,38.41],[-86.17,37.63],
+        [-89.64,36.63],[-93.09,36.90],[-94.19,38.03],[-92.22,39.32],
+        [-88.97,40.69],[-87.58,42.21] ] ]
     } 
   },
   { "type": "Feature",
@@ -616,258 +892,77 @@
       "icaoId": "KSLC", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 24000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS45 KKCI 262045 \nSLCT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...WY UT CO NM \nFROM 20SSE BFF TO GLD TO 50W LBL TO 30ESE TBE TO 20NW TXO TO \n70SE ABQ TO 20S RSK TO 20SSW DVC TO 30NNE DBL TO 20SSE BFF \nMOD TURB BTN FL240 AND FL400. CONDS CONTG BYD 03Z ENDG BY 06Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB CO AZ NM \nBOUNDED BY 40ESE LAA-50W LBL-30ESE TBE-INK-ELP-60S SSO-50NE TUS- \n60S ABQ-50W TBE-40ESE LAA \nMOD TURB BLW FL180. CONDS CONTG THRU 09Z. \nAREA 2...TURB NV CA AND CSTL WTRS \nBOUNDED BY 50NE FOT-100SSE LKV-40WNW OAL-30ENE CZQ-70WNW RZS- \n150WSW RZS-120WSW PYE-40SW FOT-50NE FOT \nMOD TURB BLW 150. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-103.31,41.58],[-101.69,39.39],[-102.02,37.04],[-103.02,37.08],
-        [-103.13,34.73],[-105.82,34.21],[-108.10,36.42],[-109.09,37.50],
-        [-106.65,39.90],[-103.31,41.58] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KDFW", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 24000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...OK TX AR \nFROM OSW TO RZC TO 30NW MLC TO 50SW SPS TO 20NW TXO TO 30ESE TBE \nTO 50W LBL TO OSW \nMOD TURB BTN FL240 AND FL400. CONDS DVLPG AFT 21Z. CONDS CONTG \nBYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OK TX AR LA ND SD NE KS MN IA MO WI LM LS MI LH IL \nIN \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB TX AND CSTL WTRS \nBOUNDED BY TXO-30ENE CWK-60ESE PSX-40W BRO-90W BRO-DLF-90S MRF- \nELP-INK-TXO \nMOD TURB BTN FL280 AND FL420. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-95.20,37.15],[-94.12,36.25],[-96.22,35.20],[-99.30,33.40],
-        [-103.13,34.73],[-103.02,37.08],[-102.02,37.04],[-95.20,37.15] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KSFO", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 28000, 
-      "altitudeHi2": 42000, 
-      "rawAirSigmet": "WAUS46 KKCI 262045 \nSFOT WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...CA NV AZ NM AND CSTL WTRS \nFROM 20S RSK TO 70SE ABQ TO 20NW TXO TO INK TO ELP TO 50S TUS TO \nBZA TO 20S MZB TO 220SW MZB TO 190SSW RZS TO HEC TO 20S RSK \nMOD TURB BTN FL280 AND FL420. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OR CA AND CSTL WTRS \nBOUNDED BY 150NW FOT-70SE OED-40NW FMG-20NNE CZQ-40NW RZS-150WSW \nRZS-140WSW FOT-150NW FOT \nMOD TURB BTN FL240 AND FL370. CONDS CONTG THRU 09Z. \nAREA 2...TURB CA NV AND CSTL WTRS \nBOUNDED BY 50NE FOT-100SSE LKV-40WNW OAL-30ENE CZQ-70WNW RZS- \n150WSW RZS-120WSW PYE-40SW FOT-50NE FOT \nMOD TURB BLW 150. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-108.10,36.42],[-105.82,34.21],[-103.13,34.73],[-103.24,31.87],
-        [-106.28,31.82],[-110.92,31.26],[-114.60,32.77],[-117.23,32.45],
-        [-120.22,30.16],[-121.19,31.58],[-116.46,34.80],[-108.10,36.42] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KDFW", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 24000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...OK TX AR \nFROM OSW TO RZC TO 30NW MLC TO 50SW SPS TO 20NW TXO TO 30ESE TBE \nTO 50W LBL TO OSW \nMOD TURB BTN FL240 AND FL400. CONDS DVLPG AFT 21Z. CONDS CONTG \nBYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OK TX AR LA ND SD NE KS MN IA MO WI LM LS MI LH IL \nIN \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB TX AND CSTL WTRS \nBOUNDED BY TXO-30ENE CWK-60ESE PSX-40W BRO-90W BRO-DLF-90S MRF- \nELP-INK-TXO \nMOD TURB BTN FL280 AND FL420. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-95.20,37.15],[-94.12,36.25],[-96.22,35.20],[-99.30,33.40],
-        [-103.13,34.73],[-103.02,37.08],[-102.02,37.04],[-95.20,37.15] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 24000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...ND SD NE KS MN IA MO WI LM LS MI LH IL IN \nFROM 50NW INL TO 20NW YQT TO SSM TO 50WNW YVV TO 20N AXC TO RZC \nTO OSW TO 50W LBL TO GLD TO 20SSE BFF TO 70SE PIR TO 70NE MOT TO \n50NW INL \nMOD TURB BTN FL240 AND FL400. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB ND SD NE KS MN IA MO WI LM LS MI LH IL IN OK TX AR \nLA \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB ND SD MN WI LS \nBOUNDED BY 50NNW ISN-80WNW YQT-40NW EAU-40SSW RWF-30NW FSD-40ENE \nDPR-20N DIK-50NNW ISN \nMOD TURB BTN 050 AND FL180. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-94.30,49.16],[-89.68,48.60],[-84.31,46.41],[-82.19,45.06],
-        [-88.85,40.06],[-94.12,36.25],[-95.20,37.15],[-102.02,37.04],
-        [-101.69,39.39],[-103.31,41.58],[-99.03,43.57],[-100.03,49.08],
-        [-94.30,49.16] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 24000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...ND SD NE KS MN IA MO WI LM LS MI LH IL IN \nFROM 50NW INL TO 20NW YQT TO SSM TO 50WNW YVV TO 20N AXC TO RZC \nTO OSW TO 50W LBL TO GLD TO 20SSE BFF TO 70SE PIR TO 70NE MOT TO \n50NW INL \nMOD TURB BTN FL240 AND FL400. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB ND SD NE KS MN IA MO WI LM LS MI LH IL IN OK TX AR \nLA \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB ND SD MN WI LS \nBOUNDED BY 50NNW ISN-80WNW YQT-40NW EAU-40SSW RWF-30NW FSD-40ENE \nDPR-20N DIK-50NNW ISN \nMOD TURB BTN 050 AND FL180. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-94.30,49.16],[-89.68,48.60],[-84.31,46.41],[-82.19,45.06],
-        [-88.85,40.06],[-94.12,36.25],[-95.20,37.15],[-102.02,37.04],
-        [-101.69,39.39],[-103.31,41.58],[-99.03,43.57],[-100.03,49.08],
-        [-94.30,49.16] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KSFO", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 24000, 
-      "altitudeHi2": 37000, 
-      "rawAirSigmet": "WAUS46 KKCI 262045 \nSFOT WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...CA CSTL WTRS \nFROM 130W FOT TO 30SW ENI TO 130WSW SNS TO 150SW FOT TO 130W FOT \nMOD TURB BTN FL240 AND FL370. CONDS DVLPG 00-03Z. CONDS CONTG \nBYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OR CA AND CSTL WTRS \nBOUNDED BY 150NW FOT-70SE OED-40NW FMG-20NNE CZQ-40NW RZS-150WSW \nRZS-140WSW FOT-150NW FOT \nMOD TURB BTN FL240 AND FL370. CONDS CONTG THRU 09Z. \nAREA 2...TURB CA NV AND CSTL WTRS \nBOUNDED BY 50NE FOT-100SSE LKV-40WNW OAL-30ENE CZQ-70WNW RZS- \n150WSW RZS-120WSW PYE-40SW FOT-50NE FOT \nMOD TURB BLW 150. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-127.08,40.63],[-123.73,38.69],[-124.07,35.81],[-126.50,38.88],
-        [-127.08,40.63] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KDFW", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 28000, 
-      "altitudeHi2": 42000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...TX \nFROM 20NW TXO TO 50SW SPS TO 20NW SAT TO DLF TO 90S MRF TO ELP \nTO INK TO 20NW TXO \nMOD TURB BTN FL280 AND FL420. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OK TX AR LA ND SD NE KS MN IA MO WI LM LS MI LH IL \nIN \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB TX AND CSTL WTRS \nBOUNDED BY TXO-30ENE CWK-60ESE PSX-40W BRO-90W BRO-DLF-90S MRF- \nELP-INK-TXO \nMOD TURB BTN FL280 AND FL420. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-103.13,34.73],[-99.30,33.40],[-98.73,29.87],[-100.77,29.36],
-        [-103.95,28.80],[-106.28,31.82],[-103.24,31.87],[-103.13,34.73] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KDFW", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 28000, 
-      "altitudeHi2": 42000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWT WA 262045 \nAIRMET TANGO UPDT 4 FOR TURB AND STG SFC WNDS VALID UNTIL 270300 \nAIRMET TURB...TX \nFROM 20NW TXO TO 50SW SPS TO 20NW SAT TO DLF TO 90S MRF TO ELP \nTO INK TO 20NW TXO \nMOD TURB BTN FL280 AND FL420. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...TURB OK TX AR LA ND SD NE KS MN IA MO WI LM LS MI LH IL \nIN \nBOUNDED BY 50SW YWG-YQT-SSM-YVV-30SSE ECK-FWA-50WSW PXV-50SW LIT- \n40SSE GGG-30ENE CWK-TXO-30ESE TBE-50W LBL-40N OVR-50SW YWG \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 09Z. \nAREA 2...TURB TX AND CSTL WTRS \nBOUNDED BY TXO-30ENE CWK-60ESE PSX-40W BRO-90W BRO-DLF-90S MRF- \nELP-INK-TXO \nMOD TURB BTN FL280 AND FL420. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-103.13,34.73],[-99.30,33.40],[-98.73,29.87],[-100.77,29.36],
-        [-103.95,28.80],[-106.28,31.82],[-103.24,31.87],[-103.13,34.73] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KBOS", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
       "altitudeLow1": 0, 
-      "altitudeHi2": 10000, 
-      "rawAirSigmet": "WAUS41 KKCI 262045 \nBOST WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...ME NH VT MA RI CT NY LO NJ PA AND CSTL WTRS \nFROM 70NW PQI TO 50NE PQI TO 50ESE PQI TO 150ENE ACK TO 20SSW \nACK TO 30SE HTO TO 30SW CYN TO 40NE SLT TO 50NNW SYR TO 30SSE \nYOW TO 20SSW YSC TO 70NW PQI \nMOD TURB BLW 100. CONDS CONTG BYD 03Z ENDG 06-09Z. \nOTLK VALID 0300-0900Z...TURB NY NJ WV MD DC DE VA NC SC GA AND \nCSTL WTRS \nBOUNDED BY 30WNW EMI-90S HTO-90SE ECG-100SE SAV-50ENE CRG-50SW \nPZD-GQO-30NNE ODF-40SSW PSK-40SSW LYH-50W CSN-30WNW EMI \nMOD TURB BTN 030 AND FL180. CONDS CONTG THRU 09Z."
+      "altitudeHi2": 15000, 
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...NV CA AND CSTL WTRS \nFROM 60ESE LKV TO 50E FMG TO OAL TO 50W BTY TO 50SE CZQ TO 80SW \nSNS TO 20SW ENI TO 40S OED TO 60ESE LKV \nMOD TURB BLW 150. CONDS CONTG BYD 21Z THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-69.31,47.59],[-67.22,47.36],[-66.97,46.44],[-66.92,42.19],
-        [-70.20,40.97],[-71.85,40.56],[-74.89,39.46],[-77.34,41.98],
-        [-76.64,43.93],[-75.40,44.85],[-71.86,45.12],[-69.31,47.59] ] ]
+        [[-119.27,42.10],[-118.58,39.52],[-117.77,38.00],[-117.79,36.80],
+        [-119.09,36.29],[-122.76,35.71],[-123.57,38.81],[-122.91,41.82],
+        [-119.27,42.10] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
-      "icaoId": "KBOS", 
+      "icaoId": "KSLC", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 20000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS41 KKCI 262045 \nBOST WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...NH VT MA RI CT NY LO NJ PA OH LE WV MD DC DE VA \nAND CSTL WTRS \nFROM 60NW SYR TO 50W HNK TO 20WNW HTO TO 30NW ACK TO 50SW ACK TO \n130SSE HTO TO 30W ORF TO HMV TO HNN TO CVG TO FWA TO 20ENE DXO \nTO 60NW SYR \nMOD TURB BTN FL200 AND FL400. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z...TURB NY NJ WV MD DC DE VA NC SC GA AND \nCSTL WTRS \nBOUNDED BY 30WNW EMI-90S HTO-90SE ECG-100SE SAV-50ENE CRG-50SW \nPZD-GQO-30NNE ODF-40SSW PSK-40SSW LYH-50W CSN-30WNW EMI \nMOD TURB BTN 030 AND FL180. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-77.18,43.86],[-76.45,42.05],[-72.73,41.05],[-70.51,41.63],
-        [-70.81,40.69],[-71.26,38.91],[-76.83,36.89],[-82.13,36.44],
-        [-82.03,38.75],[-84.70,39.02],[-85.19,40.98],[-82.95,42.34],
-        [-77.18,43.86] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KBOS", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 20000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WAUS41 KKCI 262045 \nBOST WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...NH VT MA RI CT NY LO NJ PA OH LE WV MD DC DE VA \nAND CSTL WTRS \nFROM 60NW SYR TO 50W HNK TO 20WNW HTO TO 30NW ACK TO 50SW ACK TO \n130SSE HTO TO 30W ORF TO HMV TO HNN TO CVG TO FWA TO 20ENE DXO \nTO 60NW SYR \nMOD TURB BTN FL200 AND FL400. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z...TURB NY NJ WV MD DC DE VA NC SC GA AND \nCSTL WTRS \nBOUNDED BY 30WNW EMI-90S HTO-90SE ECG-100SE SAV-50ENE CRG-50SW \nPZD-GQO-30NNE ODF-40SSW PSK-40SSW LYH-50W CSN-30WNW EMI \nMOD TURB BTN 030 AND FL180. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-77.18,43.86],[-76.45,42.05],[-72.73,41.05],[-70.51,41.63],
-        [-70.81,40.69],[-71.26,38.91],[-76.83,36.89],[-82.13,36.44],
-        [-82.03,38.75],[-84.70,39.02],[-85.19,40.98],[-82.95,42.34],
-        [-77.18,43.86] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KBOS", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
       "altitudeLow1": 0, 
-      "altitudeHi2": 10000, 
-      "rawAirSigmet": "WAUS41 KKCI 262045 \nBOST WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...ME NH VT MA RI CT NY LO NJ PA AND CSTL WTRS \nFROM 70NW PQI TO 50NE PQI TO 50ESE PQI TO 150ENE ACK TO 20SSW \nACK TO 30SE HTO TO 30SW CYN TO 40NE SLT TO 50NNW SYR TO 30SSE \nYOW TO 20SSW YSC TO 70NW PQI \nMOD TURB BLW 100. CONDS CONTG BYD 03Z ENDG 06-09Z. \nOTLK VALID 0300-0900Z...TURB NY NJ WV MD DC DE VA NC SC GA AND \nCSTL WTRS \nBOUNDED BY 30WNW EMI-90S HTO-90SE ECG-100SE SAV-50ENE CRG-50SW \nPZD-GQO-30NNE ODF-40SSW PSK-40SSW LYH-50W CSN-30WNW EMI \nMOD TURB BTN 030 AND FL180. CONDS CONTG THRU 09Z."
+      "altitudeHi2": 15000, 
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...NV CA AND CSTL WTRS \nFROM 60ESE LKV TO 50E FMG TO OAL TO 50W BTY TO 50SE CZQ TO 80SW \nSNS TO 20SW ENI TO 40S OED TO 60ESE LKV \nMOD TURB BLW 150. CONDS CONTG BYD 21Z THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-69.31,47.59],[-67.22,47.36],[-66.97,46.44],[-66.92,42.19],
-        [-70.20,40.97],[-71.85,40.56],[-74.89,39.46],[-77.34,41.98],
-        [-76.64,43.93],[-75.40,44.85],[-71.86,45.12],[-69.31,47.59] ] ]
+        [[-119.27,42.10],[-118.58,39.52],[-117.77,38.00],[-117.79,36.80],
+        [-119.09,36.29],[-122.76,35.71],[-123.57,38.81],[-122.91,41.82],
+        [-119.27,42.10] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSLC", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 15000, 
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...NV UT AZ \nFROM 60ESE BAM TO 20E BCE TO 30SE PGS TO 20NW EED TO 20WSW BTY \nTO OAL TO 60ESE BAM \nMOD TURB BLW 150. CONDS DVLPG 18-21Z. CONDS CONTG BYD 21Z THRU \n03Z. \nLLWS POTENTIAL...NV CA \nBOUNDED BY 80S LKV-50NE FMG-40W OAL-50ENE CZQ-30NNE MOD-60ESE \nRBL-40N RBL-80S LKV \nLLWS EXP. CONDS CONTG BYD 21Z THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-115.71,40.18],[-111.88,37.69],[-113.10,35.26],[-114.76,35.00],
+        [-117.13,36.67],[-117.77,38.00],[-115.71,40.18] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSLC", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 15000, 
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...NV UT AZ \nFROM 60ESE BAM TO 20E BCE TO 30SE PGS TO 20NW EED TO 20WSW BTY \nTO OAL TO 60ESE BAM \nMOD TURB BLW 150. CONDS DVLPG 18-21Z. CONDS CONTG BYD 21Z THRU \n03Z. \nLLWS POTENTIAL...NV CA \nBOUNDED BY 80S LKV-50NE FMG-40W OAL-50ENE CZQ-30NNE MOD-60ESE \nRBL-40N RBL-80S LKV \nLLWS EXP. CONDS CONTG BYD 21Z THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-115.71,40.18],[-111.88,37.69],[-113.10,35.26],[-114.76,35.00],
+        [-117.13,36.67],[-117.77,38.00],[-115.71,40.18] ] ]
     } 
   },
   { "type": "Feature",
@@ -875,19 +970,58 @@
       "icaoId": "KBOS", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
       "altitudeLow1": 18000, 
-      "altitudeHi2": 38000, 
-      "rawAirSigmet": "WAUS41 KKCI 262045 \nBOST WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...ME NH VT MA RI CT NY LO PA AND CSTL WTRS \nFROM 70NW PQI TO 60NE PQI TO 160E ACK TO 30NW ACK TO 20WNW HTO \nTO 50W HNK TO 60NW SYR TO 20ENE YOW TO YSC TO 70NW PQI \nMOD TURB BTN FL180 AND FL380. CONDS CONTG BYD 03Z ENDG 03-06Z. \nOTLK VALID 0300-0900Z...TURB NY NJ WV MD DC DE VA NC SC GA AND \nCSTL WTRS \nBOUNDED BY 30WNW EMI-90S HTO-90SE ECG-100SE SAV-50ENE CRG-50SW \nPZD-GQO-30NNE ODF-40SSW PSK-40SSW LYH-50W CSN-30WNW EMI \nMOD TURB BTN 030 AND FL180. CONDS CONTG THRU 09Z."
+      "altitudeHi2": 41000, 
+      "rawAirSigmet": "WAUS41 KKCI 271445 \nBOST WA 271445 \nAIRMET TANGO UPDT 4 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...ME NH VT MA RI CT NY LO NJ PA OH LE WV MD DC DE VA \nAND CSTL WTRS \nFROM 80NW PQI TO 70ENE PQI TO 160ENE ACK TO 80S ACK TO 80S HTO \nTO 50ESE SIE TO 30ESE SBY TO 20SE CSN TO 50WNW CSN TO 30S AIR TO \n20NNW ERI TO YOW TO YSC TO 40E YQB TO 80NW PQI \nMOD TURB BTN FL180 AND FL410. CONDS CONTG BYD 21Z ENDG 00-03Z. \nLLWS POTENTIAL...MA RI CT NY NJ PA MD DE AND CSTL WTRS \nBOUNDED BY 20ENE BOS-40E ACK-100S ACK-110SSE HTO-130SE SIE-40NNW \nSBY-30SW ETX-30NNE SAX-20ENE BOS \nLLWS EXP. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB NY NJ PA OH LE WV MD DC DE VA NC SC GA FL AND CSTL \nWTRS \nBOUNDED BY 20S YYZ-30SW PSB-30SSW CYN-60E ORF-60SE CHS-40SE PZD- \n90SSE SJI-40W CEW-50SW PZD-GQO-HMV-HNN-CVG-FWA-40ESE ECK-20S YYZ \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 03Z. \nAREA 2...TURB ME NH VT MA RI CT NY NJ PA AND CSTL WTRS \nBOUNDED BY 80NW PQI-60NE PQI-170ENE ACK-70SSE ACK-60SSE HTO- \n50SSW HNK-SYR-MSS-50NE MSS-YSC-80NW PQI \nMOD TURB BTN 020 AND FL180. CONDS CONTG THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-69.31,47.59],[-67.05,47.47],[-66.49,41.23],[-70.51,41.63],
-        [-72.73,41.05],[-76.45,42.05],[-77.18,43.86],[-75.23,45.45],
-        [-71.68,45.43],[-69.31,47.59] ] ]
+        [[-69.49,47.70],[-66.50,47.21],[-66.71,42.25],[-70.03,39.95],
+        [-72.32,39.59],[-73.81,38.78],[-74.93,38.16],[-77.57,38.40],
+        [-78.86,38.96],[-80.82,39.52],[-80.47,42.33],[-75.67,45.32],
+        [-71.68,45.43],[-70.41,46.80],[-69.49,47.70] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSLC", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 9000, 
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...AZ NM \nFROM 40ENE PHX TO 60WSW TCS TO 50SSW CME TO 70W INK TO ELP TO \n50S TUS TO 30W TUS TO 40ENE PHX \nMOD TURB BLW 090. CONDS ENDG 18-21Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-111.28,33.68],[-108.38,32.89],[-105.00,32.57],[-104.61,31.86],
+        [-106.28,31.82],[-110.92,31.26],[-111.51,32.10],[-111.28,33.68] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSLC", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 9000, 
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...AZ NM \nFROM 40ENE PHX TO 60WSW TCS TO 50SSW CME TO 70W INK TO ELP TO \n50S TUS TO 30W TUS TO 40ENE PHX \nMOD TURB BLW 090. CONDS ENDG 18-21Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-111.28,33.68],[-108.38,32.89],[-105.00,32.57],[-104.61,31.86],
+        [-106.28,31.82],[-110.92,31.26],[-111.51,32.10],[-111.28,33.68] ] ]
     } 
   },
   { "type": "Feature",
@@ -895,628 +1029,218 @@
       "icaoId": "KBOS", 
       "airSigmetType": "AIRMET", 
       "hazard": "TURB", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
       "altitudeLow1": 18000, 
-      "altitudeHi2": 38000, 
-      "rawAirSigmet": "WAUS41 KKCI 262045 \nBOST WA 262045 \nAIRMET TANGO UPDT 3 FOR TURB VALID UNTIL 270300 \nAIRMET TURB...ME NH VT MA RI CT NY LO PA AND CSTL WTRS \nFROM 70NW PQI TO 60NE PQI TO 160E ACK TO 30NW ACK TO 20WNW HTO \nTO 50W HNK TO 60NW SYR TO 20ENE YOW TO YSC TO 70NW PQI \nMOD TURB BTN FL180 AND FL380. CONDS CONTG BYD 03Z ENDG 03-06Z. \nOTLK VALID 0300-0900Z...TURB NY NJ WV MD DC DE VA NC SC GA AND \nCSTL WTRS \nBOUNDED BY 30WNW EMI-90S HTO-90SE ECG-100SE SAV-50ENE CRG-50SW \nPZD-GQO-30NNE ODF-40SSW PSK-40SSW LYH-50W CSN-30WNW EMI \nMOD TURB BTN 030 AND FL180. CONDS CONTG THRU 09Z."
+      "altitudeHi2": 41000, 
+      "rawAirSigmet": "WAUS41 KKCI 271445 \nBOST WA 271445 \nAIRMET TANGO UPDT 4 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...ME NH VT MA RI CT NY LO NJ PA OH LE WV MD DC DE VA \nAND CSTL WTRS \nFROM 80NW PQI TO 70ENE PQI TO 160ENE ACK TO 80S ACK TO 80S HTO \nTO 50ESE SIE TO 30ESE SBY TO 20SE CSN TO 50WNW CSN TO 30S AIR TO \n20NNW ERI TO YOW TO YSC TO 40E YQB TO 80NW PQI \nMOD TURB BTN FL180 AND FL410. CONDS CONTG BYD 21Z ENDG 00-03Z. \nLLWS POTENTIAL...MA RI CT NY NJ PA MD DE AND CSTL WTRS \nBOUNDED BY 20ENE BOS-40E ACK-100S ACK-110SSE HTO-130SE SIE-40NNW \nSBY-30SW ETX-30NNE SAX-20ENE BOS \nLLWS EXP. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB NY NJ PA OH LE WV MD DC DE VA NC SC GA FL AND CSTL \nWTRS \nBOUNDED BY 20S YYZ-30SW PSB-30SSW CYN-60E ORF-60SE CHS-40SE PZD- \n90SSE SJI-40W CEW-50SW PZD-GQO-HMV-HNN-CVG-FWA-40ESE ECK-20S YYZ \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 03Z. \nAREA 2...TURB ME NH VT MA RI CT NY NJ PA AND CSTL WTRS \nBOUNDED BY 80NW PQI-60NE PQI-170ENE ACK-70SSE ACK-60SSE HTO- \n50SSW HNK-SYR-MSS-50NE MSS-YSC-80NW PQI \nMOD TURB BTN 020 AND FL180. CONDS CONTG THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-69.31,47.59],[-67.05,47.47],[-66.49,41.23],[-70.51,41.63],
-        [-72.73,41.05],[-76.45,42.05],[-77.18,43.86],[-75.23,45.45],
-        [-71.68,45.43],[-69.31,47.59] ] ]
+        [[-69.49,47.70],[-66.50,47.21],[-66.71,42.25],[-70.03,39.95],
+        [-72.32,39.59],[-73.81,38.78],[-74.93,38.16],[-77.57,38.40],
+        [-78.86,38.96],[-80.82,39.52],[-80.47,42.33],[-75.67,45.32],
+        [-71.68,45.43],[-70.41,46.80],[-69.49,47.70] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
-      "icaoId": "KSFO", 
+      "icaoId": "KBOS", 
       "airSigmetType": "AIRMET", 
-      "hazard": "MTN OBSCN", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "0", 
-      "rawAirSigmet": "WAUS46 KKCI 262045 \nSFOS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET MTN OBSCN...WA OR CA \nFROM 20S TOU TO 30ENE HQM TO 30S BTG TO 20ESE EUG TO 30NNE OED \nTO 50NE FOT TO PYE TO 20WSW ENI TO 20SSW FOT TO 70WNW OED TO 40S \nHQM TO 20S TOU \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...MTN OBSCN CA \nBOUNDED BY 90SSW LKV-50NNW FMG-30SSW FMG-70SSW OAL-50NNE EHF-40E \nSAC-90SSW LKV \nMTNS OBSC BY CLDS/PCPN/BR. CONDS DVLPG 06-09Z. CONDS CONTG THRU \n09Z. \nAREA 2...MTN OBSCN CA \nBOUNDED BY 30WNW SAC-30SSW EHF-20W TRM-60S TRM-30SSW MZB-30SE \nLAX-40W RZS-40SSW SNS-PYE-30WNW SAC \nMTNS OBSC BY CLDS/BR. CONDS DVLPG 06-09Z. CONDS CONTG THRU 09Z."
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 2000, 
+      "altitudeHi2": 18000, 
+      "rawAirSigmet": "WAUS41 KKCI 271445 \nBOST WA 271445 \nAIRMET TANGO UPDT 4 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...ME NH VT MA RI CT NY LO NJ PA WV MD DE AND CSTL \nWTRS \nFROM 60ESE YQB TO 40SSE BGR TO 80ESE ENE TO 30S ACK TO 80ESE SIE \nTO 40SSE JST TO 40W PSB TO 20N MSS TO YSC TO 60ESE YQB \nMOD TURB BTN 020 AND FL180. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB NY NJ PA OH LE WV MD DC DE VA NC SC GA FL AND CSTL \nWTRS \nBOUNDED BY 20S YYZ-30SW PSB-30SSW CYN-60E ORF-60SE CHS-40SE PZD- \n90SSE SJI-40W CEW-50SW PZD-GQO-HMV-HNN-CVG-FWA-40ESE ECK-20S YYZ \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 03Z. \nAREA 2...TURB ME NH VT MA RI CT NY NJ PA AND CSTL WTRS \nBOUNDED BY 80NW PQI-60NE PQI-170ENE ACK-70SSE ACK-60SSE HTO- \n50SSW HNK-SYR-MSS-50NE MSS-YSC-80NW PQI \nMOD TURB BTN 020 AND FL180. CONDS CONTG THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-124.63,47.97],[-123.47,47.14],[-122.59,45.25],[-122.79,43.99],
-        [-122.65,42.94],[-123.44,41.26],[-122.87,38.08],[-123.66,38.92],
-        [-124.40,40.36],[-124.38,42.92],[-124.15,46.29],[-124.63,47.97] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T02:45:00Z", 
-      "severity": "1", 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET NO SGFNT IFR EXP OUTSIDE OF CNVTV ACT. \n \nOTLK VALID 0300-0900Z \nAREA 1...IFR WI LM LS MI LH \nBOUNDED BY 70NW SSM-SSM-70SE SSM-20SE TVC-60WSW TVC-40SSE SAW- \n20SSE RHI-60NW RHI-30NNW SAW-70NW SSM \nCIG BLW 010/VIS BLW 3SM BR. CONDS DVLPG 03-06Z. CONDS CONTG THRU \n09Z. \nAREA 2...IFR KY TN MS AL \nBOUNDED BY 60E CVG-HNN-HMV-GQO-30NNW PZD-30SE CEW-30NNE SJI- \n20ENE MHZ-60SSE DYR-30S BNA-20NE LOZ-60E CVG \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS DVLPG AFT 03Z. CONDS \nCONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [ ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T02:45:00Z", 
-      "severity": "1", 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET NO SGFNT IFR EXP OUTSIDE OF CNVTV ACT. \n \nOTLK VALID 0300-0900Z \nAREA 1...IFR WI LM LS MI LH \nBOUNDED BY 70NW SSM-SSM-70SE SSM-20SE TVC-60WSW TVC-40SSE SAW- \n20SSE RHI-60NW RHI-30NNW SAW-70NW SSM \nCIG BLW 010/VIS BLW 3SM BR. CONDS DVLPG 03-06Z. CONDS CONTG THRU \n09Z. \nAREA 2...IFR KY TN MS AL \nBOUNDED BY 60E CVG-HNN-HMV-GQO-30NNW PZD-30SE CEW-30NNE SJI- \n20ENE MHZ-60SSE DYR-30S BNA-20NE LOZ-60E CVG \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS DVLPG AFT 03Z. CONDS \nCONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [ ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "MTN OBSCN", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T02:45:00Z", 
-      "severity": "0", 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET MTN OBSCN...KY TN \nFROM 60SSW HNN TO HMV TO GQO TO 50WSW LOZ TO 60SSW HNN \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR WI LM LS MI LH \nBOUNDED BY 70NW SSM-SSM-70SE SSM-20SE TVC-60WSW TVC-40SSE SAW- \n20SSE RHI-60NW RHI-30NNW SAW-70NW SSM \nCIG BLW 010/VIS BLW 3SM BR. CONDS DVLPG 03-06Z. CONDS CONTG THRU \n09Z. \nAREA 2...IFR KY TN MS AL \nBOUNDED BY 60E CVG-HNN-HMV-GQO-30NNW PZD-30SE CEW-30NNE SJI- \n20ENE MHZ-60SSE DYR-30S BNA-20NE LOZ-60E CVG \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS DVLPG AFT 03Z. CONDS \nCONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-82.51,37.83],[-82.13,36.44],[-85.15,34.96],[-85.08,36.71],
-        [-82.51,37.83] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "MTN OBSCN", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T02:45:00Z", 
-      "severity": "0", 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET MTN OBSCN...KY TN \nFROM 60SSW HNN TO HMV TO GQO TO 50WSW LOZ TO 60SSW HNN \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR WI LM LS MI LH \nBOUNDED BY 70NW SSM-SSM-70SE SSM-20SE TVC-60WSW TVC-40SSE SAW- \n20SSE RHI-60NW RHI-30NNW SAW-70NW SSM \nCIG BLW 010/VIS BLW 3SM BR. CONDS DVLPG 03-06Z. CONDS CONTG THRU \n09Z. \nAREA 2...IFR KY TN MS AL \nBOUNDED BY 60E CVG-HNN-HMV-GQO-30NNW PZD-30SE CEW-30NNE SJI- \n20ENE MHZ-60SSE DYR-30S BNA-20NE LOZ-60E CVG \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS DVLPG AFT 03Z. CONDS \nCONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-82.51,37.83],[-82.13,36.44],[-85.15,34.96],[-85.08,36.71],
-        [-82.51,37.83] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KMIA", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "0", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 1000, 
-      "rawAirSigmet": "WAUS42 KKCI 262045 \nMIAS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET IFR...NC SC GA FL WV VA \nFROM 30SSW EKN TO 40SSW LYH TO 40SSE MCN TO 50ESE CEW TO 50SW \nPZD TO GQO TO HMV TO 30SSW EKN \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR NC SC GA PA OH WV MD VA AND CSTL WTRS \nBOUNDED BY 30WNW AIR-40SSE JST-20WNW DCA-50S SBY-70SE ECG-40E \nILM-30SSW RDU-20WNW FLO-40NNW SAV-40SSE MCN-30NNW PZD-GQO-HMV- \nHNN-60E CVG-30WNW AIR \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 2...MTN OBSCN NC SC GA PA WV MD VA \nBOUNDED BY 20SW HAR-40SSE PSK-CLT-ATL-GQO-HMV-HNN-40ESE AIR-20SW \nHAR \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-80.35,38.45],[-79.55,36.64],[-83.35,32.08],[-85.78,30.51],
-        [-84.98,31.07],[-85.15,34.96],[-82.13,36.44],[-80.35,38.45] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KMIA", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "0", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 1000, 
-      "rawAirSigmet": "WAUS42 KKCI 262045 \nMIAS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET IFR...NC SC GA FL WV VA \nFROM 30SSW EKN TO 40SSW LYH TO 40SSE MCN TO 50ESE CEW TO 50SW \nPZD TO GQO TO HMV TO 30SSW EKN \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR NC SC GA PA OH WV MD VA AND CSTL WTRS \nBOUNDED BY 30WNW AIR-40SSE JST-20WNW DCA-50S SBY-70SE ECG-40E \nILM-30SSW RDU-20WNW FLO-40NNW SAV-40SSE MCN-30NNW PZD-GQO-HMV- \nHNN-60E CVG-30WNW AIR \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 2...MTN OBSCN NC SC GA PA WV MD VA \nBOUNDED BY 20SW HAR-40SSE PSK-CLT-ATL-GQO-HMV-HNN-40ESE AIR-20SW \nHAR \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-80.35,38.45],[-79.55,36.64],[-83.35,32.08],[-85.78,30.51],
-        [-84.98,31.07],[-85.15,34.96],[-82.13,36.44],[-80.35,38.45] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KMIA", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "MTN OBSCN", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "0", 
-      "rawAirSigmet": "WAUS42 KKCI 262045 \nMIAS WA 262045 \nAIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET MTN OBSCN...NC SC GA WV VA \nFROM EKN TO 30N LYH TO 40SSE PSK TO CLT TO ATL TO GQO TO HMV TO \n60SSW HNN TO EKN \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR NC SC GA PA OH WV MD VA AND CSTL WTRS \nBOUNDED BY 30WNW AIR-40SSE JST-20WNW DCA-50S SBY-70SE ECG-40E \nILM-30SSW RDU-20WNW FLO-40NNW SAV-40SSE MCN-30NNW PZD-GQO-HMV- \nHNN-60E CVG-30WNW AIR \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 2...MTN OBSCN NC SC GA PA WV MD VA \nBOUNDED BY 20SW HAR-40SSE PSK-CLT-ATL-GQO-HMV-HNN-40ESE AIR-20SW \nHAR \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-80.10,38.92],[-79.23,37.75],[-80.39,36.48],[-80.93,35.22],
-        [-84.44,33.63],[-85.15,34.96],[-82.13,36.44],[-82.51,37.83],
-        [-80.10,38.92] ] ]
+        [[-70.04,46.41],[-68.52,44.23],[-68.93,42.91],[-70.03,40.78],
+        [-73.23,38.58],[-78.50,39.71],[-78.87,40.92],[-74.72,45.24],
+        [-71.68,45.43],[-70.04,46.41] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
       "icaoId": "KSLC", 
       "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
-      "altitudeLow1": 9000, 
-      "altitudeLow2": 12000, 
-      "altitudeHi2": 22000, 
-      "rawAirSigmet": "WAUS45 KKCI 262045 \nSLCZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...CO NM \nFROM 20SSE GLD TO 50W LBL TO 30ESE TBE TO 50S TBE TO 20NW LAA TO \n20SSE GLD \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS ENDG BY 00Z. \nFRZLVL...RANGING FROM 080-140 ACRS AREA \n 120 ALG 30S YQL-20NNE GTF-50SW BPI-30NNE MTU-20NW ALS-30SSE \n FTI-40SSW TXO"
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 42000, 
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...NV WA OR CA AND CSTL WTRS \nFROM 130WSW TOU TO 30ESE DSD TO 50ENE OAL TO 20NW LAS TO 30NNE \nEHF TO 80WNW RZS TO 160NW FOT TO 100W ONP TO 130WSW TOU \nMOD TURB BTN FL240 AND FL420. CONDS CONTG BYD 21Z THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-101.53,39.08],[-102.02,37.04],[-103.02,37.08],[-103.60,36.43],
-        [-102.99,38.43],[-101.53,39.08] ] ]
+        [[-127.59,47.43],[-120.65,44.06],[-116.79,38.32],[-115.45,36.31],
+        [-118.86,35.94],[-121.27,35.01],[-126.78,42.52],[-126.39,44.56],
+        [-127.59,47.43] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KBOS", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 2000, 
+      "altitudeHi2": 18000, 
+      "rawAirSigmet": "WAUS41 KKCI 271445 \nBOST WA 271445 \nAIRMET TANGO UPDT 4 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...ME NH VT MA RI CT NY LO NJ PA WV MD DE AND CSTL \nWTRS \nFROM 60ESE YQB TO 40SSE BGR TO 80ESE ENE TO 30S ACK TO 80ESE SIE \nTO 40SSE JST TO 40W PSB TO 20N MSS TO YSC TO 60ESE YQB \nMOD TURB BTN 020 AND FL180. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB NY NJ PA OH LE WV MD DC DE VA NC SC GA FL AND CSTL \nWTRS \nBOUNDED BY 20S YYZ-30SW PSB-30SSW CYN-60E ORF-60SE CHS-40SE PZD- \n90SSE SJI-40W CEW-50SW PZD-GQO-HMV-HNN-CVG-FWA-40ESE ECK-20S YYZ \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 03Z. \nAREA 2...TURB ME NH VT MA RI CT NY NJ PA AND CSTL WTRS \nBOUNDED BY 80NW PQI-60NE PQI-170ENE ACK-70SSE ACK-60SSE HTO- \n50SSW HNK-SYR-MSS-50NE MSS-YSC-80NW PQI \nMOD TURB BTN 020 AND FL180. CONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.04,46.41],[-68.52,44.23],[-68.93,42.91],[-70.03,40.78],
+        [-73.23,38.58],[-78.50,39.71],[-78.87,40.92],[-74.72,45.24],
+        [-71.68,45.43],[-70.04,46.41] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KBOS", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 40000, 
+      "rawAirSigmet": "WAUS41 KKCI 271445 \nBOST WA 271445 \nAIRMET TANGO UPDT 4 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...OH LE WV VA NC SC GA \nFROM 30SE ECK TO 20NNW ERI TO 30S AIR TO 50WNW CSN TO 20E CLT TO \n30SSE ATL TO 40SSE LGC TO GQO TO HMV TO HNN TO CVG TO FWA TO \n30SE ECK \nMOD TURB BTN FL240 AND FL400. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB NY NJ PA OH LE WV MD DC DE VA NC SC GA FL AND CSTL \nWTRS \nBOUNDED BY 20S YYZ-30SW PSB-30SSW CYN-60E ORF-60SE CHS-40SE PZD- \n90SSE SJI-40W CEW-50SW PZD-GQO-HMV-HNN-CVG-FWA-40ESE ECK-20S YYZ \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 03Z. \nAREA 2...TURB ME NH VT MA RI CT NY NJ PA AND CSTL WTRS \nBOUNDED BY 80NW PQI-60NE PQI-170ENE ACK-70SSE ACK-60SSE HTO- \n50SSW HNK-SYR-MSS-50NE MSS-YSC-80NW PQI \nMOD TURB BTN 020 AND FL180. CONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-82.23,42.90],[-80.47,42.33],[-80.82,39.52],[-78.86,38.96],
+        [-80.52,35.22],[-84.21,33.16],[-84.91,32.44],[-85.15,34.96],
+        [-82.13,36.44],[-82.03,38.75],[-84.70,39.02],[-85.19,40.98],
+        [-82.23,42.90] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
       "icaoId": "KSLC", 
       "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "3", 
-      "altitudeLow1": 9000, 
-      "altitudeLow2": 12000, 
-      "altitudeHi2": 22000, 
-      "rawAirSigmet": "WAUS45 KKCI 262045 \nSLCZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...CO NM \nFROM 20SSE GLD TO 50W LBL TO 30ESE TBE TO 50S TBE TO 20NW LAA TO \n20SSE GLD \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS ENDG BY 00Z. \nFRZLVL...RANGING FROM 080-140 ACRS AREA \n 120 ALG 30S YQL-20NNE GTF-50SW BPI-30NNE MTU-20NW ALS-30SSE \n FTI-40SSW TXO"
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 42000, 
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...NV WA OR CA AND CSTL WTRS \nFROM 130WSW TOU TO 30ESE DSD TO 50ENE OAL TO 20NW LAS TO 30NNE \nEHF TO 80WNW RZS TO 160NW FOT TO 100W ONP TO 130WSW TOU \nMOD TURB BTN FL240 AND FL420. CONDS CONTG BYD 21Z THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-101.53,39.08],[-102.02,37.04],[-103.02,37.08],[-103.60,36.43],
-        [-102.99,38.43],[-101.53,39.08] ] ]
+        [[-127.59,47.43],[-120.65,44.06],[-116.79,38.32],[-115.45,36.31],
+        [-118.86,35.94],[-121.27,35.01],[-126.78,42.52],[-126.39,44.56],
+        [-127.59,47.43] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KBOS", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 40000, 
+      "rawAirSigmet": "WAUS41 KKCI 271445 \nBOST WA 271445 \nAIRMET TANGO UPDT 4 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...OH LE WV VA NC SC GA \nFROM 30SE ECK TO 20NNW ERI TO 30S AIR TO 50WNW CSN TO 20E CLT TO \n30SSE ATL TO 40SSE LGC TO GQO TO HMV TO HNN TO CVG TO FWA TO \n30SE ECK \nMOD TURB BTN FL240 AND FL400. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z \nAREA 1...TURB NY NJ PA OH LE WV MD DC DE VA NC SC GA FL AND CSTL \nWTRS \nBOUNDED BY 20S YYZ-30SW PSB-30SSW CYN-60E ORF-60SE CHS-40SE PZD- \n90SSE SJI-40W CEW-50SW PZD-GQO-HMV-HNN-CVG-FWA-40ESE ECK-20S YYZ \nMOD TURB BTN FL240 AND FL400. CONDS CONTG THRU 03Z. \nAREA 2...TURB ME NH VT MA RI CT NY NJ PA AND CSTL WTRS \nBOUNDED BY 80NW PQI-60NE PQI-170ENE ACK-70SSE ACK-60SSE HTO- \n50SSW HNK-SYR-MSS-50NE MSS-YSC-80NW PQI \nMOD TURB BTN 020 AND FL180. CONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-82.23,42.90],[-80.47,42.33],[-80.82,39.52],[-78.86,38.96],
+        [-80.52,35.22],[-84.21,33.16],[-84.91,32.44],[-85.15,34.96],
+        [-82.13,36.44],[-82.03,38.75],[-84.70,39.02],[-85.19,40.98],
+        [-82.23,42.90] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSLC", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 41000, 
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...AZ NM \nFROM 30N TCS TO 40WNW CME TO 50SSW TXO TO INK TO ELP TO 50S TUS \nTO 70SE BZA TO 30N TCS \nMOD TURB BTN FL240 AND FL410. CONDS ENDG BY 21Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-107.28,33.78],[-105.36,33.59],[-103.22,33.73],[-103.24,31.87],
+        [-106.28,31.82],[-110.92,31.26],[-113.63,31.94],[-107.28,33.78] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KSLC", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "TURB", 
+      "validTimeFrom": "2018-04-27T14:45:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "3", 
+      "altitudeLow1": 24000, 
+      "altitudeHi2": 41000, 
+      "rawAirSigmet": "WAUS45 KKCI 271445 \nSLCT WA 271445 \nAIRMET TANGO UPDT 2 FOR TURB AND LLWS VALID UNTIL 272100 \nAIRMET TURB...AZ NM \nFROM 30N TCS TO 40WNW CME TO 50SSW TXO TO INK TO ELP TO 50S TUS \nTO 70SE BZA TO 30N TCS \nMOD TURB BTN FL240 AND FL410. CONDS ENDG BY 21Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-107.28,33.78],[-105.36,33.59],[-103.22,33.73],[-103.24,31.87],
+        [-106.28,31.82],[-110.92,31.26],[-113.63,31.94],[-107.28,33.78] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KCHI", 
+      "airSigmetType": "AIRMET", 
+      "hazard": "IFR", 
+      "validTimeFrom": "2018-04-27T15:12:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
+      "severity": "0", 
+      "altitudeLow1": 0, 
+      "altitudeHi2": 1000, 
+      "rawAirSigmet": "WAUS43 KKCI 271512 AAA \nCHIS WA 271512 AMD \nAIRMET SIERRA UPDT 6 FOR IFR VALID UNTIL 272100 \nAIRMET IFR...LM LS MI LH IN \nFROM 60WNW SSM TO 60NNE ASP TO MKG TO 20SE GIJ TO 30NNW BVT TO \n60WNW TVC TO 60WNW SSM \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS ENDG 15-18Z. \nOTLK VALID 2100-0300Z...IFR IA WI LM IL \nBOUNDED BY 60W RHI-50SSE RHI-50ESE GRB-40ENE BAE-20ESE ORD-20E \nDBQ-40NW DBQ-20ENE ODI-20NNW EAU-60W RHI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 03Z."
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-85.66,46.78],[-82.85,45.37],[-86.04,43.17],[-86.01,41.53],
+        [-87.33,41.02],[-86.85,45.04],[-85.66,46.78] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
       "icaoId": "KMIA", 
       "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 9000, 
-      "altitudeLow2": 12000, 
-      "altitudeHi2": 22000, 
-      "rawAirSigmet": "WAUS42 KKCI 262045 \nMIAZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...NC SC GA FL PA OH WV MD DC DE VA AND CSTL WTRS \nFROM 20S HAR TO 20W SIE TO 30E ORF TO 60SW ECG TO 40SSE CAE TO \n40NW CTY TO 70SW TLH TO 40NNW PZD TO 30WSW ODF TO 40SSW GQO TO \nGQO TO HMV TO HNN TO 50WNW HNN TO 20S HAR \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG BYD 03Z \nTHRU 09Z. \nOTLK VALID 0300-0900Z...ICE NC SC GA CT NY NJ PA OH WV MD DC DE \nVA AND CSTL WTRS \nBOUNDED BY 30S HNK-20W HTO-40ESE CYN-40S SIE-140SE SIE-130SE \nECG-30WNW ILM-40SSE CAE-20SSE IRQ-30W SPA-40E GQO-HMV-HNN-20ESE \nSLT-30S HNK \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 080-140 ACRS AREA \n 120 ALG 50SW CEW-170W PIE-30SSE CRG-90SE ECG-120E ORF-150SE \n SIE"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-77.02,39.90],[-75.23,39.10],[-75.57,36.89],[-77.05,35.54],
-        [-80.75,33.25],[-83.59,30.07],[-85.32,29.73],[-84.59,32.27],
-        [-83.86,34.51],[-85.46,34.35],[-85.15,34.96],[-82.13,36.44],
-        [-82.03,38.75],[-83.02,39.07],[-77.02,39.90] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KDFW", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 9000, 
-      "altitudeLow2": 12000, 
-      "altitudeHi2": 22000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...OK TX NE KS \nFROM 80SSW OBH TO 40NE ICT TO 30E END TO 30WSW TUL TO 30E MLC TO \n30W TXK TO 30NE TTT TO 60SE ABI TO 20NW SJT TO 40SSE CDS TO 50S \nTBE TO 30ESE TBE TO 50W LBL TO 20SSE GLD TO 80SSW OBH \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG BYD 03Z \nTHRU 09Z. \nOTLK VALID 0300-0900Z...ICE OK TX AR LA KS \nBOUNDED BY 40SE SLN-40E END-60WSW LIT-30WSW ELD-30S EIC-20ENE \nACT-60SE ABI-30NW SJT-20NW ABI-20SE CDS-50S LBL-50SE GCK-50SW \nSLN-40SE SLN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 080-145 ACRS AREA \n 120 ALG 40SSW TXO-30NNW SJT-50WSW ACT-60E ACT-20SE EIC-50WSW \n MHZ-50SW CEW"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-99.02,40.15],[-96.98,38.22],[-97.30,36.35],[-96.36,36.01],
-        [-95.17,34.85],[-94.67,33.51],[-96.61,33.23],[-99.03,31.77],
-        [-100.74,31.61],[-99.97,33.76],[-103.60,36.43],[-103.02,37.08],
-        [-102.02,37.04],[-101.53,39.08],[-99.02,40.15] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KSFO", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T02:45:00Z", 
-      "severity": "1", 
-      "rawAirSigmet": "WAUS46 KKCI 262045 \nSFOZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET NO SGFNT ICE EXP OUTSIDE OF CNVTV ACT. \n \nOTLK VALID 0300-0900Z...ICE WA OR CA AND CSTL WTRS \nBOUNDED BY 130WSW TOU-50W HQM-50SSW EUG-50ESE OED-70SSE OED-40NNE \nFOT-80NNW FOT-160SW ONP-110W ONP-130WSW TOU \nMOD ICE BTN 100 AND FL200. CONDS DVLPG 03-06Z. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 075-140 ACRS AREA \n 080 ALG 130WSW ENI-120WSW ENI-110SW FOT-120W FOT-140W FOT \n 120 ALG 140SSW SNS-40SW SNS-RBL-30NE ONP-60WNW HQM-40NW TOU"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [ ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KDFW", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 9000, 
-      "altitudeLow2": 12000, 
-      "altitudeHi2": 22000, 
-      "rawAirSigmet": "WAUS44 KKCI 262045 \nDFWZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...TN MS AL IN KY \nFROM 50WNW HNN TO HNN TO HMV TO GQO TO 40SSW GQO TO 30NNE VUZ TO \n40SE MEM TO 60NNE DYR TO 60SE CVG TO 50WNW HNN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG BYD 03Z \nENDG BY 09Z. \nOTLK VALID 0300-0900Z...ICE OK TX AR LA KS \nBOUNDED BY 40SE SLN-40E END-60WSW LIT-30WSW ELD-30S EIC-20ENE \nACT-60SE ABI-30NW SJT-20NW ABI-20SE CDS-50S LBL-50SE GCK-50SW \nSLN-40SE SLN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 080-145 ACRS AREA \n 120 ALG 40SSW TXO-30NNW SJT-50WSW ACT-60E ACT-20SE EIC-50WSW \n MHZ-50SW CEW"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-83.02,39.07],[-82.03,38.75],[-82.13,36.44],[-85.15,34.96],
-        [-85.46,34.35],[-86.67,34.13],[-89.41,34.59],[-88.84,36.94],
-        [-83.80,38.31],[-83.02,39.07] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KSFO", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T02:45:00Z", 
-      "severity": "1", 
-      "rawAirSigmet": "WAUS46 KKCI 262045 \nSFOZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET NO SGFNT ICE EXP OUTSIDE OF CNVTV ACT. \n \nOTLK VALID 0300-0900Z...ICE WA OR CA AND CSTL WTRS \nBOUNDED BY 130WSW TOU-50W HQM-50SSW EUG-50ESE OED-70SSE OED-40NNE \nFOT-80NNW FOT-160SW ONP-110W ONP-130WSW TOU \nMOD ICE BTN 100 AND FL200. CONDS DVLPG 03-06Z. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 075-140 ACRS AREA \n 080 ALG 130WSW ENI-120WSW ENI-110SW FOT-120W FOT-140W FOT \n 120 ALG 140SSW SNS-40SW SNS-RBL-30NE ONP-60WNW HQM-40NW TOU"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [ ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KBOS", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 9000, 
-      "altitudeLow2": 12000, 
-      "altitudeHi2": 22000, 
-      "rawAirSigmet": "WAUS41 KKCI 262045 \nBOSZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...PA OH WV MD DC DE VA NC SC GA FL AND CSTL WTRS \nFROM 20S HAR TO 20W SIE TO 30E ORF TO 60SW ECG TO 40SSE CAE TO \n40NW CTY TO 70SW TLH TO 40NNW PZD TO 30WSW ODF TO 40SSW GQO TO \nGQO TO HMV TO HNN TO 50WNW HNN TO 20S HAR \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG BYD 03Z \nTHRU 09Z. \nOTLK VALID 0300-0900Z...ICE CT NY NJ PA OH WV MD DC DE VA NC SC \nGA AND CSTL WTRS \nBOUNDED BY 30S HNK-20W HTO-40ESE CYN-40S SIE-140SE SIE-130SE \nECG-30WNW ILM-40SSE CAE-20SSE IRQ-30W SPA-40E GQO-HMV-HNN-20ESE \nSLT-30S HNK \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 065-125 ACRS AREA \n 080 ALG 20ENE DXO-50NNW ERI-30NNE YYZ-60NE YYZ-60WNW SYR-30E \n ALB-70SW YSJ \n 120 ALG 150SE SIE-160ESE ACK"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-77.02,39.90],[-75.23,39.10],[-75.57,36.89],[-77.05,35.54],
-        [-80.75,33.25],[-83.59,30.07],[-85.32,29.73],[-84.59,32.27],
-        [-83.86,34.51],[-85.46,34.35],[-85.15,34.96],[-82.13,36.44],
-        [-82.03,38.75],[-83.02,39.07],[-77.02,39.90] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KBOS", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 9000, 
-      "altitudeLow2": 12000, 
-      "altitudeHi2": 22000, 
-      "rawAirSigmet": "WAUS41 KKCI 262045 \nBOSZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...PA OH WV MD DC DE VA NC SC GA FL AND CSTL WTRS \nFROM 20S HAR TO 20W SIE TO 30E ORF TO 60SW ECG TO 40SSE CAE TO \n40NW CTY TO 70SW TLH TO 40NNW PZD TO 30WSW ODF TO 40SSW GQO TO \nGQO TO HMV TO HNN TO 50WNW HNN TO 20S HAR \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG BYD 03Z \nTHRU 09Z. \nOTLK VALID 0300-0900Z...ICE CT NY NJ PA OH WV MD DC DE VA NC SC \nGA AND CSTL WTRS \nBOUNDED BY 30S HNK-20W HTO-40ESE CYN-40S SIE-140SE SIE-130SE \nECG-30WNW ILM-40SSE CAE-20SSE IRQ-30W SPA-40E GQO-HMV-HNN-20ESE \nSLT-30S HNK \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 065-125 ACRS AREA \n 080 ALG 20ENE DXO-50NNW ERI-30NNE YYZ-60NE YYZ-60WNW SYR-30E \n ALB-70SW YSJ \n 120 ALG 150SE SIE-160ESE ACK"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-77.02,39.90],[-75.23,39.10],[-75.57,36.89],[-77.05,35.54],
-        [-80.75,33.25],[-83.59,30.07],[-85.32,29.73],[-84.59,32.27],
-        [-83.86,34.51],[-85.46,34.35],[-85.15,34.96],[-82.13,36.44],
-        [-82.03,38.75],[-83.02,39.07],[-77.02,39.90] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 3000, 
-      "altitudeLow2": 7000, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...ND MN \nFROM 70NW INL TO 80W YQT TO 40N DLH TO 20S BJI TO 20SSE GFK TO \n60SSW YWG TO 70NW INL \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 030-070. CONDS DVLPG 21-00Z. \nCONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...ICE ND MN WI LS \nBOUNDED BY 40SSW YWG-50NW INL-70W YQT-30ENE DLH-60S DLH-70SSE \nFAR-40SSW YWG \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 030-070. CONDS CONTG THRU \n09Z. \nAREA 2...ICE WI LM LS MI LH IL \nBOUNDED BY 60NW SSM-SSM-60SE SSM-50NW ASP-20WSW PMM-20W ORD-50E \nDBQ-30NNW DLL-30WSW SAW-60NW SSM \nMOD ICE BTN FRZLVL AND 160. FRZLVL 020-070. CONDS CONTG THRU 09Z. \nAREA 3...ICE KS OK TX AR LA \nBOUNDED BY 40SE SLN-40E END-60WSW LIT-30WSW ELD-30S EIC-20ENE \nACT-60SE ABI-30NW SJT-20NW ABI-20SE CDS-50S LBL-50SE GCK-50SW \nSLN-40SE SLN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 025-095 ACRS AREA \n 040 ALG 30NNE INL-80W YQT-70N RHI-40W SAW-50WNW SSM \n 080 ALG 50N ISN-40NNW RAP-50E BFF-40W LBF-50ENE HLC-DSM-20ENE \n DXO"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-94.67,49.39],[-91.32,48.35],[-92.20,47.46],[-95.02,47.25],
-        [-97.00,47.64],[-97.81,48.98],[-94.67,49.39] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 3000, 
-      "altitudeLow2": 7000, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...ND MN \nFROM 70NW INL TO 80W YQT TO 40N DLH TO 20S BJI TO 20SSE GFK TO \n60SSW YWG TO 70NW INL \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 030-070. CONDS DVLPG 21-00Z. \nCONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...ICE ND MN WI LS \nBOUNDED BY 40SSW YWG-50NW INL-70W YQT-30ENE DLH-60S DLH-70SSE \nFAR-40SSW YWG \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 030-070. CONDS CONTG THRU \n09Z. \nAREA 2...ICE WI LM LS MI LH IL \nBOUNDED BY 60NW SSM-SSM-60SE SSM-50NW ASP-20WSW PMM-20W ORD-50E \nDBQ-30NNW DLL-30WSW SAW-60NW SSM \nMOD ICE BTN FRZLVL AND 160. FRZLVL 020-070. CONDS CONTG THRU 09Z. \nAREA 3...ICE KS OK TX AR LA \nBOUNDED BY 40SE SLN-40E END-60WSW LIT-30WSW ELD-30S EIC-20ENE \nACT-60SE ABI-30NW SJT-20NW ABI-20SE CDS-50S LBL-50SE GCK-50SW \nSLN-40SE SLN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 025-095 ACRS AREA \n 040 ALG 30NNE INL-80W YQT-70N RHI-40W SAW-50WNW SSM \n 080 ALG 50N ISN-40NNW RAP-50E BFF-40W LBF-50ENE HLC-DSM-20ENE \n DXO"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-94.67,49.39],[-91.32,48.35],[-92.20,47.46],[-95.02,47.25],
-        [-97.00,47.64],[-97.81,48.98],[-94.67,49.39] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KBOS", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 7000, 
-      "altitudeLow2": 9000, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS41 KKCI 262045 \nBOSZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...ME NH VT \nFROM 80NW PQI TO 40NNE PQI TO 20SSE HUL TO 30SW BGR TO 20SSW MPV \nTO 50WSW YSC TO 20ESE YSC TO 80NW PQI \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 070-090. CONDS CONTG BYD 03Z \nENDG 03-06Z. \nOTLK VALID 0300-0900Z...ICE CT NY NJ PA OH WV MD DC DE VA NC SC \nGA AND CSTL WTRS \nBOUNDED BY 30S HNK-20W HTO-40ESE CYN-40S SIE-140SE SIE-130SE \nECG-30WNW ILM-40SSE CAE-20SSE IRQ-30W SPA-40E GQO-HMV-HNN-20ESE \nSLT-30S HNK \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 065-125 ACRS AREA \n 080 ALG 20ENE DXO-50NNW ERI-30NNE YYZ-60NE YYZ-60WNW SYR-30E \n ALB-70SW YSJ \n 120 ALG 150SE SIE-160ESE ACK"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-69.49,47.70],[-67.71,47.38],[-67.65,45.73],[-69.37,44.48],
-        [-72.75,43.91],[-72.77,45.11],[-71.24,45.30],[-69.49,47.70] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 9000, 
-      "altitudeLow2": 12000, 
-      "altitudeHi2": 22000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...NE KS OK TX \nFROM 80SSW OBH TO 40NE ICT TO 30E END TO 30WSW TUL TO 30E MLC TO \n30W TXK TO 30NE TTT TO 60SE ABI TO 20NW SJT TO 40SSE CDS TO 50S \nTBE TO 30ESE TBE TO 50W LBL TO 20SSE GLD TO 80SSW OBH \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG BYD 03Z \nTHRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...ICE ND MN WI LS \nBOUNDED BY 40SSW YWG-50NW INL-70W YQT-30ENE DLH-60S DLH-70SSE \nFAR-40SSW YWG \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 030-070. CONDS CONTG THRU \n09Z. \nAREA 2...ICE WI LM LS MI LH IL \nBOUNDED BY 60NW SSM-SSM-60SE SSM-50NW ASP-20WSW PMM-20W ORD-50E \nDBQ-30NNW DLL-30WSW SAW-60NW SSM \nMOD ICE BTN FRZLVL AND 160. FRZLVL 020-070. CONDS CONTG THRU 09Z. \nAREA 3...ICE KS OK TX AR LA \nBOUNDED BY 40SE SLN-40E END-60WSW LIT-30WSW ELD-30S EIC-20ENE \nACT-60SE ABI-30NW SJT-20NW ABI-20SE CDS-50S LBL-50SE GCK-50SW \nSLN-40SE SLN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 025-095 ACRS AREA \n 040 ALG 30NNE INL-80W YQT-70N RHI-40W SAW-50WNW SSM \n 080 ALG 50N ISN-40NNW RAP-50E BFF-40W LBF-50ENE HLC-DSM-20ENE \n DXO"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-99.02,40.15],[-96.98,38.22],[-97.30,36.35],[-96.36,36.01],
-        [-95.17,34.85],[-94.67,33.51],[-96.61,33.23],[-99.03,31.77],
-        [-100.74,31.61],[-99.97,33.76],[-103.60,36.43],[-103.02,37.08],
-        [-102.02,37.04],[-101.53,39.08],[-99.02,40.15] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KBOS", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 7000, 
-      "altitudeLow2": 9000, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS41 KKCI 262045 \nBOSZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...ME NH VT \nFROM 80NW PQI TO 40NNE PQI TO 20SSE HUL TO 30SW BGR TO 20SSW MPV \nTO 50WSW YSC TO 20ESE YSC TO 80NW PQI \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 070-090. CONDS CONTG BYD 03Z \nENDG 03-06Z. \nOTLK VALID 0300-0900Z...ICE CT NY NJ PA OH WV MD DC DE VA NC SC \nGA AND CSTL WTRS \nBOUNDED BY 30S HNK-20W HTO-40ESE CYN-40S SIE-140SE SIE-130SE \nECG-30WNW ILM-40SSE CAE-20SSE IRQ-30W SPA-40E GQO-HMV-HNN-20ESE \nSLT-30S HNK \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 065-125 ACRS AREA \n 080 ALG 20ENE DXO-50NNW ERI-30NNE YYZ-60NE YYZ-60WNW SYR-30E \n ALB-70SW YSJ \n 120 ALG 150SE SIE-160ESE ACK"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-69.49,47.70],[-67.71,47.38],[-67.65,45.73],[-69.37,44.48],
-        [-72.75,43.91],[-72.77,45.11],[-71.24,45.30],[-69.49,47.70] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 9000, 
-      "altitudeLow2": 12000, 
-      "altitudeHi2": 22000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...NE KS OK TX \nFROM 80SSW OBH TO 40NE ICT TO 30E END TO 30WSW TUL TO 30E MLC TO \n30W TXK TO 30NE TTT TO 60SE ABI TO 20NW SJT TO 40SSE CDS TO 50S \nTBE TO 30ESE TBE TO 50W LBL TO 20SSE GLD TO 80SSW OBH \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG BYD 03Z \nTHRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...ICE ND MN WI LS \nBOUNDED BY 40SSW YWG-50NW INL-70W YQT-30ENE DLH-60S DLH-70SSE \nFAR-40SSW YWG \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 030-070. CONDS CONTG THRU \n09Z. \nAREA 2...ICE WI LM LS MI LH IL \nBOUNDED BY 60NW SSM-SSM-60SE SSM-50NW ASP-20WSW PMM-20W ORD-50E \nDBQ-30NNW DLL-30WSW SAW-60NW SSM \nMOD ICE BTN FRZLVL AND 160. FRZLVL 020-070. CONDS CONTG THRU 09Z. \nAREA 3...ICE KS OK TX AR LA \nBOUNDED BY 40SE SLN-40E END-60WSW LIT-30WSW ELD-30S EIC-20ENE \nACT-60SE ABI-30NW SJT-20NW ABI-20SE CDS-50S LBL-50SE GCK-50SW \nSLN-40SE SLN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 025-095 ACRS AREA \n 040 ALG 30NNE INL-80W YQT-70N RHI-40W SAW-50WNW SSM \n 080 ALG 50N ISN-40NNW RAP-50E BFF-40W LBF-50ENE HLC-DSM-20ENE \n DXO"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-99.02,40.15],[-96.98,38.22],[-97.30,36.35],[-96.36,36.01],
-        [-95.17,34.85],[-94.67,33.51],[-96.61,33.23],[-99.03,31.77],
-        [-100.74,31.61],[-99.97,33.76],[-103.60,36.43],[-103.02,37.08],
-        [-102.02,37.04],[-101.53,39.08],[-99.02,40.15] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 9000, 
-      "altitudeLow2": 12000, 
-      "altitudeHi2": 22000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...IN KY TN MS AL \nFROM 50WNW HNN TO HNN TO HMV TO GQO TO 40SSW GQO TO 30NNE VUZ TO \n40SE MEM TO 60NNE DYR TO 60SE CVG TO 50WNW HNN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG BYD 03Z \nENDG BY 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...ICE ND MN WI LS \nBOUNDED BY 40SSW YWG-50NW INL-70W YQT-30ENE DLH-60S DLH-70SSE \nFAR-40SSW YWG \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 030-070. CONDS CONTG THRU \n09Z. \nAREA 2...ICE WI LM LS MI LH IL \nBOUNDED BY 60NW SSM-SSM-60SE SSM-50NW ASP-20WSW PMM-20W ORD-50E \nDBQ-30NNW DLL-30WSW SAW-60NW SSM \nMOD ICE BTN FRZLVL AND 160. FRZLVL 020-070. CONDS CONTG THRU 09Z. \nAREA 3...ICE KS OK TX AR LA \nBOUNDED BY 40SE SLN-40E END-60WSW LIT-30WSW ELD-30S EIC-20ENE \nACT-60SE ABI-30NW SJT-20NW ABI-20SE CDS-50S LBL-50SE GCK-50SW \nSLN-40SE SLN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 025-095 ACRS AREA \n 040 ALG 30NNE INL-80W YQT-70N RHI-40W SAW-50WNW SSM \n 080 ALG 50N ISN-40NNW RAP-50E BFF-40W LBF-50ENE HLC-DSM-20ENE \n DXO"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-83.02,39.07],[-82.03,38.75],[-82.13,36.44],[-85.15,34.96],
-        [-85.46,34.35],[-86.67,34.13],[-89.41,34.59],[-88.84,36.94],
-        [-83.80,38.31],[-83.02,39.07] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 9000, 
-      "altitudeLow2": 12000, 
-      "altitudeHi2": 22000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...IN KY TN MS AL \nFROM 50WNW HNN TO HNN TO HMV TO GQO TO 40SSW GQO TO 30NNE VUZ TO \n40SE MEM TO 60NNE DYR TO 60SE CVG TO 50WNW HNN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG BYD 03Z \nENDG BY 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...ICE ND MN WI LS \nBOUNDED BY 40SSW YWG-50NW INL-70W YQT-30ENE DLH-60S DLH-70SSE \nFAR-40SSW YWG \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 030-070. CONDS CONTG THRU \n09Z. \nAREA 2...ICE WI LM LS MI LH IL \nBOUNDED BY 60NW SSM-SSM-60SE SSM-50NW ASP-20WSW PMM-20W ORD-50E \nDBQ-30NNW DLL-30WSW SAW-60NW SSM \nMOD ICE BTN FRZLVL AND 160. FRZLVL 020-070. CONDS CONTG THRU 09Z. \nAREA 3...ICE KS OK TX AR LA \nBOUNDED BY 40SE SLN-40E END-60WSW LIT-30WSW ELD-30S EIC-20ENE \nACT-60SE ABI-30NW SJT-20NW ABI-20SE CDS-50S LBL-50SE GCK-50SW \nSLN-40SE SLN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 025-095 ACRS AREA \n 040 ALG 30NNE INL-80W YQT-70N RHI-40W SAW-50WNW SSM \n 080 ALG 50N ISN-40NNW RAP-50E BFF-40W LBF-50ENE HLC-DSM-20ENE \n DXO"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-83.02,39.07],[-82.03,38.75],[-82.13,36.44],[-85.15,34.96],
-        [-85.46,34.35],[-86.67,34.13],[-89.41,34.59],[-88.84,36.94],
-        [-83.80,38.31],[-83.02,39.07] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 3000, 
-      "altitudeLow2": 9000, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...MN IA WI LM LS MI LH \nFROM 40ESE YQT TO 50WNW SSM TO 40SSE SSM TO 20W TVC TO 60SW TVC \nTO 50SSE GRB TO 30ESE BAE TO 50SSE DLL TO 50NW IOW TO FOD TO \n60SSE DLH TO 80S YQT TO 40ESE YQT \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 030-090. CONDS CONTG BYD 03Z \nTHRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...ICE ND MN WI LS \nBOUNDED BY 40SSW YWG-50NW INL-70W YQT-30ENE DLH-60S DLH-70SSE \nFAR-40SSW YWG \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 030-070. CONDS CONTG THRU \n09Z. \nAREA 2...ICE WI LM LS MI LH IL \nBOUNDED BY 60NW SSM-SSM-60SE SSM-50NW ASP-20WSW PMM-20W ORD-50E \nDBQ-30NNW DLL-30WSW SAW-60NW SSM \nMOD ICE BTN FRZLVL AND 160. FRZLVL 020-070. CONDS CONTG THRU 09Z. \nAREA 3...ICE KS OK TX AR LA \nBOUNDED BY 40SE SLN-40E END-60WSW LIT-30WSW ELD-30S EIC-20ENE \nACT-60SE ABI-30NW SJT-20NW ABI-20SE CDS-50S LBL-50SE GCK-50SW \nSLN-40SE SLN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 025-095 ACRS AREA \n 040 ALG 30NNE INL-80W YQT-70N RHI-40W SAW-50WNW SSM \n 080 ALG 50N ISN-40NNW RAP-50E BFF-40W LBF-50ENE HLC-DSM-20ENE \n DXO"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-88.40,48.11],[-85.44,46.72],[-83.95,45.80],[-86.02,44.67],
-        [-86.53,43.96],[-87.75,43.79],[-87.65,42.93],[-89.32,42.78],
-        [-92.41,42.11],[-94.29,42.61],[-91.65,45.88],[-89.32,47.04],
-        [-88.40,48.11] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KCHI", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "ICE", 
-      "validTimeFrom": "2018-04-26T20:45:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "3", 
-      "altitudeLow1": 3000, 
-      "altitudeLow2": 9000, 
-      "altitudeHi2": 18000, 
-      "rawAirSigmet": "WAUS43 KKCI 262045 \nCHIZ WA 262045 \nAIRMET ZULU UPDT 3 FOR ICE AND FRZLVL VALID UNTIL 270300 \nAIRMET ICE...MN IA WI LM LS MI LH \nFROM 40ESE YQT TO 50WNW SSM TO 40SSE SSM TO 20W TVC TO 60SW TVC \nTO 50SSE GRB TO 30ESE BAE TO 50SSE DLL TO 50NW IOW TO FOD TO \n60SSE DLH TO 80S YQT TO 40ESE YQT \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 030-090. CONDS CONTG BYD 03Z \nTHRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...ICE ND MN WI LS \nBOUNDED BY 40SSW YWG-50NW INL-70W YQT-30ENE DLH-60S DLH-70SSE \nFAR-40SSW YWG \nMOD ICE BTN FRZLVL AND FL180. FRZLVL 030-070. CONDS CONTG THRU \n09Z. \nAREA 2...ICE WI LM LS MI LH IL \nBOUNDED BY 60NW SSM-SSM-60SE SSM-50NW ASP-20WSW PMM-20W ORD-50E \nDBQ-30NNW DLL-30WSW SAW-60NW SSM \nMOD ICE BTN FRZLVL AND 160. FRZLVL 020-070. CONDS CONTG THRU 09Z. \nAREA 3...ICE KS OK TX AR LA \nBOUNDED BY 40SE SLN-40E END-60WSW LIT-30WSW ELD-30S EIC-20ENE \nACT-60SE ABI-30NW SJT-20NW ABI-20SE CDS-50S LBL-50SE GCK-50SW \nSLN-40SE SLN \nMOD ICE BTN FRZLVL AND FL220. FRZLVL 090-120. CONDS CONTG THRU \n09Z. \nFRZLVL...RANGING FROM 025-095 ACRS AREA \n 040 ALG 30NNE INL-80W YQT-70N RHI-40W SAW-50WNW SSM \n 080 ALG 50N ISN-40NNW RAP-50E BFF-40W LBF-50ENE HLC-DSM-20ENE \n DXO"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-88.40,48.11],[-85.44,46.72],[-83.95,45.80],[-86.02,44.67],
-        [-86.53,43.96],[-87.75,43.79],[-87.65,42.93],[-89.32,42.78],
-        [-92.41,42.11],[-94.29,42.61],[-91.65,45.88],[-89.32,47.04],
-        [-88.40,48.11] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KBOS", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T21:24:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "hazard": "MTN OBSCN", 
+      "validTimeFrom": "2018-04-27T15:12:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "0", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 1000, 
-      "rawAirSigmet": "WAUS41 KKCI 262124 AAA \nBOSS WA 262124 AMD \nAIRMET SIERRA UPDT 4 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET IFR...WV VA NC SC GA FL \nFROM 30SSW EKN TO 40SSW LYH TO 40SSE MCN TO 50ESE CEW TO 50SW \nPZD TO GQO TO HMV TO 30SSW EKN \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR PA OH WV MD VA NC SC GA AND CSTL WTRS \nBOUNDED BY 30WNW AIR-40SSE JST-20WNW DCA-50S SBY-70SE ECG-40E \nILM-30SSW RDU-20WNW FLO-40NNW SAV-40SSE MCN-30NNW PZD-GQO-HMV- \nHNN-60E CVG-30WNW AIR \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 2...IFR ME NH VT MA NY AND CSTL WTRS \nBOUNDED BY 90NW PQI-30NE PQI-20SSE HUL-60ESE BGR-20NNE ENE-30NNE \nBDL-50NE SYR-MSS-20WNW YSC-90NW PQI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 3...MTN OBSCN PA WV MD VA NC SC GA \nBOUNDED BY 20SW HAR-40SSE PSK-CLT-ATL-GQO-HMV-HNN-40ESE AIR-20SW \nHAR \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG THRU 09Z."
+      "rawAirSigmet": "WAUS42 KKCI 271512 AAA \nMIAS WA 271512 AMD \nAIRMET SIERRA UPDT 6 FOR IFR AND MTN OBSCN VALID UNTIL 272100 \nAIRMET MTN OBSCN...NC SC GA ME NH VT MA NY PA WV MD VA \nFROM 70NW PQI TO MLT TO CON TO HAR TO CLT TO 30S ODF TO 40E GQO \nTO HMV TO HNN TO SLT TO MSS TO YSC TO 70NW PQI \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 21Z THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-80.35,38.45],[-79.55,36.64],[-83.35,32.08],[-85.78,30.51],
-        [-84.98,31.07],[-85.15,34.96],[-82.13,36.44],[-80.35,38.45] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KBOS", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T21:24:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "0", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 1000, 
-      "rawAirSigmet": "WAUS41 KKCI 262124 AAA \nBOSS WA 262124 AMD \nAIRMET SIERRA UPDT 4 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET IFR...WV VA NC SC GA FL \nFROM 30SSW EKN TO 40SSW LYH TO 40SSE MCN TO 50ESE CEW TO 50SW \nPZD TO GQO TO HMV TO 30SSW EKN \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR PA OH WV MD VA NC SC GA AND CSTL WTRS \nBOUNDED BY 30WNW AIR-40SSE JST-20WNW DCA-50S SBY-70SE ECG-40E \nILM-30SSW RDU-20WNW FLO-40NNW SAV-40SSE MCN-30NNW PZD-GQO-HMV- \nHNN-60E CVG-30WNW AIR \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 2...IFR ME NH VT MA NY AND CSTL WTRS \nBOUNDED BY 90NW PQI-30NE PQI-20SSE HUL-60ESE BGR-20NNE ENE-30NNE \nBDL-50NE SYR-MSS-20WNW YSC-90NW PQI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 3...MTN OBSCN PA WV MD VA NC SC GA \nBOUNDED BY 20SW HAR-40SSE PSK-CLT-ATL-GQO-HMV-HNN-40ESE AIR-20SW \nHAR \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-80.35,38.45],[-79.55,36.64],[-83.35,32.08],[-85.78,30.51],
-        [-84.98,31.07],[-85.15,34.96],[-82.13,36.44],[-80.35,38.45] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KBOS", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T21:24:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "0", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 1000, 
-      "rawAirSigmet": "WAUS41 KKCI 262124 AAA \nBOSS WA 262124 AMD \nAIRMET SIERRA UPDT 4 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET IFR...ME NH VT MA NY AND CSTL WTRS...UPDT \nFROM 80NE PQI TO 40W YSJ TO 140E ACK TO 70SE BGR TO 30W MLT TO \n30N CON TO 50E MSS TO YSC TO 70NW PQI TO 80NE PQI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR PA OH WV MD VA NC SC GA AND CSTL WTRS \nBOUNDED BY 30WNW AIR-40SSE JST-20WNW DCA-50S SBY-70SE ECG-40E \nILM-30SSW RDU-20WNW FLO-40NNW SAV-40SSE MCN-30NNW PZD-GQO-HMV- \nHNN-60E CVG-30WNW AIR \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 2...IFR ME NH VT MA NY AND CSTL WTRS \nBOUNDED BY 90NW PQI-30NE PQI-20SSE HUL-60ESE BGR-20NNE ENE-30NNE \nBDL-50NE SYR-MSS-20WNW YSC-90NW PQI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 3...MTN OBSCN PA WV MD VA NC SC GA \nBOUNDED BY 20SW HAR-40SSE PSK-CLT-ATL-GQO-HMV-HNN-40ESE AIR-20SW \nHAR \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-66.69,47.70],[-66.83,45.32],[-66.94,41.24],[-67.72,44.01],
-        [-69.24,45.58],[-71.58,43.72],[-73.54,44.90],[-71.68,45.43],
-        [-69.31,47.59],[-66.69,47.70] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KBOS", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "IFR", 
-      "validTimeFrom": "2018-04-26T21:24:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "0", 
-      "altitudeLow1": 0, 
-      "altitudeHi2": 1000, 
-      "rawAirSigmet": "WAUS41 KKCI 262124 AAA \nBOSS WA 262124 AMD \nAIRMET SIERRA UPDT 4 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET IFR...ME NH VT MA NY AND CSTL WTRS...UPDT \nFROM 80NE PQI TO 40W YSJ TO 140E ACK TO 70SE BGR TO 30W MLT TO \n30N CON TO 50E MSS TO YSC TO 70NW PQI TO 80NE PQI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR PA OH WV MD VA NC SC GA AND CSTL WTRS \nBOUNDED BY 30WNW AIR-40SSE JST-20WNW DCA-50S SBY-70SE ECG-40E \nILM-30SSW RDU-20WNW FLO-40NNW SAV-40SSE MCN-30NNW PZD-GQO-HMV- \nHNN-60E CVG-30WNW AIR \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 2...IFR ME NH VT MA NY AND CSTL WTRS \nBOUNDED BY 90NW PQI-30NE PQI-20SSE HUL-60ESE BGR-20NNE ENE-30NNE \nBDL-50NE SYR-MSS-20WNW YSC-90NW PQI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 3...MTN OBSCN PA WV MD VA NC SC GA \nBOUNDED BY 20SW HAR-40SSE PSK-CLT-ATL-GQO-HMV-HNN-40ESE AIR-20SW \nHAR \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-66.69,47.70],[-66.83,45.32],[-66.94,41.24],[-67.72,44.01],
-        [-69.24,45.58],[-71.58,43.72],[-73.54,44.90],[-71.68,45.43],
-        [-69.31,47.59],[-66.69,47.70] ] ]
+        [[-69.31,47.59],[-68.52,45.58],[-71.58,43.22],[-77.02,40.23],
+        [-80.93,35.22],[-83.30,34.20],[-84.34,34.96],[-82.13,36.44],
+        [-82.03,38.75],[-77.97,41.51],[-74.72,44.91],[-71.68,45.43],
+        [-69.31,47.59] ] ]
     } 
   },
   { "type": "Feature",
@@ -1524,70 +1248,55 @@
       "icaoId": "KBOS", 
       "airSigmetType": "AIRMET", 
       "hazard": "MTN OBSCN", 
-      "validTimeFrom": "2018-04-26T21:24:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "validTimeFrom": "2018-04-27T15:12:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "0", 
-      "rawAirSigmet": "WAUS41 KKCI 262124 AAA \nBOSS WA 262124 AMD \nAIRMET SIERRA UPDT 4 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET MTN OBSCN...WV VA NC SC GA \nFROM EKN TO 30N LYH TO 40SSE PSK TO CLT TO ATL TO GQO TO HMV TO \n60SSW HNN TO EKN \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR PA OH WV MD VA NC SC GA AND CSTL WTRS \nBOUNDED BY 30WNW AIR-40SSE JST-20WNW DCA-50S SBY-70SE ECG-40E \nILM-30SSW RDU-20WNW FLO-40NNW SAV-40SSE MCN-30NNW PZD-GQO-HMV- \nHNN-60E CVG-30WNW AIR \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 2...IFR ME NH VT MA NY AND CSTL WTRS \nBOUNDED BY 90NW PQI-30NE PQI-20SSE HUL-60ESE BGR-20NNE ENE-30NNE \nBDL-50NE SYR-MSS-20WNW YSC-90NW PQI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 3...MTN OBSCN PA WV MD VA NC SC GA \nBOUNDED BY 20SW HAR-40SSE PSK-CLT-ATL-GQO-HMV-HNN-40ESE AIR-20SW \nHAR \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG THRU 09Z."
+      "rawAirSigmet": "WAUS41 KKCI 271512 AAA \nBOSS WA 271512 AMD \nAIRMET SIERRA UPDT 6 FOR IFR AND MTN OBSCN VALID UNTIL 272100 \nAIRMET MTN OBSCN...ME NH VT MA NY PA WV MD VA NC SC GA \nFROM 70NW PQI TO MLT TO CON TO HAR TO CLT TO 30S ODF TO 40E GQO \nTO HMV TO HNN TO SLT TO MSS TO YSC TO 70NW PQI \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z...IFR ME NH VT MA RI CT NY NJ PA AND CSTL \nWTRS \nBOUNDED BY 70NW PQI-40NE PQI-130E ACK-20SSE CYN-30NE HAR-MSS-YSC- \n70NW PQI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS DVLPG 21-00Z. CONDS CONTG \nTHRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-80.10,38.92],[-79.23,37.75],[-80.39,36.48],[-80.93,35.22],
-        [-84.44,33.63],[-85.15,34.96],[-82.13,36.44],[-82.51,37.83],
-        [-80.10,38.92] ] ]
+        [[-69.31,47.59],[-68.52,45.58],[-71.58,43.22],[-77.02,40.23],
+        [-80.93,35.22],[-83.30,34.20],[-84.34,34.96],[-82.13,36.44],
+        [-82.03,38.75],[-77.97,41.51],[-74.72,44.91],[-71.68,45.43],
+        [-69.31,47.59] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
-      "icaoId": "KBOS", 
+      "icaoId": "KCHI", 
       "airSigmetType": "AIRMET", 
-      "hazard": "MTN OBSCN", 
-      "validTimeFrom": "2018-04-26T21:24:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "hazard": "IFR", 
+      "validTimeFrom": "2018-04-27T15:12:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "0", 
-      "rawAirSigmet": "WAUS41 KKCI 262124 AAA \nBOSS WA 262124 AMD \nAIRMET SIERRA UPDT 4 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET MTN OBSCN...WV VA NC SC GA \nFROM EKN TO 30N LYH TO 40SSE PSK TO CLT TO ATL TO GQO TO HMV TO \n60SSW HNN TO EKN \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR PA OH WV MD VA NC SC GA AND CSTL WTRS \nBOUNDED BY 30WNW AIR-40SSE JST-20WNW DCA-50S SBY-70SE ECG-40E \nILM-30SSW RDU-20WNW FLO-40NNW SAV-40SSE MCN-30NNW PZD-GQO-HMV- \nHNN-60E CVG-30WNW AIR \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 2...IFR ME NH VT MA NY AND CSTL WTRS \nBOUNDED BY 90NW PQI-30NE PQI-20SSE HUL-60ESE BGR-20NNE ENE-30NNE \nBDL-50NE SYR-MSS-20WNW YSC-90NW PQI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 3...MTN OBSCN PA WV MD VA NC SC GA \nBOUNDED BY 20SW HAR-40SSE PSK-CLT-ATL-GQO-HMV-HNN-40ESE AIR-20SW \nHAR \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG THRU 09Z."
+      "altitudeLow1": 0, 
+      "altitudeHi2": 1000, 
+      "rawAirSigmet": "WAUS43 KKCI 271512 AAA \nCHIS WA 271512 AMD \nAIRMET SIERRA UPDT 6 FOR IFR VALID UNTIL 272100 \nAIRMET IFR...MN WI LM LS MI...UPDT \nFROM 20NW INL TO 50WSW YQT TO RHI TO 50ESE GRB TO 30E BAE TO DLL \nTO 20NW INL \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z...IFR IA WI LM IL \nBOUNDED BY 60W RHI-50SSE RHI-50ESE GRB-40ENE BAE-20ESE ORD-20E \nDBQ-40NW DBQ-20ENE ODI-20NNW EAU-60W RHI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-80.10,38.92],[-79.23,37.75],[-80.39,36.48],[-80.93,35.22],
-        [-84.44,33.63],[-85.15,34.96],[-82.13,36.44],[-82.51,37.83],
-        [-80.10,38.92] ] ]
+        [[-93.76,48.80],[-90.47,48.04],[-89.45,45.63],[-87.11,44.24],
+        [-87.59,43.12],[-89.76,43.55],[-93.76,48.80] ] ]
     } 
   },
   { "type": "Feature",
     "properties": {
-      "icaoId": "KBOS", 
+      "icaoId": "KCHI", 
       "airSigmetType": "AIRMET", 
-      "hazard": "MTN OBSCN", 
-      "validTimeFrom": "2018-04-26T21:24:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
+      "hazard": "IFR", 
+      "validTimeFrom": "2018-04-27T15:12:00Z", 
+      "validTimeTo": "2018-04-27T21:00:00Z", 
       "severity": "0", 
-      "rawAirSigmet": "WAUS41 KKCI 262124 AAA \nBOSS WA 262124 AMD \nAIRMET SIERRA UPDT 4 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET MTN OBSCN...ME NH VT MA NY PA \nFROM 70NW PQI TO MLT TO 20N CON TO 40SE ALB TO 40SW HNK TO 50WSW \nSYR TO SYR TO MSS TO YSC TO 70NW PQI \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR PA OH WV MD VA NC SC GA AND CSTL WTRS \nBOUNDED BY 30WNW AIR-40SSE JST-20WNW DCA-50S SBY-70SE ECG-40E \nILM-30SSW RDU-20WNW FLO-40NNW SAV-40SSE MCN-30NNW PZD-GQO-HMV- \nHNN-60E CVG-30WNW AIR \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 2...IFR ME NH VT MA NY AND CSTL WTRS \nBOUNDED BY 90NW PQI-30NE PQI-20SSE HUL-60ESE BGR-20NNE ENE-30NNE \nBDL-50NE SYR-MSS-20WNW YSC-90NW PQI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 3...MTN OBSCN PA WV MD VA NC SC GA \nBOUNDED BY 20SW HAR-40SSE PSK-CLT-ATL-GQO-HMV-HNN-40ESE AIR-20SW \nHAR \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG THRU 09Z."
+      "altitudeLow1": 0, 
+      "altitudeHi2": 1000, 
+      "rawAirSigmet": "WAUS43 KKCI 271512 AAA \nCHIS WA 271512 AMD \nAIRMET SIERRA UPDT 6 FOR IFR VALID UNTIL 272100 \nAIRMET IFR...MN WI LM LS MI...UPDT \nFROM 20NW INL TO 50WSW YQT TO RHI TO 50ESE GRB TO 30E BAE TO DLL \nTO 20NW INL \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG BYD 21Z THRU 03Z. \nOTLK VALID 2100-0300Z...IFR IA WI LM IL \nBOUNDED BY 60W RHI-50SSE RHI-50ESE GRB-40ENE BAE-20ESE ORD-20E \nDBQ-40NW DBQ-20ENE ODI-20NNW EAU-60W RHI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 03Z."
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-69.31,47.59],[-68.52,45.58],[-71.58,43.55],[-73.16,42.28],
-        [-75.95,41.59],[-77.25,42.84],[-76.20,43.16],[-74.72,44.91],
-        [-71.68,45.43],[-69.31,47.59] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KBOS", 
-      "airSigmetType": "AIRMET", 
-      "hazard": "MTN OBSCN", 
-      "validTimeFrom": "2018-04-26T21:24:00Z", 
-      "validTimeTo": "2018-04-27T03:00:00Z", 
-      "severity": "0", 
-      "rawAirSigmet": "WAUS41 KKCI 262124 AAA \nBOSS WA 262124 AMD \nAIRMET SIERRA UPDT 4 FOR IFR AND MTN OBSCN VALID UNTIL 270300 \nAIRMET MTN OBSCN...ME NH VT MA NY PA \nFROM 70NW PQI TO MLT TO 20N CON TO 40SE ALB TO 40SW HNK TO 50WSW \nSYR TO SYR TO MSS TO YSC TO 70NW PQI \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG BYD 03Z THRU 09Z. \nOTLK VALID 0300-0900Z \nAREA 1...IFR PA OH WV MD VA NC SC GA AND CSTL WTRS \nBOUNDED BY 30WNW AIR-40SSE JST-20WNW DCA-50S SBY-70SE ECG-40E \nILM-30SSW RDU-20WNW FLO-40NNW SAV-40SSE MCN-30NNW PZD-GQO-HMV- \nHNN-60E CVG-30WNW AIR \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 2...IFR ME NH VT MA NY AND CSTL WTRS \nBOUNDED BY 90NW PQI-30NE PQI-20SSE HUL-60ESE BGR-20NNE ENE-30NNE \nBDL-50NE SYR-MSS-20WNW YSC-90NW PQI \nCIG BLW 010/VIS BLW 3SM PCPN/BR. CONDS CONTG THRU 09Z. \nAREA 3...MTN OBSCN PA WV MD VA NC SC GA \nBOUNDED BY 20SW HAR-40SSE PSK-CLT-ATL-GQO-HMV-HNN-40ESE AIR-20SW \nHAR \nMTNS OBSC BY CLDS/PCPN/BR. CONDS CONTG THRU 09Z."
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-69.31,47.59],[-68.52,45.58],[-71.58,43.55],[-73.16,42.28],
-        [-75.95,41.59],[-77.25,42.84],[-76.20,43.16],[-74.72,44.91],
-        [-71.68,45.43],[-69.31,47.59] ] ]
+        [[-93.76,48.80],[-90.47,48.04],[-89.45,45.63],[-87.11,44.24],
+        [-87.59,43.12],[-89.76,43.55],[-93.76,48.80] ] ]
     } 
   }]}

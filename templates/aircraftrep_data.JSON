@@ -2,238 +2,312 @@
   "features": [
   { "type": "Feature",
     "properties": {
-    "icaoId": "KKCI", 
-    "obsTime": "2018-04-27T01:00:00Z", 
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:11:00Z", 
     "airepType": "PIREP", 
-    "acType": "B737", 
-    "fltlvl": "320", 
-    "tbInt1": "NEG", 
-    "rawOb": "RSL UA /OV HYS270030 /TM 0100 /FL320 /TP B737 /TB NEG/RM AWC-WEB"
+    "acType": "CRJ2", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "38", 
+    "fltlvl": "033", 
+    "rawOb": "GSO UA /OV GSO050008/TM 1611/FL033/TP CRJ2/SK BKN038-TOPUNKN/RM DURD"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-99.909,38.933]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:00:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B737", 
-    "fltlvl": "320", 
-    "tbInt1": "NEG", 
-    "rawOb": "RSL UA /OV HYS270030/TM 0100/FL320/TP B737/TB NEG/RM AWC-WEB/"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-99.909,38.933]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T01:00:00Z", 
-    "airepType": "AIREP", 
-    "acType": "UAL1004", 
-    "temp": "-50", 
-    "wdir": "230", 
-    "wspd": "45", 
-    "fltlvl": "340", 
-    "rawOb": "ARP UAL1004 3329N 12235W 0100 F340 MS50 230/045KT"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.583,33.483]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:00:00Z", 
-    "airepType": "AIREP", 
-    "acType": "UAL1004", 
-    "temp": "-50", 
-    "wdir": "230", 
-    "wspd": "45", 
-    "fltlvl": "340", 
-    "rawOb": "ARP UAL1004 3329N 12235W 0100 F340 M50 230/045"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.583,33.483]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:00:00Z", 
-    "airepType": "AIREP", 
-    "acType": "DAL160", 
-    "temp": "-59", 
-    "wdir": "248", 
-    "wspd": "80", 
-    "fltlvl": "390", 
-    "rawOb": "ARP DAL160 5608N 06028W 0100 F390 M59 248/80 CUDDY 0114 5800N 05000W KT N821NW DDL YYR 270100 J33A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.467,56.133]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T01:03:00Z", 
-    "airepType": "AIREP", 
-    "acType": "KLM678", 
-    "temp": "-51", 
-    "wdir": "241", 
-    "wspd": "79", 
-    "fltlvl": "370", 
-    "rawOb": "ARP KLM678 6053N06139W 0103 F370 NIFTY 0115 6100N05000W MS51 241/79 KT PHAKE QXT AME 270104 J43A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-61.650,60.883]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:03:00Z", 
-    "airepType": "AIREP", 
-    "acType": "KLM678", 
-    "temp": "-51", 
-    "wdir": "241", 
-    "wspd": "79", 
-    "fltlvl": "370", 
-    "rawOb": "ARP KLM678 6053N 06139W 0103 F370 M51 241/79 NIFTY 0115 6100N 05000W KT PHAKE QXT AME 270104 J43A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-61.650,60.883]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:07:00Z", 
-    "airepType": "PIREP", 
-    "acType": "F18H", 
-    "fltlvl": "270", 
-    "tbInt1": "MOD", 
-    "tbFreq1": "OCNL", 
-    "rawOb": "BNA UA /OV GHM180025/TM 0107/FL270/TP F18H/TB OCNL MOD/RM ZME"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.419,35.422]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:08:00Z", 
-    "airepType": "PIREP", 
-    "acType": "F2TH", 
-    "cloudBas1": "52", 
-    "fltlvl": "052", 
-    "rawOb": "CLT UA /OV CLT180015/TM 0108/FL052/TP F2TH/SK BASE052"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-80.925,34.942]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:08:00Z", 
-    "airepType": "PIREP", 
-    "acType": "C152", 
-    "fltlvl": "055", 
-    "tbInt1": "MOD", 
-    "rawOb": "CVO UA /OV KCVO/TM 0108/FL055/TP C152/TB MOD BLO 055"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-123.289,44.497]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:09:00Z", 
-    "airepType": "AIREP", 
-    "acType": "DAL1298", 
-    "temp": "-37", 
-    "wdir": "222", 
-    "wspd": "45", 
-    "fltlvl": "280", 
-    "rawOb": "ARP DAL1298 3329N 12235W 0109 F280 M37 222/045"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.583,33.483]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:09:00Z", 
-    "airepType": "PIREP", 
-    "acType": "E75L", 
-    "fltlvl": "300", 
-    "tbType1": "CHOP", 
-    "rawOb": "BXK UA /OV BXK260018/TM 0109/FL300/TP E75L/RM MDT CHOP"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-113.183,33.474]
+      "coordinates": [-79.856,36.136]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T01:09:00Z", 
+    "obsTime": "2018-04-27T16:11:00Z", 
     "airepType": "PIREP", 
-    "acType": "E75L", 
-    "fltlvl": "300", 
-    "tbType1": "CHOP", 
-    "rawOb": "BXK UA /OV BXK260018/TM 0109/FL300/TP E75L/RM MDT CHOP"
+    "acType": "CRJ2", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "38", 
+    "fltlvl": "033", 
+    "rawOb": "GSO UA /OV GSO050008/TM 1611/FL033/TP CRJ2/SK BKN038-TOPSUNKN/RM DURD "
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-113.183,33.474]
+      "coordinates": [-79.856,36.136]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:10:00Z", 
+    "obsTime": "2018-04-27T16:11:00Z", 
     "airepType": "PIREP", 
-    "acType": "B738", 
-    "fltlvl": "390", 
+    "acType": "B752", 
+    "fltlvl": "360", 
+    "tbInt1": "LGT-MOD", 
+    "tbFreq1": "CONT", 
+    "rawOb": "LSE UA /OV ODI180040/TM 1611/FL360/TP B752/TB CONT LGT OCNL MOD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-91.483,43.247]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:11:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B752", 
+    "fltlvl": "360", 
+    "tbInt1": "LGT-MOD", 
+    "tbFreq1": "CONT", 
+    "rawOb": "LSE UA /OV ODI180040/TM 1611/FL360/TP B752/TB CONT LGT OCNL MOD "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-91.483,43.247]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:12:00Z", 
+    "airepType": "PIREP", 
+    "acType": "E145", 
+    "cloudCvg1": "CLR", 
+    "fltlvl": "050", 
     "tbInt1": "MOD", 
     "tbType1": "CHOP", 
-    "tbFreq1": "OCNL", 
-    "rawOb": "PUB UA /OV PUB160040/TM 0110/FL390/TP B738/TB OCNL MOD CHOP/RM ZDV"
+    "rawOb": "ORD UA /OV ORD 240/015/TM 1612/FL050/TP E145/SK CLR/TB MOD CHOP"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-104.254,37.643]
+      "coordinates": [-88.201,41.870]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:10:00Z", 
-    "airepType": "Urgent PIREP", 
+    "obsTime": "2018-04-27T16:12:00Z", 
+    "airepType": "PIREP", 
     "acType": "E75L", 
-    "fltlvl": "064", 
+    "fltlvl": "140", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "EAU UA /OV EAU260020/TM 1612/FL140/TP E75L/TB MOD CHOP/RM DURD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-91.945,44.862]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:12:00Z", 
+    "airepType": "PIREP", 
+    "acType": "E75L", 
+    "fltlvl": "140", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "EAU UA /OV EAU260020/TM 1612/FL140/TP E75L/TB MOD CHOP/RM DURD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-91.945,44.862]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:13:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE23", 
+    "temp": "5", 
+    "cloudCvg1": "SCT", 
+    "cloudBas1": "50", 
+    "fltlvl": "045", 
+    "tbInt1": "NEG", 
+    "icgInt1": "NEG", 
+    "rawOb": "MLT UA /OV MLT270010/TM 1613/FL045/TP BE23/SK SCT050/TA 05/TB NEG/IC NEG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-68.739,45.530]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:13:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE23", 
+    "temp": "5", 
+    "cloudCvg1": "SCT", 
+    "cloudBas1": "50", 
+    "fltlvl": "045", 
+    "tbInt1": "NEG", 
+    "icgInt1": "NEG", 
+    "rawOb": "MLT UA /OV MLT270010 /TM 1613 /FL045 /TP BE23 /SK SCT050 /TA 05 /TB NEG /IC NEG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-68.739,45.530]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:15:00Z", 
+    "airepType": "PIREP", 
+    "acType": "TEX2", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "22", 
+    "fltlvl": "017", 
+    "rawOb": "NPA UA /OV NPA250010/TM 1615/FL017/TP TEX2/SK BKN022"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.498,30.294]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:15:00Z", 
+    "airepType": "PIREP", 
+    "acType": "TEX2", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "22", 
+    "fltlvl": "017", 
+    "rawOb": "NPA UA /OV NPA250010/TM 1615/FL017/TP TEX2/SK BKN022"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.498,30.294]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:16:00Z", 
+    "airepType": "AIREP", 
+    "acType": "UAL1567", 
+    "temp": "-50", 
+    "wdir": "286", 
+    "wspd": "87", 
+    "fltlvl": "350", 
+    "tbInt1": "NEG", 
+    "rawOb": "ARP UAL1567 2705N 09353W 1616 F350 M50 286/087 TB SMTH SK CLEAR IC NONE RM B738 OV CATFS"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-93.883,27.083]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:16:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C172", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "13", 
+    "fltlvl": "013", 
+    "rawOb": "UAO UA /OV KUAO/TM 1616/FL013/TP C172/SK BKN013-TOPUNKN/RM DURD RWY 17"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.770,45.247]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:17:00Z", 
+    "airepType": "PIREP", 
+    "acType": "A321", 
+    "fltlvl": "330", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "MYNN UA /OV ZQA113115/TM 1617/FL330/TP A321/TB LGHT-CONT MOD CHOP "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.436,24.453]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:17:00Z", 
+    "airepType": "PIREP", 
+    "acType": "A321", 
+    "fltlvl": "330", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "MYNN UA /OV ZQA113115/TM 1617/FL330/TP A321/TB LGHT-CONT MOD CHOP "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.436,24.453]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:17:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CRJ7", 
+    "cloudBas1": "31", 
+    "fltlvl": "031", 
+    "rawOb": "CLT UA /OV CLT180005/TM 1617/FL031/TP CRJ7/SK BASE031 TOPS036"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.943,35.107]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:18:00Z", 
+    "airepType": "AIREP", 
+    "acType": "AAL59", 
+    "temp": "-41", 
+    "wdir": "245", 
+    "wspd": "35", 
+    "fltlvl": "290", 
+    "tbInt1": "NEG", 
+    "rawOb": "ARP AAL59 3329N 12235W 1618 F290 M41 245/035 TB SMTH"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.583,33.483]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:18:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CRJ9", 
+    "cloudBas1": "28", 
+    "fltlvl": "025", 
+    "rawOb": "CLT UA /OV CLT180007/TM 1618/FL025/TP CRJ9/SK BASES 028"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.939,35.074]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:18:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "B737", 
+    "fltlvl": "050", 
     "tbType1": "LLWS", 
-    "rawOb": "RNO UUA /OV KRNO/TM 0110/FL064/TP E75L/RM E75L REPORTED ON FINAL FOR RWY16/ LLWS +/-10KTS BELOW 020AGL-ZOA FD"
+    "rawOb": "RNO UUA /OV KRNO/TM 1618/FL050/TP B737/RM B737 REPORTED ON FINAL DESCENT TO RWY16/ LLWS +/-10KTS BELOW 050MSL-ZOA FD"
     },
     "geometry": {
       "type": "Point",
@@ -242,109 +316,749 @@
   },
   { "type": "Feature",
     "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T01:11:00Z", 
-    "airepType": "AIREP", 
-    "acType": "GTI525", 
-    "temp": "-62", 
-    "wdir": "239", 
-    "wspd": "102", 
-    "fltlvl": "370", 
-    "rawOb": "ARP GTI525 5647N06045W 0111 F370 AVUTI 0121 5900N05000W MS62 239/102 KT N446MC DDL YHO 270111 F78A "
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:18:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "360", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "MPV UA /OV VLV100040/TM 1618/FL360/TP B737/TB MOD CHOP"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-60.750,56.783]
+      "coordinates": [-69.892,45.979]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:11:00Z", 
-    "airepType": "AIREP", 
-    "acType": "GTI525", 
-    "temp": "-62", 
-    "wdir": "239", 
-    "wspd": "102", 
-    "fltlvl": "370", 
-    "rawOb": "ARP GTI525 5647N 06045W 0111 F370 M62 239/102 AVUTI 0121 5900N 05000W KT N446MC DDL YHO 270111 F78A"
+    "obsTime": "2018-04-27T16:19:00Z", 
+    "airepType": "PIREP", 
+    "acType": "SR22", 
+    "cloudCvg1": "OVC", 
+    "cloudTop1": "29", 
+    "fltlvl": "023", 
+    "rawOb": "VNY UA /OV VNY360002/TM 1619/FL023/TP SR22/SK OVC-TOP029/BASES 023"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-60.750,56.783]
+      "coordinates": [-118.482,34.256]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:20:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "320", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "EUG UA /OV EUG080025/TM 1620/FL320/TP B737/TB LGT OCNL MOD CHOP 320-150/RM DURD TMBRS2 -ZSE"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.653,44.047]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T01:13:00Z", 
+    "obsTime": "2018-04-27T16:20:00Z", 
     "airepType": "PIREP", 
-    "acType": "A319", 
-    "fltlvl": "390", 
+    "acType": "B737", 
+    "fltlvl": "320", 
+    "tbInt1": "LGT-MOD", 
     "tbType1": "CHOP", 
-    "rawOb": "TUS UA /OV TUS350050/TM 0113/FL390/TP A319/RM INT. MDT CHOP"
+    "rawOb": "EUG UA /OV EUG080025/TM 1620/FL320/TP B737/TB LGT OCNL MOD CHOP 320-150/RM DURD TMBRS2 -ZSE "
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-110.880,32.926]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:13:00Z", 
-    "airepType": "PIREP", 
-    "acType": "A319", 
-    "fltlvl": "390", 
-    "tbType1": "CHOP", 
-    "rawOb": "TUS UA /OV TUS350050/TM 0113/FL390/TP A319/RM INT. MDT CHOP"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-110.880,32.926]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:13:00Z", 
-    "airepType": "AIREP", 
-    "acType": "UAL1688", 
-    "fltlvl": "370", 
-    "tbInt1": "NEG", 
-    "rawOb": "ARP UAL1688 1507S 06453W 0113 F370 M51 TB SMTH RM B738 OV TRI180020"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-64.883,-15.117]
+      "coordinates": [-122.653,44.047]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T01:13:00Z", 
+    "obsTime": "2018-04-27T16:22:00Z", 
     "airepType": "AIREP", 
-    "acType": "UAL1688", 
-    "fltlvl": "370", 
-    "tbInt1": "NEG", 
-    "rawOb": "ARP UAL1688 1507S 06453W 0113 F370 MS51 TB SMTH RM B738 OV TRI180020"
+    "acType": "DAL1999", 
+    "temp": "-46", 
+    "wdir": "255", 
+    "wspd": "49", 
+    "fltlvl": "320", 
+    "rawOb": "ARP DAL1999 3329N 12235W 1622 F320 MS46 255/049KT"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-64.883,-15.117]
+      "coordinates": [-122.583,33.483]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:22:00Z", 
+    "airepType": "PIREP", 
+    "acType": "PA32", 
+    "cloudCvg1": "OVC", 
+    "cloudBas1": "19", 
+    "cloudTop1": "31", 
+    "fltlvl": "019", 
+    "rawOb": "SMO UA /OV SMO03005/TM 1622/FL019/TP PA32/SK OVC019-TOP031"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.457,34.010]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:22:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "360", 
+    "tbInt1": "LGT", 
+    "rawOb": "BMG UA /OV OOM160020/TM 1622/FL360/TP B737/TB LGT MOD "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.453,38.835]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:22:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "360", 
+    "tbInt1": "LGT", 
+    "rawOb": "BMG UA /OV OOM160020/TM 1622/FL360/TP B737/TB LGT MOD "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.453,38.835]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:22:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "240", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CAT", 
+    "rawOb": "ALB UA /OV ALB180030/TM 1622/FL240/TP B737/TB LGT-MOD CAT 240-190"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.651,42.261]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:22:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "240", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CAT", 
+    "rawOb": "ALB UA /OV ALB180030/TM 1622/FL240/TP B737/TB LGT-MOD CAT 240-190 "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.651,42.261]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:24:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "380", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "LRD UA /OV LRD052033 /TM 1624 /FL380 /TP B737 /TB CONT LGT CHOP 380/RM AWC-WEB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-98.875,27.744]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:24:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "380", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "LRD UA /OV LRD052033 /TM 1624 /FL380 /TP B737 /TB CONT LGT CHOP 380/RM AWC-WEB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-98.875,27.744]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:24:00Z", 
+    "airepType": "AIREP", 
+    "acType": "DAL1773", 
+    "temp": "-54", 
+    "wdir": "250", 
+    "wspd": "90", 
+    "fltlvl": "360", 
+    "rawOb": "ARP DAL1773 3408N 6735W 1624 F360 MS54 250/090KT"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-67.583,34.133]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:24:00Z", 
+    "airepType": "AIREP", 
+    "acType": "ASA811", 
+    "temp": "-56", 
+    "wdir": "243", 
+    "wspd": "67", 
+    "fltlvl": "370", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "ARP ASA811 3611N 12446W 1624 F370 MS56 243/067KT TB CONS LGT CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.767,36.183]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:24:00Z", 
+    "airepType": "AIREP", 
+    "acType": "ASA811", 
+    "temp": "-56", 
+    "wdir": "243", 
+    "wspd": "67", 
+    "fltlvl": "370", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "ARP ASA811 3611N 12446W 1624 F370 MS56 243/067KT TB CONS LGT CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.767,36.183]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:25:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B738", 
+    "fltlvl": "360", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "rawOb": "IND UA /OV OOM160027 /TM 1625 /FL360 /TP B738 /TB LT CHOP /RM LT CHOP, OCCNL MOD AWC-WEB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.397,38.727]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:25:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B738", 
+    "fltlvl": "360", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "rawOb": "IND UA /OV OOM160027 /TM 1625 /FL360 /TP B738 /TB LT CHOP /RM LT CHOP, OCCNL MOD AWC-WEB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.397,38.727]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:14:00Z", 
+    "obsTime": "2018-04-27T16:27:00Z", 
     "airepType": "AIREP", 
-    "acType": "UAL1004", 
-    "temp": "-49", 
-    "wdir": "230", 
-    "wspd": "55", 
+    "acType": "UAL2373", 
+    "temp": "-51", 
+    "wdir": "255", 
+    "wspd": "31", 
     "fltlvl": "340", 
-    "rawOb": "ARP UAL1004 3304N 12431W 0114 F340 M49 230/055"
+    "rawOb": "ARP UAL2373 3133N 12124W 1627 F340 M51 255/031"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.400,31.550]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:27:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "temp": "-25", 
+    "fltlvl": "220", 
+    "icgInt1": "LGT-MOD", 
+    "icgType1": "RIME", 
+    "rawOb": "HVN UA /OV MAD100010/TM 1627/FL220/TP B737/TA M25/IC LGT-MOD RIME"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.471,41.322]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:28:00Z", 
+    "airepType": "PIREP", 
+    "acType": "GLEX", 
+    "fltlvl": "070", 
+    "rawOb": "PBI UA /OV 13 NE PBI/TM 1628/FL70/TP GLEX/SK BKN60 "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.924,26.841]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:28:00Z", 
+    "airepType": "PIREP", 
+    "acType": "GLEX", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "60", 
+    "fltlvl": "070", 
+    "rawOb": "PBI UA /OV PBI045013/TM 1628/FL070/TP GLEX/SK BKN060"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.924,26.841]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:29:00Z", 
+    "airepType": "PIREP", 
+    "acType": "H25B", 
+    "fltlvl": "330", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "CRP UA /OV CRP360050/TM 1629/FL330/TP H25B/TB CONT LGT-MOD CHOP/RM FM ZHU AWC-WEB/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.296,28.725]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:29:00Z", 
+    "airepType": "PIREP", 
+    "acType": "H25B", 
+    "fltlvl": "330", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "CRP UA /OV CRP360050 /TM 1629 /FL330 /TP H25B /TB CONT LGT-MOD CHOP /RM FM ZHU AWC-WEB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.296,28.725]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:29:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE35", 
+    "fltlvl": "060", 
+    "tbInt1": "MOD", 
+    "rawOb": "BDL UA /OV 10 E BDL/TM 1629/FL060/TP BE35/TB MOD "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.471,41.981]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:29:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE35", 
+    "fltlvl": "060", 
+    "tbInt1": "MOD", 
+    "rawOb": "BDL UA /OV 10 E BDL/TM 1629/FL060/TP BE35/TB MOD "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.471,41.981]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:30:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "temp": "-22", 
+    "fltlvl": "210", 
+    "tbInt1": "LGT", 
+    "icgInt1": "LGT-MOD", 
+    "icgType1": "RIME", 
+    "rawOb": "HFD UA /OV HFD200010/TM 1630/FL210/TP B737/TA M22/TB LGT/IC LGT-MOD RIME"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.575,41.476]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:30:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "temp": "-22", 
+    "fltlvl": "210", 
+    "tbInt1": "LGT", 
+    "icgInt1": "LGT-MOD", 
+    "icgType1": "RIME", 
+    "rawOb": "HFD UA /OV HFD200010/TM 1630/FL210/TP B737/TA M22/TB LGT/IC LGT-MOD RIME "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.575,41.476]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:32:00Z", 
+    "airepType": "AIREP", 
+    "acType": "AAL59", 
+    "temp": "-40", 
+    "wdir": "252", 
+    "wspd": "38", 
+    "fltlvl": "290", 
+    "tbInt1": "NEG", 
+    "rawOb": "ARP AAL59 3304N 12431W 1632 F290 M40 252/038 TB SMTH"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.517,33.067]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:32:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CRJ9", 
+    "fltlvl": "290", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "JFZ UA /OV GZG360030/TM 1632/FL290/TP CRJ9/TB LGT-MOD CHOP 290/RM ZTLFD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-82.101,37.324]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:32:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CRJ9", 
+    "fltlvl": "290", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "JFZ UA /OV GZG360030/TM 1632/FL290/TP CRJ9/TB LGT-MOD CHOP 290/RM ZTLFD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-82.101,37.324]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:32:00Z", 
+    "airepType": "PIREP", 
+    "acType": "P28R", 
+    "fltlvl": "065", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "rawOb": "DEC UA /OV DEC/TM 1632/FL065/TP P28R/TB CONSTANT LIGHT CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.866,39.835]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:32:00Z", 
+    "airepType": "PIREP", 
+    "acType": "P28R", 
+    "fltlvl": "065", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "rawOb": "DEC UA /OV DEC/TM 1632/FL065/TP P28R/TB CONSTANT LIGHT CHOP "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.866,39.835]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:33:00Z", 
+    "airepType": "PIREP", 
+    "acType": "DH8D", 
+    "fltlvl": "160", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "OCNL", 
+    "rawOb": "PDX UA /OV BTG335035/TM 1633/FL160/TP DH8D/TB OCNL MOD CHOP/RM -ZSE"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.650,46.329]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:34:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "380", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "OCNL", 
+    "rawOb": "LRD UA /OV NLD258013/TM 1634/FL380/TP B737/TB OCNL MOD CHOP 380/RM CONT LIGHT-OCNL MOD CHOP AWC-WEB/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-99.810,27.422]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:34:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "380", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "OCNL", 
+    "rawOb": "000 UBUS31 KKCI 271635 LRD UA /OV NLD258013 /TM 1634 /FL380 /TP B737 /TB OCNL MOD CHOP 380 /RM CONT LIGHT-OCNL MOD CHOP AWC-WEB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-99.810,27.422]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:34:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C750", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "20", 
+    "fltlvl": "020", 
+    "rawOb": "MMU UA /OV KMMU/TM 1634/FL020/TP C750/SK BKN020"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.415,40.799]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:35:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "360", 
+    "tbInt1": "LGT-MOD", 
+    "rawOb": "CRP UA /OV CRP180010/TM 1635/FL360/TP B737/TB LGT-MOD/RM FM ZHU AWC-WEB/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.474,27.739]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:35:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "360", 
+    "tbInt1": "LGT-MOD", 
+    "rawOb": "CRP UA /OV CRP180010 /TM 1635 /FL360 /TP B737 /TB LGT-MOD /RM FM ZHU AWC-WEB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.474,27.739]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:35:00Z", 
+    "airepType": "AIREP", 
+    "acType": "ASA811", 
+    "temp": "-57", 
+    "wdir": "260", 
+    "wspd": "70", 
+    "fltlvl": "370", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "ARP ASA811 3536N 12556W 1635 F370 M57 260/070 TB CONS LGT CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-125.933,35.600]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:35:00Z", 
+    "airepType": "AIREP", 
+    "acType": "ASA811", 
+    "temp": "-57", 
+    "wdir": "260", 
+    "wspd": "70", 
+    "fltlvl": "370", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "ARP ASA811 3536N 12556W 1635 F370 MS57 260/070KT TB CONS LGT CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-125.933,35.600]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:36:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B738", 
+    "wdir": "308", 
+    "wspd": "45", 
+    "fltlvl": "360", 
+    "tbInt1": "NEG", 
+    "rawOb": "OKC UA /OV IRW223046 /TM 1636 /FL360 /TP B738 /WV 308045KT /TB SMOOTH/RM AWC-WEB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-98.324,34.865]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:36:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B738", 
+    "wdir": "308", 
+    "wspd": "45", 
+    "fltlvl": "360", 
+    "tbInt1": "NEG", 
+    "rawOb": "OKC UA /OV IRW223046 /TM 1636 /FL360 /TP B738 /WV 308045KT /TB SMOOTH/RM AWC-WEB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-98.324,34.865]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:36:00Z", 
+    "airepType": "AIREP", 
+    "acType": "DAL2210", 
+    "temp": "-46", 
+    "wdir": "108", 
+    "wspd": "53", 
+    "fltlvl": "330", 
+    "rawOb": "ARP DAL2210 4406N 12959W 1636 F330 M46 108/053"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-129.983,44.100]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:36:00Z", 
+    "airepType": "AIREP", 
+    "acType": "DAL2210", 
+    "temp": "-46", 
+    "wdir": "108", 
+    "wspd": "53", 
+    "fltlvl": "330", 
+    "rawOb": "ARP DAL2210 4406N 12959W 1636 F330 MS46 108/053KT"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-129.983,44.100]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:37:00Z", 
+    "airepType": "AIREP", 
+    "acType": "DAL1999", 
+    "temp": "-47", 
+    "wdir": "250", 
+    "wspd": "55", 
+    "fltlvl": "320", 
+    "rawOb": "ARP DAL1999 3304N 12431W 1637 F320 M47 250/055"
     },
     "geometry": {
       "type": "Point",
@@ -354,689 +1068,1294 @@
   { "type": "Feature",
     "properties": {
     "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:14:00Z", 
+    "obsTime": "2018-04-27T16:37:00Z", 
     "airepType": "AIREP", 
-    "acType": "UAL901", 
-    "temp": "-52", 
-    "wdir": "243", 
-    "wspd": "76", 
-    "fltlvl": "370", 
-    "rawOb": "ARP UAL901 6029N 06001W 0114 F370 M52 243/76 PIDSO 0120 6100N 05000W KT N2135U DDL XXH 270114 F48A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.017,60.483]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:15:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B737", 
-    "fltlvl": "380", 
+    "acType": "AAL253", 
+    "temp": "-48", 
+    "wdir": "250", 
+    "wspd": "48", 
+    "fltlvl": "320", 
     "tbInt1": "NEG", 
-    "rawOb": "BHM UA /OV VUZ052037/TM 0115/FL380/TP B737/TB SMTH/RM AWC-WEB/"
+    "rawOb": "ARP AAL253 3329N 12235W 1637 F320 M48 250/048 TB SMTH"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-86.299,34.031]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KKCI", 
-    "obsTime": "2018-04-27T01:15:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B737", 
-    "fltlvl": "380", 
-    "tbInt1": "NEG", 
-    "rawOb": "BHM UA /OV VUZ052037 /TM 0115 /FL380 /TP B737 /TB SMTH/RM AWC-WEB"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-86.299,34.031]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:15:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B737", 
-    "fltlvl": "380", 
-    "tbInt1": "MOD", 
-    "tbType1": "CHOP", 
-    "tbFreq1": "OCNL", 
-    "rawOb": "TAD UA /OV TBE090030/TM 0115/FL380/TP B737/TB OCNL MOD CHOP/RM ZDV"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-102.987,37.153]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T01:17:00Z", 
-    "airepType": "AIREP", 
-    "acType": "BAW4EA", 
-    "temp": "-52", 
-    "wdir": "240", 
-    "wspd": "78", 
-    "fltlvl": "370", 
-    "rawOb": "ARP BAW4EA 6019N06136W 0117 F370 PIDSO 0129 6000N05000W MS52 240/78 KT GVIID QXT AME 270118 F26A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-61.600,60.317]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:17:00Z", 
-    "airepType": "AIREP", 
-    "acType": "BAW4EA", 
-    "temp": "-52", 
-    "wdir": "240", 
-    "wspd": "78", 
-    "fltlvl": "370", 
-    "rawOb": "ARP BAW4EA 6019N 06136W 0117 F370 M52 240/78 PIDSO 0129 6000N 05000W KT GVIID QXT AME 270118 F26A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-61.600,60.317]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:18:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WOW5SH", 
-    "temp": "-54", 
-    "wdir": "214", 
-    "wspd": "86", 
-    "fltlvl": "330", 
-    "rawOb": "ARP WOW5SH 5546N 06549W 0118 F330 M54 214/86 5730N 06316W 0133 PIDSO KT TFNOW DDL YWK 270118 J13A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-65.817,55.767]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:18:00Z", 
-    "airepType": "PIREP", 
-    "acType": "A321", 
-    "fltlvl": "350", 
-    "tbInt1": "LGT", 
-    "rawOb": "ORD UA /OV ODI090040/TM 0118/FL350/TP A321/TB LGT"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-90.544,43.897]
+      "coordinates": [-122.583,33.483]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T01:20:00Z", 
-    "airepType": "AIREP", 
-    "acType": "UAL1884", 
-    "fltlvl": "340", 
+    "obsTime": "2018-04-27T16:37:00Z", 
+    "airepType": "PIREP", 
+    "acType": "TBM7", 
+    "cloudBas1": "13", 
+    "fltlvl": "013", 
+    "rawOb": "HEF UA /OV 3 MILE FINAL RWY34R/TM 1637/FL013/TP TBM7/SK BASE 013"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.515,38.721]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:37:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE9", 
+    "cloudCvg1": "SCT", 
+    "cloudBas1": "35", 
+    "fltlvl": "031", 
+    "rawOb": "DXR UA /OV KDXR/TM 1637/FL031/TP BE9/SK SCT035 OVC080/WX 10"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.482,41.371]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:38:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B77W", 
+    "fltlvl": "310", 
     "tbInt1": "MOD", 
-    "rawOb": "ARP UAL1884 3646N 10233W 0120 F340 TB MOD RM B739 OV DHT347041 BUMPY NOW"
+    "rawOb": "BGR UA /OV BGR340040/TM 1638/FL310/TP B77W/TB MOD"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-102.550,36.767]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KKCI", 
-    "obsTime": "2018-04-27T01:20:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B737", 
-    "fltlvl": "390", 
-    "tbInt1": "NEG", 
-    "rawOb": "BWG UA /OV BWG118041 /TM 0120 /FL390 /TP B737 /TB SMTH/RM AWC-WEB"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-85.708,36.585]
+      "coordinates": [-69.470,45.357]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:20:00Z", 
+    "obsTime": "2018-04-27T16:40:00Z", 
     "airepType": "PIREP", 
-    "acType": "B737", 
-    "fltlvl": "390", 
-    "tbInt1": "NEG", 
-    "rawOb": "BWG UA /OV BWG118041/TM 0120/FL390/TP B737/TB SMTH/RM AWC-WEB/"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-85.708,36.585]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:20:00Z", 
-    "airepType": "PIREP", 
-    "acType": "A320", 
-    "fltlvl": "330", 
+    "acType": "E75X", 
+    "fltlvl": "050", 
     "tbInt1": "MOD", 
-    "rawOb": "HTS UA /OV AZQ/TM 0120/FL330/TP A320/TB MOD 330-290"
+    "rawOb": "JAX UA /OV JAX360010/TM 1640/FL050/TP E75X/TB MOD TURB SFC-050"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-83.263,37.391]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:22:00Z", 
-    "airepType": "AIREP", 
-    "acType": "DLH471", 
-    "temp": "-62", 
-    "wdir": "238", 
-    "wspd": "86", 
-    "fltlvl": "370", 
-    "rawOb": "ARP DLH471 5533N 06019W 0122 F370 M62 238/86 CUDDY 0136 5800N 05000W KT DABVW DDL YYR 270122 F66A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.317,55.550]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T01:22:00Z", 
-    "airepType": "AIREP", 
-    "acType": "DLH471", 
-    "temp": "-62", 
-    "wdir": "238", 
-    "wspd": "86", 
-    "fltlvl": "370", 
-    "rawOb": "ARP DLH471 5533N06019W 0122 F370 CUDDY 0136 5800N05000W MS62 238/86 KT DABVW DDL YYR 270122 F66A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.317,55.550]
+      "coordinates": [-81.708,30.660]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T01:22:00Z", 
+    "obsTime": "2018-04-27T16:40:00Z", 
     "airepType": "PIREP", 
-    "acType": "B350", 
-    "fltlvl": "015", 
-    "rawOb": "BHM UA /OV 2 FINAL RWY 24/TM 0122/FL015/TP B350/RM TOPS 025 BASES 016"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-86.752,33.564]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T01:22:00Z", 
-    "airepType": "AIREP", 
-    "acType": "UAL2400", 
-    "temp": "-47", 
-    "wdir": "358", 
-    "wspd": "73", 
-    "fltlvl": "300", 
-    "tbInt1": "NEG", 
-    "rawOb": "ARP UAL2400 4228N 09515W 0122 F300 MS47 358/073KT TB SMTH SK CLEAR IC NONE RM B772 OV 4228N09515W"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-95.250,42.467]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:22:00Z", 
-    "airepType": "AIREP", 
-    "acType": "UAL2400", 
-    "temp": "-47", 
-    "wdir": "358", 
-    "wspd": "73", 
-    "fltlvl": "300", 
-    "tbInt1": "NEG", 
-    "rawOb": "ARP UAL2400 4228N 09515W 0122 F300 M47 358/073 TB SMTH SK CLEAR IC NONE RM B772 OV 4228N 09515W"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-95.250,42.467]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T01:22:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B350", 
-    "fltlvl": "015", 
-    "rawOb": "BHM UA /OV 2 FINAL RWY 24/TM 0122/FL015/TP B350/RM TOPS 025 BASES 016 "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-86.752,33.564]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:24:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B737", 
-    "fltlvl": "360", 
-    "tbInt1": "MOD", 
-    "rawOb": "PEQ UA /OV PEQ/TM 0124/FL360/TP B737/TB MOD/RM ZAB"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-103.575,31.469]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:24:00Z", 
-    "airepType": "PIREP", 
-    "acType": "TEX2", 
-    "temp": "9", 
-    "wdir": "325", 
-    "wspd": "19", 
-    "cloudCvg1": "SKC", 
-    "fltlvl": "030", 
-    "tbInt1": "NEG", 
-    "rawOb": "HBG UA /OV HBG/TM 0124/FL030/TP TEX2/SK SKC/TA 09/WV 32519KT/TB NEG/RM DURC SMTH"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-89.253,31.265]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T01:24:00Z", 
-    "airepType": "PIREP", 
-    "acType": "TEX2", 
-    "temp": "9", 
-    "wdir": "325", 
-    "wspd": "19", 
-    "cloudCvg1": "SKC", 
-    "fltlvl": "030", 
-    "tbInt1": "NEG", 
-    "rawOb": "HBG UA /OV HBG /TM 0124 /FL030 /TP TEX2 /SK SKC /TA 09 /WV 32519KT /TB NEG /RM DURC SMTH"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-89.253,31.265]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:24:00Z", 
-    "airepType": "PIREP", 
-    "acType": "K35R", 
-    "fltlvl": "170", 
-    "tbInt1": "MOD", 
-    "rawOb": "HBR UA /OV HBR/TM 0124/FL170/TP K35R/TB MOD 170-230/RM DURC"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-99.063,34.867]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T01:24:00Z", 
-    "airepType": "PIREP", 
-    "acType": "K35R", 
-    "fltlvl": "170", 
-    "tbInt1": "MOD", 
-    "rawOb": "HBR UA /OV HBR/TM 0124/FL170/TP K35R/TB MOD 170-230/RM DURC"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-99.063,34.867]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:25:00Z", 
-    "airepType": "PIREP", 
-    "acType": "C750", 
-    "fltlvl": "130", 
-    "tbInt1": "MOD", 
-    "rawOb": "PBI UA /OV PBI174029/TM 0125/FL130/TP C750/TB MOD TURB"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-80.002,26.203]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:25:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ2", 
-    "temp": "-11", 
-    "fltlvl": "150", 
+    "acType": "CRJ9", 
+    "temp": "-3", 
+    "fltlvl": "090", 
     "icgInt1": "LGT", 
     "icgType1": "RIME", 
-    "rawOb": "TYS UA /OV VXV040040/TM 0125/FL150/TP CRJ2/TA M11/IC LGT RIME/RM ZTLFD"
+    "rawOb": "HPN UA /OV 12 NNW CMK/TM 1640/FL90/TP CRJ9/TA -3/IC LT RIME"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-83.397,36.435]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:27:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B737", 
-    "fltlvl": "220", 
-    "tbInt1": "MOD", 
-    "tbFreq1": "CONT", 
-    "rawOb": "HSV UA /OV RQZ/TM 0127/FL220/TP B737/TB CONT MOD 260-220/RM ZME"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-86.634,34.797]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:27:00Z", 
-    "airepType": "PIREP", 
-    "acType": "C750", 
-    "fltlvl": "130", 
-    "tbInt1": "MOD", 
-    "rawOb": "MIA UA /OV MIA045040/TM 0127/FL130/TP C750/TB MOD"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-79.813,26.304]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:29:00Z", 
-    "airepType": "PIREP", 
-    "acType": "PA31", 
-    "fltlvl": "105", 
-    "tbInt1": "LGT-MOD", 
-    "tbType1": "CHOP", 
-    "rawOb": "ABQ UA /OV ONM/TM 0129/FL105/TP PA31/TB LGT-MOD CHOP/RM ZAB"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-106.821,34.339]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:31:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WOW5SH", 
-    "temp": "-54", 
-    "wdir": "226", 
-    "wspd": "100", 
-    "fltlvl": "330", 
-    "rawOb": "ARP WOW5SH 5722N 06328W 0131 F330 M54 226/100 5730N 06316W 0133 PIDSO KT TFNOW DDL YVP 270131 J14A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-63.467,57.367]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T01:31:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WOW5SH", 
-    "temp": "-54", 
-    "wdir": "226", 
-    "wspd": "100", 
-    "fltlvl": "330", 
-    "rawOb": "ARP WOW5SH 5722N06328W 0131 F330 5730N06316W 0133 PIDSO MS54 226/100 KT TFNOW DDL YVP 270131 J14A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-63.467,57.367]
+      "coordinates": [-73.732,41.444]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T01:32:00Z", 
-    "airepType": "PIREP", 
-    "acType": "737", 
-    "fltlvl": "350", 
-    "tbInt1": "LGT", 
-    "tbType1": "CHOP", 
-    "tbFreq1": "CONT", 
-    "rawOb": "EUG UA /OV EUG056014 /TM 0132 /FL350 /TP 737 /TB CONT LGT CHOP /RM FL 370 SMOOTH. AWC-WEB"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.908,44.177]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T01:33:00Z", 
-    "airepType": "PIREP", 
-    "acType": "737", 
-    "fltlvl": "390", 
-    "tbInt1": "NEG", 
-    "rawOb": "REO UA /OV REO136034 /TM 0133 /FL390 /TP 737 /TB SMOOTH/RM AWC-WEB"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.546,42.077]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:35:00Z", 
+    "obsTime": "2018-04-27T16:44:00Z", 
     "airepType": "PIREP", 
     "acType": "PC12", 
-    "fltlvl": "075", 
+    "temp": "-1", 
+    "fltlvl": "090", 
     "icgInt1": "LGT", 
-    "icgType1": "RIME", 
-    "rawOb": "IMT UA /OV IMT/TM 0135/FL075/TP PC12/IC LGT RIME 090-110"
+    "icgType1": "MIXED", 
+    "rawOb": "BDL UA /OV 5 NE OXC/TM 1644/FL090/TP PC12/TA -1/IC LGT MIXED"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-88.112,45.816]
+      "coordinates": [-73.078,41.550]
     } 
   },
   { "type": "Feature",
     "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:37:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ9", 
-    "fltlvl": "360", 
-    "rawOb": "FOD UA /OV FOD180020/TM 0137/FL360/TP CRJ9/TB CONT OCNL 330-360"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-94.350,42.281]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T01:37:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ9", 
-    "fltlvl": "360", 
-    "tbInt1": "LGT-MOD", 
-    "tbFreq1": "CONT", 
-    "rawOb": "FOD UA /OV FOD180020/TM 0137/FL360/TP CRJ9/TB CONT LGT OCNL MOD 330-360 "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-94.350,42.281]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:39:00Z", 
-    "airepType": "PIREP", 
-    "acType": "BE20", 
-    "fltlvl": "210", 
-    "tbInt1": "MOD", 
-    "tbFreq1": "OCNL", 
-    "rawOb": "MSL UA /OV MSL045010/TM 0139/FL210/TP BE20/TB OCNL MOD 230-210/RM ZME"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.346,34.822]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T01:39:00Z", 
-    "airepType": "PIREP", 
-    "acType": "BE20", 
-    "fltlvl": "210", 
-    "tbInt1": "MOD", 
-    "tbFreq1": "OCNL", 
-    "rawOb": "MSL UA /OV MSL 045010/TM 0139/FL210/TP BE20/TB OCNL MOD 230-210/RM ZME "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.346,34.822]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:39:00Z", 
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:45:00Z", 
     "airepType": "AIREP", 
-    "acType": "DAL10", 
-    "temp": "-53", 
-    "wdir": "231", 
-    "wspd": "86", 
-    "fltlvl": "330", 
-    "rawOb": "ARP DAL10 5607N 06021W 0139 F330 M53 231/86 CUDDY 0152 5800N 05000W KT N185DN DDL YHO 270139 F99A"
+    "acType": "DAL1773", 
+    "temp": "-56", 
+    "wdir": "235", 
+    "wspd": "60", 
+    "fltlvl": "360", 
+    "rawOb": "ARP DAL1773 3610N 6927W 1645 F360 MS56 235/060KT"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-60.350,56.117]
+      "coordinates": [-69.450,36.167]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:45:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE35", 
+    "temp": "2", 
+    "wdir": "110", 
+    "wspd": "13", 
+    "cloudCvg1": "SKC", 
+    "fltlvl": "010", 
+    "tbInt1": "NEG", 
+    "icgInt1": "NEG", 
+    "rawOb": "SEA UA /OV BFI315010/TM 1645/FL010/TP BE35/SK B010 T021 CLR ABV/TA 02/WV 110/013/TB NEG/IC NONE."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.425,47.674]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:46:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "250", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "SYR UA /OV GGT270015/TM 1646/FL250/TP CRJ2/TB MOD CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.160,42.741]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:46:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "250", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "SYR UA /OV GGT270015/TM 1646/FL250/TP CRJ2/TB MOD CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.160,42.741]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:48:00Z", 
+    "airepType": "PIREP", 
+    "acType": "MD88", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "20", 
+    "fltlvl": "020", 
+    "rawOb": "IAD UA /OV AML/TM 1648/FL020/TP MD88/SK BKN020"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.467,38.935]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:48:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD-SEV", 
+    "rawOb": "BMG UA /OV OOM150002/TM 1648/FLDURD/TP C182/TB MOD-SEV BLO 015 "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.590,39.116]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:48:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD-SEV", 
+    "rawOb": "BMG UA /OV OOM150002/TM 1648/FLDURD/TP C182/TB MOD-SEV BLO 015 "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.590,39.116]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:48:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD-SEV", 
+    "rawOb": "BMG UA /OV OOM150002/TM 1648/FLDURD/TP C182/TB MOD-SEV BLO 015"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.590,39.116]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:48:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD-SEV", 
+    "rawOb": "BMG UA /OV OOM150002/TM 1648/FLDURD/TP C182/TB MOD-SEV BLO 015"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.590,39.116]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:48:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD-SEV", 
+    "rawOb": "BMG UA /OV OOM150002/TM 1648/FLDURD/TP C182/TB MOD-SEV BLO 015"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.590,39.116]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:48:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD-SEV", 
+    "rawOb": "BMG UA /OV OOM150002/TM 1648/FLDURD/TP C182/TB MOD-SEV BLO 015"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.590,39.116]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:48:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD-SEV", 
+    "rawOb": "BMG UA /OV OOM150002/TM 1648/FLDURGD/TP C182/TB MOD-SEV BLO 015"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.590,39.116]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:48:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD-SEV", 
+    "rawOb": "BMG UA /OV OOM150002/TM 1648/FLDURGD/TP C182/TB MOD-SEV BLO 015"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.590,39.116]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:48:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD-SEV", 
+    "rawOb": "BMG UA /OV OOM150002/TM 1648/FLDURGD/TP C182/TB MOD-SEV BLO 015"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.590,39.116]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:48:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD-SEV", 
+    "rawOb": "BMG UA /OV OOM150002/TM 1648/FLDURGD/TP C182/TB MOD-SEV BLO 015"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.590,39.116]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:48:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "018", 
+    "rawOb": "BDR UA /OV 1NW/TM 1648/FL018/TP C182/RM VSBY REPORTED 3-5NM DURC"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.124,41.161]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:49:00Z", 
+    "airepType": "AIREP", 
+    "acType": "UAL1111", 
+    "temp": "-43", 
+    "wdir": "275", 
+    "wspd": "90", 
+    "fltlvl": "300", 
+    "rawOb": "ARP UAL1111 3628N 12656W 1649 F300 M43 275/090"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-126.933,36.467]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:49:00Z", 
+    "airepType": "PIREP", 
+    "acType": "A319", 
+    "fltlvl": "370", 
+    "tbInt1": "LGT", 
+    "rawOb": "DAY UA /OV RID180020/TM 1649/FL370/TP A319/TB LGT MOD CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.816,39.423]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:49:00Z", 
+    "airepType": "PIREP", 
+    "acType": "A319", 
+    "fltlvl": "370", 
+    "tbInt1": "LGT", 
+    "rawOb": "DAY UA /OV RID180020/TM 1649/FL370/TP A319/TB LGT MOD CHOP "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.816,39.423]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:49:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "C310", 
+    "fltlvl": "005", 
+    "tbType1": "LLWS", 
+    "rawOb": "ANE UUA /OV DURD ANE/TM 1649/FL005/TP C310/RM LLWS +OR- 10KT 005-SFC"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-93.210,45.145]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:49:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "C310", 
+    "fltlvl": "005", 
+    "tbType1": "LLWS", 
+    "rawOb": "ANE UUA /OV DURD ANE/TM 1649/FL005/TP C310/RM LLWS +OR- 10KT 005-SFC "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-93.210,45.145]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:50:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C750", 
+    "fltlvl": "380", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "JOT UA /OV BVT/TM 1650/FL380/TP C750/TB LGT-MOD CHOP 380-410"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.069,40.556]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:50:00Z", 
+    "airepType": "PIREP", 
+    "acType": "P28A", 
+    "fltlvl": "055", 
+    "tbInt1": "LGT", 
+    "rawOb": "YNG UA /OV UCP/TM 1650/FL055/TP P28A/TB LGT"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.413,41.025]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:50:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C402", 
+    "temp": "5", 
+    "cloudCvg1": "IMC", 
+    "fltlvl": "060", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "rawOb": "PVD UA /OV GON180010/TM 1650/FL060/TP C402/WX IMC/TA 05/TB OCCL LT CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.999,41.169]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:51:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CL30", 
+    "fltlvl": "410", 
+    "tbInt1": "LGT", 
+    "tbType1": "CAT", 
+    "rawOb": "RNO UA /OV FMG120020/TM 1651/FL410/TP CL30/TB LGT CAT/RM MTN WAVE +/- 100FT-ZOA CWSU"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.357,39.292]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:51:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE20", 
+    "temp": "-14", 
+    "fltlvl": "110", 
+    "icgInt1": "LGT", 
+    "icgType1": "MIXED", 
+    "rawOb": "JXN UA /OV JXN110010/TM 1651/FL110/TP BE20/TA M14/IC LGT MXD ICING 110-150"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.242,42.216]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:52:00Z", 
+    "airepType": "AIREP", 
+    "acType": "AAL253", 
+    "temp": "-49", 
+    "wdir": "246", 
+    "wspd": "52", 
+    "fltlvl": "320", 
+    "tbInt1": "NEG", 
+    "rawOb": "ARP AAL253 3304N 12431W 1652 F320 M49 246/052 TB SMTH"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.517,33.067]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:52:00Z", 
+    "airepType": "AIREP", 
+    "acType": "AAL253", 
+    "temp": "-49", 
+    "wdir": "246", 
+    "wspd": "52", 
+    "fltlvl": "320", 
+    "tbInt1": "NEG", 
+    "rawOb": "ARP AAL253 3304N 12431W 1652 F320 MS49 246/052KT TB SMTH"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.517,33.067]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:52:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "000", 
+    "rawOb": "DTW UA /OV 30 SW DTW/TM 1652/FL1652/TP B737/WV -15/RM MOD RIME 150-120 "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.766,41.818]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:52:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "000", 
+    "rawOb": "DTW UA /OV 30 SW DTW/TM 1652/FL1652/TP B737/WV -15/RM MOD RIME 150-120 "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.766,41.818]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:52:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "000", 
+    "rawOb": "DTW UA /OV 30 SW DTW/TM 1652/FL1652/TP B737/WV -15/RM MOD RIME 150-120"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.766,41.818]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:52:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "000", 
+    "rawOb": "DTW UA /OV 30 SW DTW/TM 1652/FL1652/TP B737/WV -15/RM MOD RIME 150-120"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.766,41.818]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:52:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "000", 
+    "rawOb": "DTW UA /OV 30 SW DTW/TM 1652/FL1652/TP B737/WV -15/RM MOD RIME 150-120"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.766,41.818]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T16:52:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "000", 
+    "rawOb": "DTW UA /OV 30 SW DTW/TM 1652/FL1652/TP B737/WV -15/RM MOD RIME 150-120"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.766,41.818]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:52:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "000", 
+    "rawOb": "DTW UA /OV DTW225030/TM 1652/FL1652/TP B737/WV -15/RM MOD RIME 150-120"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.766,41.818]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:52:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "000", 
+    "rawOb": "DTW UA /OV DTW225030/TM 1652/FL1652/TP B737/WV -15/RM MOD RIME 150-120"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.766,41.818]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:52:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "000", 
+    "rawOb": "DTW UA /OV DTW225030/TM 1652/FL1652/TP B737/WV -15/RM MOD RIME 150-120"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.766,41.818]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:52:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "000", 
+    "rawOb": "DTW UA /OV DTW225030/TM 1652/FL1652/TP B737/WV -15/RM MOD RIME 150-120"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.766,41.818]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:53:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C172", 
+    "fltlvl": "085", 
+    "tbInt1": "LGT", 
+    "rawOb": "FHU UA /OV E95/TM 1653/FL085/TP C172/TB LGT/RM NEAR MTNS"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-110.358,31.999]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:53:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B738", 
+    "fltlvl": "370", 
+    "tbInt1": "LGT", 
+    "tbFreq1": "CONT", 
+    "rawOb": "SDF UA /OV MYS290030/TM 1653/FL370/TP B738/TB LGT CONT LGT TURB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.844,38.055]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:53:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "temp": "-10", 
+    "fltlvl": "260", 
+    "tbInt1": "MOD", 
+    "rawOb": "BDL UA /OV CTR/TM 1653/FL260/TP B737/TA M10/TB MOD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.949,42.291]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:53:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "temp": "-10", 
+    "fltlvl": "260", 
+    "tbInt1": "MOD", 
+    "rawOb": "000 UAUS21 KAWN 271600 RRD BDL UA /OV CTR/TM 1653/FL260/TP B737/TA M10/TB MOD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.949,42.291]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:55:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "035", 
+    "tbInt1": "MOD", 
+    "rawOb": "KMIA UA /OV MIA300030/TM 1655/FL035/TP C182/TB MOD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.793,26.006]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:55:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE35", 
+    "fltlvl": "070", 
+    "tbInt1": "LGT", 
+    "rawOb": "YNG UA /OV 29D/TM 1655/FL070/TP BE35/TB LGT"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.168,41.146]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:56:00Z", 
+    "airepType": "PIREP", 
+    "acType": "E550", 
+    "fltlvl": "410", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "CRP UA /OV CRP270010/TM 1656/FL410/TP E550/TB LGT-MOD CHOP/RM FM ZHU AWC-WEB/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.631,27.930]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:56:00Z", 
+    "airepType": "PIREP", 
+    "acType": "E550", 
+    "fltlvl": "410", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "CRP UA /OV CRP270010 /TM 1656 /FL410 /TP E550 /TB LGT-MOD CHOP /RM FM ZHU AWC-WEB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.631,27.930]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:56:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CRJ9", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "22", 
+    "fltlvl": "022", 
+    "rawOb": "PNS UA /OV PNS170007/TM 1656/FL022/TP CRJ9/SK BKN022"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.159,30.360]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:56:00Z", 
+    "airepType": "PIREP", 
+    "acType": "TEX2", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "30", 
+    "cloudTop1": "40", 
+    "fltlvl": "030", 
+    "rawOb": "NSE UA /OV NSE050008/TM 1656/FL030/TP TEX2/SK BKN030-TOP040"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.909,30.811]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:56:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C135", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "18", 
+    "cloudTop1": "35", 
+    "fltlvl": "018", 
+    "rawOb": "KTCM UA /OV KTCM/TM 1656/FL018/TP C135/SK BKN018-TOP035/RM DURC RWY 16"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.477,47.138]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:56:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE9L", 
+    "temp": "2", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "38", 
+    "cloudTop1": "50", 
+    "fltlvl": "038", 
+    "tbInt1": "LGT", 
+    "icgInt1": "NEG", 
+    "rawOb": "GFK UA /OV GFK090015/TM 1656/FL038/TP BE9L/SK BKN038-TOP050/TA MO2/TB LGT BLO 050/IC NEG/RM DURC"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-96.818,47.915]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T16:56:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE9L", 
+    "temp": "2", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "38", 
+    "cloudTop1": "50", 
+    "fltlvl": "038", 
+    "tbInt1": "LGT", 
+    "icgInt1": "NEG", 
+    "rawOb": "GFK UA /OV GFK090015/TM 1656/FL038/TP BE9L/SK BKN038-TOP050/TA MO2/TB LGT BLO 050/IC NEG/RM DURC "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-96.818,47.915]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:57:00Z", 
+    "airepType": "PIREP", 
+    "acType": "A319", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "15", 
+    "fltlvl": "015", 
+    "rawOb": "CLT UA /OV CLT/TM 1657/FL015/TP A319/SK BKN015/RM BKN 015/ SCT050"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.952,35.190]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:59:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "360", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "OCNL", 
+    "rawOb": "LRD UA /OV MTY044026/TM 1659/FL360/TP B737/TB OCNL LGT CHOP 360/RM SMOOTHING OUT WESTBOUND AWC-WEB/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-99.719,26.033]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KKCI", 
+    "obsTime": "2018-04-27T16:59:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "360", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "OCNL", 
+    "rawOb": "LRD UA /OV MTY044026 /TM 1659 /FL360 /TP B737 /TB OCNL LGT CHOP 360 /RM SMOOTHING OUT WESTBOUND AWC-WEB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-99.719,26.033]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:59:00Z", 
+    "airepType": "PIREP", 
+    "acType": "PA32", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "35", 
+    "fltlvl": "035", 
+    "rawOb": "NPA UA /OV NPA220006/TM 1659/FL035/TP PA32/SK BKN035"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.391,30.276]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:59:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "140", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "EEN UA /OV EEN270035/TM 1659/FL140/TP B737/TB MOD CHOP/RM RM DURD FL270-170"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.060,42.651]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T16:59:00Z", 
+    "airepType": "AIREP", 
+    "acType": "AAL90", 
+    "temp": "-52", 
+    "wdir": "347", 
+    "wspd": "45", 
+    "fltlvl": "390", 
+    "rawOb": "ARP AAL90 5543N 06025W 1659 F390 M52 347/45 5623N 05809W 1708 CUDDY KT N808AN DDL YHO 271659 L34A"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-60.417,55.717]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T01:39:00Z", 
+    "obsTime": "2018-04-27T16:59:00Z", 
     "airepType": "AIREP", 
-    "acType": "DAL10", 
-    "temp": "-53", 
-    "wdir": "231", 
-    "wspd": "86", 
-    "fltlvl": "330", 
-    "rawOb": "ARP DAL10 5607N06021W 0139 F330 CUDDY 0152 5800N05000W MS53 231/86 KT N185DN DDL YHO 270139 F99A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.350,56.117]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:40:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ2", 
-    "temp": "-11", 
-    "fltlvl": "100", 
-    "icgInt1": "LGT", 
-    "icgType1": "RIME", 
-    "rawOb": "TYS UA /OV MOR/TM 0140/FL100/TP CRJ2/TA M11/IC LGT RIME 110-150/RM DURD"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-83.375,36.179]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:41:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B787", 
+    "acType": "AAL90", 
+    "temp": "-52", 
+    "wdir": "347", 
+    "wspd": "45", 
     "fltlvl": "390", 
-    "tbInt1": "LGT-MOD", 
-    "rawOb": "ACK UA /OV ACK230030/TM 0141/FL390/TP B787/TB LGT-MOD"
+    "rawOb": "ARP AAL90 5543N06025W 1659 F390 5623N05809W 1708 CUDDY MS52 347/45 KT N808AN DDL YHO 271659 L34A "
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-70.405,40.872]
+      "coordinates": [-60.417,55.717]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:00:00Z", 
+    "airepType": "AIREP", 
+    "acType": "AAL31", 
+    "temp": "-43", 
+    "wdir": "255", 
+    "wspd": "45", 
+    "fltlvl": "300", 
+    "rawOb": "ARP AAL31 3304N 12431W 1700 F300 M43 255/045"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.517,33.067]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:00:00Z", 
+    "airepType": "AIREP", 
+    "acType": "AAL31", 
+    "temp": "-43", 
+    "wdir": "255", 
+    "wspd": "45", 
+    "fltlvl": "300", 
+    "rawOb": "ARP AAL31 3304N 12431W 1700 F300 MS43 255/045KT"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.517,33.067]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:00:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE24", 
+    "temp": "6", 
+    "cloudCvg1": "OVC", 
+    "cloudBas1": "22", 
+    "cloudTop1": "70", 
+    "fltlvl": "022", 
+    "tbInt1": "LGT-MOD", 
+    "tbFreq1": "CONT", 
+    "rawOb": "HAF UA /OV CCR-HAF/TM 1700/FL022/TP BE24/SK OVC022-TOP070/TA 06/TB CONS LGT OCNL MOD 022-040/RM IMC UDDF 800FPM"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.274,37.779]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:00:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CL30", 
+    "fltlvl": "048", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO/TM 1700/FL048/TP CL30/RM CL30 REPORTED ON FINAL FOR RWY16/ LLWS -15KTS AT 048MSL-ZOA FD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.768,39.499]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T01:41:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B787", 
-    "fltlvl": "390", 
-    "tbInt1": "LGT-MOD", 
-    "rawOb": "ACK UA /OV ACK230030/TM 0141/FL390/TP B787/TB LGT-MOD"
+    "obsTime": "2018-04-27T17:00:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CL30", 
+    "fltlvl": "048", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO/TM 1700/FL048/TP CL30/RM CL30 REPORTED ON FINAL FOR RWY16, LLWS -15KTS AT 048MSL-ZOA FD"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-70.405,40.872]
+      "coordinates": [-119.768,39.499]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:43:00Z", 
+    "obsTime": "2018-04-27T17:00:00Z", 
+    "airepType": "PIREP", 
+    "acType": "A319", 
+    "fltlvl": "170", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "PIA UA /OV BDF040023/TM 1700/FL170/TP A319/TB CONT MOD CHOP FL170-150"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-89.260,41.452]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:01:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE36", 
+    "cloudCvg1": "SKC", 
+    "fltlvl": "085", 
+    "tbInt1": "NEG", 
+    "icgInt1": "NEG", 
+    "rawOb": "BKD UA /OV ETN/TM 1701/FL085/TP BE36/SK SKC/WX FV99SM/TA UNKN/TB NEG/IC NEG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-98.810,32.415]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:01:00Z", 
+    "airepType": "PIREP", 
+    "acType": "PC12", 
+    "temp": "-2", 
+    "fltlvl": "090", 
+    "tbInt1": "MOD", 
+    "icgInt1": "LGT-MOD", 
+    "icgType1": "MIXED", 
+    "rawOb": "BDL UA /OV MAD315015/TM 1701/FL090/TP PC12/TA M02/TB MOD/IC LGT-MOD MX/RM CLR SMOOTH AT 80"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.975,41.446]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:01:00Z", 
+    "airepType": "PIREP", 
+    "acType": "PC12", 
+    "temp": "-2", 
+    "fltlvl": "090", 
+    "tbInt1": "MOD", 
+    "icgInt1": "LGT-MOD", 
+    "icgType1": "MIXED", 
+    "rawOb": "BDL UA /OV 15 NW MAD/TM 1701/FL90/TP PC12/TA -2/TB MOD/IC LGT-MOD MIX/RM CLR SMOOTH AT 80 "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.975,41.446]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:02:00Z", 
+    "airepType": "PIREP", 
+    "acType": "A321", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "31", 
+    "fltlvl": "020", 
+    "rawOb": "PBI UA /OV PBI315008/TM 1702/FL020/TP A321/SK BKN031"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.197,26.769]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:02:00Z", 
     "airepType": "AIREP", 
-    "acType": "UAL1749", 
-    "temp": "-46", 
-    "wdir": "290", 
-    "wspd": "75", 
-    "fltlvl": "320", 
-    "rawOb": "ARP UAL1749 3215N 12406W 0143 F320 M46 290/075"
+    "acType": "ASA811", 
+    "temp": "-59", 
+    "wdir": "270", 
+    "wspd": "60", 
+    "fltlvl": "370", 
+    "tbInt1": "NEG", 
+    "rawOb": "ARP ASA811 3352N 12847W 1702 F370 M59 270/060 TB SMTH"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-128.783,33.867]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:02:00Z", 
+    "airepType": "AIREP", 
+    "acType": "ASA811", 
+    "temp": "-59", 
+    "wdir": "270", 
+    "wspd": "60", 
+    "fltlvl": "370", 
+    "tbInt1": "NEG", 
+    "rawOb": "ARP ASA811 3352N 12847W 1702 F370 MS59 270/060KT TB SMTH"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-128.783,33.867]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:02:00Z", 
+    "airepType": "PIREP", 
+    "acType": "RV8", 
+    "fltlvl": "055", 
+    "tbInt1": "MOD", 
+    "rawOb": "ALO UA /OV ALO180020/TM 1702/FL055/TP RV8/TB MOD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-92.446,42.226]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:03:00Z", 
+    "airepType": "PIREP", 
+    "acType": "PC12", 
+    "fltlvl": "008", 
+    "rawOb": "BDR UA /OV 2SW/TM 1703/FL008/TP PC12/RM VSBY REPORTED 2-3NM DURD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.124,41.161]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:04:00Z", 
+    "airepType": "AIREP", 
+    "acType": "UAL417", 
+    "temp": "-36", 
+    "wdir": "244", 
+    "wspd": "36", 
+    "fltlvl": "280", 
+    "rawOb": "ARP UAL417 3215N 12406W 1704 F280 M36 244/036"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.100,32.250]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:04:00Z", 
+    "airepType": "AIREP", 
+    "acType": "UAL417", 
+    "temp": "-36", 
+    "wdir": "244", 
+    "wspd": "36", 
+    "fltlvl": "280", 
+    "rawOb": "ARP UAL417 3215N 12406W 1704 F280 MS36 244/036KT"
     },
     "geometry": {
       "type": "Point",
@@ -1046,910 +2365,1188 @@
   { "type": "Feature",
     "properties": {
     "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:43:00Z", 
-    "airepType": "AIREP", 
-    "acType": "VIR106", 
-    "temp": "-46", 
-    "wdir": "237", 
-    "wspd": "62", 
-    "fltlvl": "370", 
-    "rawOb": "ARP VIR106 6322N 06211W 0143 F370 M46 237/62 EMBOK 0156 6300N 05000W KT GVRAY DDL SFJ 270144 J73A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-62.183,63.367]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KKCI", 
-    "obsTime": "2018-04-27T01:43:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B737", 
-    "fltlvl": "390", 
-    "tbInt1": "LGT", 
-    "tbType1": "CHOP", 
-    "rawOb": "ATL UA /OV RMG277032 /TM 0143 /FL390 /TP B737 /TB LGT CHOP/RM AWC-WEB"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-85.757,34.235]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:43:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B737", 
-    "fltlvl": "390", 
-    "tbInt1": "LGT", 
-    "tbType1": "CHOP", 
-    "rawOb": "ATL UA /OV RMG277032/TM 0143/FL390/TP B737/TB LGT CHOP/RM AWC-WEB/"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-85.757,34.235]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T01:43:00Z", 
-    "airepType": "AIREP", 
-    "acType": "VIR106", 
-    "temp": "-46", 
-    "wdir": "237", 
-    "wspd": "62", 
-    "fltlvl": "370", 
-    "rawOb": "ARP VIR106 6322N06211W 0143 F370 EMBOK 0156 6300N05000W MS46 237/62 KT GVRAY DDL SFJ 270144 J73A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-62.183,63.367]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T01:44:00Z", 
-    "airepType": "Urgent PIREP", 
-    "acType": "A319", 
-    "fltlvl": "062", 
-    "tbType1": "LLWS", 
-    "rawOb": "RNO UUA /OV KRNO/TM 0144/FL062/TP A319/RM A319 REPORTED ON FINAL FOR RWY16, LLWS +/-10KTS AT 018AGL AND LLWS +/-10KTS AT 008AGL-ZOA FD"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.768,39.499]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:44:00Z", 
-    "airepType": "Urgent PIREP", 
-    "acType": "A319", 
-    "fltlvl": "062", 
-    "tbType1": "LLWS", 
-    "rawOb": "RNO UUA /OV KRNO/TM 0144/FL062/TP A319/RM A319 REPORTED ON FINAL FOR RWY16/ LLWS +/-10KTS AT 018AGL AND LLWS +/-10KTS AT 008AGL-ZOA FD"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.768,39.499]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:44:00Z", 
-    "airepType": "AIREP", 
-    "acType": "UAL1613", 
-    "temp": "-61", 
-    "wdir": "273", 
-    "wspd": "13", 
-    "fltlvl": "380", 
-    "tbInt1": "NEG", 
-    "rawOb": "ARP UAL1613 3819N 10954W 0144 F380 M61 273/013 TB SMTH SK CLEAR IC NONE RM B772 OV 3819N 10954W"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-109.900,38.317]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T01:44:00Z", 
-    "airepType": "AIREP", 
-    "acType": "UAL1613", 
-    "temp": "-61", 
-    "wdir": "273", 
-    "wspd": "13", 
-    "fltlvl": "380", 
-    "tbInt1": "NEG", 
-    "rawOb": "ARP UAL1613 3819N 10954W 0144 F380 MS61 273/013KT TB SMTH SK CLEAR IC NONE RM B772 OV 3819N10954W"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-109.900,38.317]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:45:00Z", 
-    "airepType": "PIREP", 
-    "acType": "TEX2", 
-    "temp": "10", 
-    "cloudCvg1": "SKC", 
-    "fltlvl": "030", 
-    "tbInt1": "NEG", 
-    "icgInt1": "NEG", 
-    "rawOb": "BFM UA /OV SJI101021/TM 0145/FL030/TP TEX2/SK SKC/TA 10/TB NEG/IC NEG"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.969,30.629]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T01:45:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WOW5SH", 
-    "temp": "-55", 
-    "wdir": "238", 
-    "wspd": "114", 
-    "fltlvl": "330", 
-    "rawOb": "ARP WOW5SH 5857N06051W 0145 F330 PIDSO 0159 6100N05500W MS55 238/114 KT TFNOW DDL YHO 270145 J16A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.850,58.950]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:45:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WOW5SH", 
-    "temp": "-55", 
-    "wdir": "238", 
-    "wspd": "114", 
-    "fltlvl": "330", 
-    "rawOb": "ARP WOW5SH 5857N 06051W 0145 F330 M55 238/114 PIDSO 0159 6100N 05500W KT TFNOW DDL YHO 270145 J16A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.850,58.950]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:48:00Z", 
-    "airepType": "PIREP", 
-    "acType": "C172", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "50", 
-    "fltlvl": "000", 
-    "rawOb": "GYI UA /OV GYI/TM 0148/FL000/TP C172/SK OVC050"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-96.674,33.714]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T01:48:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WOW5SH", 
-    "temp": "-58", 
-    "wdir": "239", 
-    "wspd": "116", 
-    "fltlvl": "342", 
-    "rawOb": "ARP WOW5SH 5918N06013W 0148 F342 PIDSO 0159 6100N05500W MS58 239/116 KT TFNOW DDL YHO 270148 J21A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.217,59.300]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:48:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WOW5SH", 
-    "temp": "-58", 
-    "wdir": "239", 
-    "wspd": "116", 
-    "fltlvl": "342", 
-    "rawOb": "ARP WOW5SH 5918N 06013W 0148 F342 M58 239/116 PIDSO 0159 6100N 05500W KT TFNOW DDL YHO 270148 J21A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.217,59.300]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:49:00Z", 
-    "airepType": "PIREP", 
-    "acType": "HB763", 
-    "fltlvl": "260", 
-    "tbInt1": "MOD", 
-    "tbFreq1": "CONT", 
-    "rawOb": "BUF UA /OV BUF189017/TM 0149/FL260/TP H/B763/TB CONT MOD TURB/RM DURGC 260-310"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-78.653,42.646]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:50:00Z", 
-    "airepType": "AIREP", 
-    "acType": "UAL574", 
-    "temp": "-47", 
-    "wdir": "340", 
-    "wspd": "21", 
-    "fltlvl": "320", 
-    "tbInt1": "NEG", 
-    "rawOb": "ARP UAL574 3926N 10653W 0150 F320 M47 340/021 TB SMTH SK CLEAR IC NONE RM B739 OV DBL"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-106.883,39.433]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T01:50:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WOW3KN", 
-    "temp": "-46", 
-    "wdir": "244", 
-    "wspd": "53", 
-    "fltlvl": "390", 
-    "rawOb": "ARP WOW3KN 6311N06226W 0150 F390 EMBOK 0204 6400N05000W MS46 244/53 KT TFLUV DDL SFJ 270150 J50A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-62.433,63.183]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:50:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WOW3KN", 
-    "temp": "-46", 
-    "wdir": "244", 
-    "wspd": "53", 
-    "fltlvl": "390", 
-    "rawOb": "ARP WOW3KN 6311N 06226W 0150 F390 M46 244/53 EMBOK 0204 6400N 05000W KT TFLUV DDL SFJ 270150 J50A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-62.433,63.183]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T01:51:00Z", 
-    "airepType": "PIREP", 
-    "acType": "E135", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "18", 
-    "cloudTop1": "31", 
-    "fltlvl": "031", 
-    "rawOb": "CEC UA /OV CEC/TM 0151/FL031/TP E135/SK OVC018 TOP031/RM -ZSE -ZSE "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-124.241,41.780]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:51:00Z", 
-    "airepType": "PIREP", 
-    "acType": "E135", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "18", 
-    "cloudTop1": "31", 
-    "fltlvl": "031", 
-    "rawOb": "CEC UA /OV CEC/TM 0151/FL031/TP E135/SK OVC018-TOP031/RM -ZSE -ZSE"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-124.241,41.780]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:52:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WJA1874", 
-    "temp": "-62", 
-    "wdir": "162", 
-    "wspd": "44", 
-    "fltlvl": "380", 
-    "rawOb": "ARP WJA1874 4820N 12800W 0152 F380 M62 162/044"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-128.000,48.333]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:53:00Z", 
-    "airepType": "PIREP", 
-    "acType": "E75S", 
-    "fltlvl": "320", 
-    "tbInt1": "LGT-MOD", 
-    "tbType1": "CHOP", 
-    "rawOb": "SYR UA /OV SYR090025/TM 0153/FL320/TP E75S/TB LGT-MOD CHOP"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-75.644,43.239]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:53:00Z", 
-    "airepType": "AIREP", 
-    "acType": "DLH491", 
-    "temp": "-49", 
-    "wdir": "235", 
-    "wspd": "74", 
-    "fltlvl": "330", 
-    "rawOb": "ARP DLH491 6304N 06221W 0153 F330 M49 235/74 EMBOK 0206 6300N 05000W KT DABTL DDL YFB 270153 F03A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-62.350,63.067]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T01:53:00Z", 
-    "airepType": "AIREP", 
-    "acType": "DLH491", 
-    "temp": "-49", 
-    "wdir": "235", 
-    "wspd": "74", 
-    "fltlvl": "330", 
-    "rawOb": "ARP DLH491 6304N06221W 0153 F330 EMBOK 0206 6300N05000W MS49 235/74 KT DABTL DDL YFB 270153 F03A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-62.350,63.067]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T01:58:00Z", 
-    "airepType": "AIREP", 
-    "acType": "ROU1910", 
-    "temp": "-58", 
-    "wdir": "235", 
-    "wspd": "100", 
-    "fltlvl": "350", 
-    "rawOb": "ARP ROU1910 5733N06030W 0158 F350 URTAK 0209 6000N05000W MS58 235/100 KT CFMWP DDL YHO 270158 F18A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.500,57.550]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T01:58:00Z", 
-    "airepType": "AIREP", 
-    "acType": "ROU1910", 
-    "temp": "-58", 
-    "wdir": "235", 
-    "wspd": "100", 
-    "fltlvl": "350", 
-    "rawOb": "ARP ROU1910 5733N 06030W 0158 F350 M58 235/100 URTAK 0209 6000N 05000W KT CFMWP DDL YHO 270158 F18A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.500,57.550]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T02:06:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ9", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "15", 
-    "fltlvl": "000", 
-    "rawOb": "GSO UA /OV GSO230002/TM 0206/FLDURGD/TP CRJ9/SK OVC015-TOPUNKN"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-80.007,36.023]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T02:06:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ9", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "15", 
-    "fltlvl": "000", 
-    "rawOb": "GSO UA /OV GSO230002/TM 0206/FLDURGD/TP CRJ9/SK OVC015-TOPUNKN"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-80.007,36.023]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T02:06:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ9", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "15", 
-    "fltlvl": "000", 
-    "rawOb": "GSO UA /OV GSO230002/TM 0206/FLDURGD/TP CRJ9/SK OVC015-TOPUNKN"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-80.007,36.023]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T02:06:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ9", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "15", 
-    "fltlvl": "000", 
-    "rawOb": "GSO UA /OV GSO230002/TM 0206/FLDURGD/TP CRJ9/SK OVC015-TOPUNKN"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-80.007,36.023]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T02:06:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ9", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "15", 
-    "fltlvl": "000", 
-    "rawOb": "GSO UA /OV GSO230002/TM 0206/FLDURD/TP CRJ9/SK OVC015-TOPUNKN"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-80.007,36.023]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T02:06:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ9", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "15", 
-    "fltlvl": "000", 
-    "rawOb": "GSO UA /OV GSO230002/TM 0206/FLDURD/TP CRJ9/SK OVC015-TOPUNKN"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-80.007,36.023]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T02:06:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ9", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "15", 
-    "fltlvl": "000", 
-    "rawOb": "GSO UA /OV GSO230002/TM 0206/FLDURD/TP CRJ9/SK OVC015-TOPUNKN"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-80.007,36.023]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T02:06:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ9", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "15", 
-    "fltlvl": "000", 
-    "rawOb": "GSO UA /OV GSO230002/TM 0206/FLDURD/TP CRJ9/SK OVC015-TOPUNKN"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-80.007,36.023]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T02:06:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ9", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "15", 
-    "fltlvl": "000", 
-    "rawOb": "GSO UA /OV GSO230002/TM 0206/FLDURD/TP CRJ9/SK OVC015-TOPUNKN "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-80.007,36.023]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T02:06:00Z", 
-    "airepType": "PIREP", 
-    "acType": "CRJ9", 
-    "cloudCvg1": "OVC", 
-    "cloudBas1": "15", 
-    "fltlvl": "000", 
-    "rawOb": "GSO UA /OV GSO230002/TM 0206/FLDURD/TP CRJ9/SK OVC015-TOPUNKN "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-80.007,36.023]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T02:09:00Z", 
-    "airepType": "AIREP", 
-    "acType": "FIN10", 
-    "temp": "-60", 
-    "wdir": "236", 
-    "wspd": "112", 
-    "fltlvl": "350", 
-    "rawOb": "ARP FIN10 5847N 06012W 0209 F350 M60 236/112 SAVRY 0218 6100N 05000W KT OHLTR QXT AME 270209 J51A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.200,58.783]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T02:10:00Z", 
-    "airepType": "AIREP", 
-    "acType": "ELY006", 
-    "temp": "-57", 
-    "wdir": "233", 
-    "wspd": "114", 
-    "fltlvl": "340", 
-    "rawOb": "ARP ELY006 5856N 06133W 0210 F340 M57 233/114 SAVRY 0222 6000N 05000W KT 4XECD QXT AME 270210 F48A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-61.550,58.933]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T02:12:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WJA1882", 
-    "temp": "-61", 
-    "wdir": "151", 
-    "wspd": "55", 
-    "fltlvl": "370", 
-    "rawOb": "ARP WJA1882 4741N 12946W 0212 F370 MS61 151/055KT"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-129.767,47.683]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T02:14:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WJA1864", 
-    "temp": "-50", 
-    "wdir": "155", 
-    "wspd": "46", 
-    "fltlvl": "320", 
-    "rawOb": "ARP WJA1864 4741N 12946W 0214 F320 MS50 155/046KT"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-129.767,47.683]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KWBC", 
-    "obsTime": "2018-04-27T02:14:00Z", 
-    "airepType": "AIREP", 
-    "acType": "WJA1864", 
-    "temp": "-50", 
-    "wdir": "155", 
-    "wspd": "46", 
-    "fltlvl": "320", 
-    "rawOb": "ARP WJA1864 4741N 12946W 0214 F320 MS50 155/046KT"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-129.767,47.683]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T02:15:00Z", 
-    "airepType": "AIREP", 
-    "acType": "UAL987", 
-    "temp": "-59", 
-    "wdir": "233", 
-    "wspd": "105", 
-    "fltlvl": "350", 
-    "rawOb": "ARP UAL987 5836N 06045W 0215 F350 M59 233/105 IRBIM 0216 SAVRY KT N652UA DDL YHO 270215 F59A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.750,58.600]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T02:15:00Z", 
-    "airepType": "AIREP", 
-    "acType": "UAL987", 
-    "temp": "-59", 
-    "wdir": "233", 
-    "wspd": "105", 
-    "fltlvl": "350", 
-    "rawOb": "ARP UAL987 5836N06045W 0215 F350 IRBIM 0216 SAVRY MS59 233/105 KT N652UA DDL YHO 270215 F59A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.750,58.600]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T02:20:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B737", 
-    "fltlvl": "340", 
-    "tbInt1": "MOD", 
-    "tbType1": "CHOP", 
-    "rawOb": "DSM UA /OV DSM320040/TM 0220/FL340/TP B737/TB MOD CHOP"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-94.136,41.995]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T02:20:00Z", 
-    "airepType": "AIREP", 
-    "acType": "PIA782", 
-    "temp": "-53", 
-    "wdir": "236", 
-    "wspd": "112", 
-    "fltlvl": "330", 
-    "rawOb": "ARP PIA782 5905N06034W 0220 F330 PIDSO 0231 6100N05500W MS53 236/112 KT APBGY QXT AOW 270220 F06A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.567,59.083]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T02:20:00Z", 
-    "airepType": "AIREP", 
-    "acType": "PIA782", 
-    "temp": "-53", 
-    "wdir": "236", 
-    "wspd": "112", 
-    "fltlvl": "330", 
-    "rawOb": "ARP PIA782 5905N 06034W 0220 F330 M53 236/112 PIDSO 0231 6100N 05500W KT APBGY QXT AOW 270220 F06A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.567,59.083]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KAWN", 
-    "obsTime": "2018-04-27T02:20:00Z", 
-    "airepType": "AIREP", 
-    "acType": "KLM282", 
-    "temp": "-59", 
-    "wdir": "231", 
-    "wspd": "116", 
-    "fltlvl": "350", 
-    "rawOb": "ARP KLM282 5917N 06144W 0220 F350 M59 231/116 SAVRY 0232 6000N 05000W KT PHBFN QXT AOW 270220 F89A"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-61.733,59.283]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "CWAO", 
-    "obsTime": "2018-04-27T02:20:00Z", 
-    "airepType": "AIREP", 
-    "acType": "KLM282", 
-    "temp": "-59", 
-    "wdir": "231", 
-    "wspd": "116", 
-    "fltlvl": "350", 
-    "rawOb": "ARP KLM282 5917N06144W 0220 F350 SAVRY 0232 6000N05000W MS59 231/116 KT PHBFN QXT AOW 270220 F89A "
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-61.733,59.283]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T02:22:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B738", 
-    "fltlvl": "360", 
-    "tbInt1": "NEG", 
-    "rawOb": "DSM UA /OV DSM130030 /TM 0222 /FL360 /TP B738 /TB NEG/RM AWC-WEB"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-93.197,41.072]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KKCI", 
-    "obsTime": "2018-04-27T02:22:00Z", 
-    "airepType": "PIREP", 
-    "acType": "B738", 
-    "fltlvl": "360", 
-    "tbInt1": "NEG", 
-    "rawOb": "DSM UA /OV DSM130030 /TM 0222 /FL360 /TP B738 /TB NEG/RM AWC-WEB"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-93.197,41.072]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-    "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T02:23:00Z", 
+    "obsTime": "2018-04-27T17:04:00Z", 
     "airepType": "PIREP", 
     "acType": "C208", 
-    "temp": "-4", 
-    "fltlvl": "080", 
-    "icgInt1": "LGT", 
-    "icgType1": "MIXED", 
-    "rawOb": "PCZ UA /OV PCZ/TM 0223/FL080/TP C208/TA M4/IC LGT MX "
+    "cloudTop1": "31", 
+    "fltlvl": "012", 
+    "rawOb": "SEA UA /OV SEA035003/TM 1704/FL012/TP C208/SK TOPS031 BASES012"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-89.020,44.333]
+      "coordinates": [-122.250,47.465]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:05:00Z", 
+    "airepType": "AIREP", 
+    "acType": "UAL1022", 
+    "temp": "-53", 
+    "wdir": "260", 
+    "wspd": "80", 
+    "fltlvl": "370", 
+    "tbInt1": "MOD", 
+    "rawOb": "ARP UAL1022 2527N 08111W 1705 F370 M53 260/080 TB MOD SK IN CLOUDS IC NONE RM B738 OV DHP250050 AROUND T-STORMS"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-81.183,25.450]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:05:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD", 
+    "rawOb": "KCVS UA /OV KCVS360025/TM 1705/FLUNKN/TP C182/TB MOD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-103.260,34.796]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:05:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD", 
+    "rawOb": "KCVS UA /OV KCVS360025/TM 1705/FLUNKN/TP C182/TB MOD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-103.260,34.796]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:05:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD", 
+    "rawOb": "KCVS UA /OV KCVS360025/TM 1705/FLUNKN/TP C182/TB MOD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-103.260,34.796]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:05:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "fltlvl": "000", 
+    "tbInt1": "MOD", 
+    "rawOb": "KCVS UA /OV KCVS360025/TM 1705/FLUNKN/TP C182/TB MOD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-103.260,34.796]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:05:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CRJ", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "18", 
+    "fltlvl": "018", 
+    "rawOb": "IAD UA /OV AML/TM 1705/FL018/TP CRJ/SK BKN018"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.467,38.935]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T02:25:00Z", 
+    "obsTime": "2018-04-27T17:05:00Z", 
     "airepType": "PIREP", 
-    "acType": "B737", 
+    "acType": "CRJ", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "18", 
+    "fltlvl": "018", 
+    "rawOb": "IAD UA /OV AML/TM 1705/FL018/TP CRJ /SK BKN018"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.467,38.935]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:05:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CL30", 
+    "fltlvl": "005", 
+    "rawOb": "RNO UA /OV RNO340001/TM 1705/FL005/TP CL30/RM WINDSHEAR -15 SHORT FINAL DURD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.769,39.516]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:05:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CL30", 
+    "fltlvl": "005", 
+    "rawOb": "RNO UA /OV RNO340001/TM 1705/FL005/TP CL30/RM WINDSHEAR -15 SHORT FINAL DURD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.769,39.516]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:05:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B738", 
+    "fltlvl": "370", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "IND UA /OV VHP265030/TM 1705/FL370/TP B738/TB MOD CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.015,39.778]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:05:00Z", 
+    "airepType": "PIREP", 
+    "acType": "PC12", 
+    "temp": "-3", 
+    "fltlvl": "130", 
+    "icgInt1": "LGT-MOD", 
+    "icgType1": "RIME", 
+    "rawOb": "HVN UA /OV GON270015/TM 1705/FL130/TP PC12/TA M03/IC LGT-MOD RIME"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.374,41.270]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:06:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C172", 
+    "wxString": "HZ", 
+    "fltlvl": "005", 
+    "rawOb": "TMB UA /OV 1W/TM 1706/FL005/TP C172/WX 4SM HZ"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.433,25.648]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:07:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C750", 
+    "temp": "-59", 
+    "wdir": "277", 
+    "wspd": "26", 
+    "cloudCvg1": "SKC", 
+    "fltlvl": "450", 
+    "tbInt1": "NEG", 
+    "icgInt1": "NEG", 
+    "rawOb": "FMN UA /OV DRO051041/TM 1707/FL450/TP C750/SK SKC/WX FV99SM/TA M59/WV 27726KT/TB NEG/IC NEG/RM AWC-WEB/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-106.971,37.439]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:07:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C560", 
+    "cloudCvg1": "OVC", 
+    "cloudBas1": "17", 
+    "fltlvl": "017", 
+    "rawOb": "IAD UA /OV RY1R/TM 1707/FL017/TP C560/SK OVC017"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.460,38.947]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:07:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B752", 
+    "fltlvl": "360", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "RFD UA /OV PLL/TM 1707/FL360/TP B752/TB MOD CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-89.524,41.966]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:08:00Z", 
+    "airepType": "PIREP", 
+    "acType": "A319", 
+    "fltlvl": "260", 
+    "tbInt1": "MOD", 
+    "rawOb": "ORF UA /OV 3218N06635W/TM 1708/FL260/TP A319/TB MOD/RM 260-330"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-66.583,32.300]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:08:00Z", 
+    "airepType": "PIREP", 
+    "acType": "M20T", 
+    "fltlvl": "120", 
+    "tbInt1": "MOD", 
+    "rawOb": "BML UA /OV BML150020/TM 1708/FL120/TP M20T/TB MOD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.846,44.406]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:09:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B738", 
+    "fltlvl": "350", 
+    "tbInt1": "LGT", 
+    "rawOb": "RNO UA /OV FMG/TM 1709/FL350/TP B738/TB LGT MTN WAVE/RM +/- 100FT-ZOA CWSU"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.656,39.531]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:10:00Z", 
+    "airepType": "PIREP", 
+    "acType": "E75L", 
+    "cloudCvg1": "SCT", 
+    "cloudBas1": "23", 
+    "cloudTop1": "70", 
+    "fltlvl": "020", 
+    "rawOb": "BRO UA /OV BRO360008/TM 1710/FL020/TP E75L/SK 023 SCT 070"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.352,26.056]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:10:00Z", 
+    "airepType": "PIREP", 
+    "acType": "E75L", 
+    "cloudCvg1": "SCT", 
+    "cloudBas1": "23", 
+    "cloudTop1": "70", 
+    "fltlvl": "020", 
+    "rawOb": "BRO UA /OV 8 N BRO/TM 1710/FL020/TP E75L/SK 023 SCT 070 "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.352,26.056]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:10:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B738", 
+    "fltlvl": "370", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "OXI UA /OV OXI180015/TM 1710/FL370/TP B738/TB CONT LGT-OCNL MOD CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.649,41.072]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:10:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B738", 
+    "fltlvl": "370", 
+    "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "tbFreq1": "CONT", 
+    "rawOb": "OXI UA /OV OXI180015/TM 1710/FL370/TP B738/TB CONT LGT-OCNL MOD CHOP "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.649,41.072]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:10:00Z", 
+    "airepType": "PIREP", 
+    "acType": "SR22", 
+    "fltlvl": "045", 
+    "tbInt1": "MOD", 
+    "rawOb": "MSP UA /OV MSP150030/TM 1710/FL045/TP SR22/TB MOD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-92.908,44.455]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:12:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C206", 
+    "temp": "3", 
+    "cloudCvg1": "SKC", 
+    "fltlvl": "090", 
+    "tbInt1": "NEG", 
+    "rawOb": "SPI UA /OV SPI360005/TM 1712/FL090/TP C206/SK SKC/TA 03/TB NEG/RM SMTH"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-89.680,39.923]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:13:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B738", 
     "fltlvl": "360", 
     "tbInt1": "LGT", 
-    "rawOb": "SLN UA /OV SLN090020/TM 0225/FL360/TP B737/TB LGT/RM ZKC FDC"
+    "tbType1": "CHOP", 
+    "rawOb": "BHM UA /OV VUZ/TM 1713/FL360/TP B738/TB LGT CHOP/RM ZTLFD"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-97.197,38.884]
+      "coordinates": [-86.900,33.670]
     } 
   },
   { "type": "Feature",
     "properties": {
     "icaoId": "KMSC", 
-    "obsTime": "2018-04-27T02:25:00Z", 
+    "obsTime": "2018-04-27T17:13:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B738", 
+    "fltlvl": "360", 
+    "tbInt1": "LGT", 
+    "tbType1": "CHOP", 
+    "rawOb": "BHM UA /OV VUZ/TM 1713/FL360/TP B738/TB LGT CHOP/RM ZTLFD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.900,33.670]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:13:00Z", 
+    "airepType": "PIREP", 
+    "acType": "A321", 
+    "fltlvl": "320", 
+    "tbInt1": "MOD", 
+    "rawOb": "SYR UA /OV SYR310010/TM 1713/FL320/TP A321/TB MOD TURB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.404,43.241]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:15:00Z", 
     "airepType": "PIREP", 
     "acType": "B737", 
-    "fltlvl": "350", 
+    "wxString": "-RA", 
+    "fltlvl": "025", 
+    "tbType1": "CHOP", 
+    "rawOb": "FLL UA /OV 8 WEST/TM 1715/FL025/TP B737/WX -RA/TB - CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.166,26.074]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:15:00Z", 
+    "airepType": "PIREP", 
+    "acType": "E170", 
+    "fltlvl": "245", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "AVP UA /OV LVZ120030/TM 1715/FL245/TP E170/TB MOD CHOP/RM 210-245"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.067,41.100]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:15:00Z", 
+    "airepType": "PIREP", 
+    "acType": "E170", 
+    "fltlvl": "245", 
+    "tbInt1": "MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "AVP UA /OV LVZ120030/TM 1715/FL245/TP E170/TB MOD CHOP/RM 210-245"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.067,41.100]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:15:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C550", 
+    "cloudCvg1": "OVC", 
+    "cloudBas1": "30", 
+    "cloudTop1": "37", 
+    "fltlvl": "030", 
+    "rawOb": "SAW UA /OV SAW/TM 1715/FL030/TP C550/SK OVC030-TOP037/RM DURD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.397,46.359]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:15:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C550", 
+    "cloudCvg1": "OVC", 
+    "cloudBas1": "30", 
+    "cloudTop1": "37", 
+    "fltlvl": "030", 
+    "rawOb": "SAW UA /OV SAW/TM 1715/FL030/TP C550/SK OVC030 TOP037/RM DURD "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.397,46.359]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:17:00Z", 
+    "airepType": "AIREP", 
+    "acType": "UAL1721", 
+    "temp": "-42", 
+    "wdir": "262", 
+    "wspd": "67", 
+    "fltlvl": "300", 
+    "rawOb": "ARP UAL1721 3536N 12556W 1717 F300 M42 262/067"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-125.933,35.600]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:17:00Z", 
+    "airepType": "AIREP", 
+    "acType": "UAL1721", 
+    "temp": "-42", 
+    "wdir": "262", 
+    "wspd": "67", 
+    "fltlvl": "300", 
+    "rawOb": "ARP UAL1721 3536N 12556W 1717 F300 MS42 262/067KT"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-125.933,35.600]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:17:00Z", 
+    "airepType": "PIREP", 
+    "acType": "PA24", 
+    "cloudCvg1": "OVC", 
+    "cloudBas1": "12", 
+    "cloudTop1": "31", 
+    "fltlvl": "012", 
+    "rawOb": "PAE UA /OV PAE340001/TM 1717/FL012/TP PA24/SK OVC012-TOP031/RM DURD ILS RY 16R PAE"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.278,47.936]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:17:00Z", 
+    "airepType": "PIREP", 
+    "acType": "PA24", 
+    "cloudCvg1": "OVC", 
+    "cloudBas1": "12", 
+    "cloudTop1": "31", 
+    "fltlvl": "012", 
+    "rawOb": "PAE UA /OV PAE340001/TM 1717/FL012/TP PA24/SK OVC012-TOP031/RM DURD ILS RY 16R PAE"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.278,47.936]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:18:00Z", 
+    "airepType": "PIREP", 
+    "acType": "M20P", 
+    "cloudCvg1": "OVC", 
+    "cloudBas1": "21", 
+    "fltlvl": "020", 
+    "rawOb": "OVE UA /OV RBL/TM 1718/FL020/TP M20P/SK OVC021/RM ZOA CWSU"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.236,40.099]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:18:00Z", 
+    "airepType": "PIREP", 
+    "acType": "FA20", 
+    "cloudBas1": "160", 
+    "fltlvl": "120", 
+    "tbInt1": "NEG", 
+    "icgInt1": "NEG", 
+    "rawOb": "PTK UA /OV SVM340015/TM 1718/FL120/TP FA20/SK TOPS ESTIMATE 160/TB NEG/IC NEG/RM SMOOTH SO FAR 120-150"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.726,42.638]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "PIREP", 
+    "acType": "PC12", 
+    "temp": "7", 
+    "wdir": "60", 
+    "wspd": "10", 
+    "cloudCvg1": "SCT", 
+    "cloudBas1": "40", 
+    "fltlvl": "155", 
+    "rawOb": "SJU UA /OV TJSJ115027/TM 1721/FL155/TP PC12/SK SCT040/WX FV99SM/TA 07/WV 06010KT"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-65.990,18.446]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "000", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO345002/TM 1721/FL1000/TP CRJ2/RM LLWS +20 BLO 1000 "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.767,39.532]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "000", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO345002/TM 1721/FL1000/TP CRJ2/RM LLWS +20 BLO 1000 "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.767,39.532]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "000", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO345002/TM 1721/FL1000/TP CRJ2/RM LLWS +20 BLO 1000"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.767,39.532]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "000", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO345002/TM 1721/FL1000/TP CRJ2/RM LLWS +20 BLO 1000"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.767,39.532]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "000", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO345002/TM 1721/FL1000/TP CRJ2/RM LLWS +20 BLO 1000"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.767,39.532]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "000", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO345002/TM 1721/FL1000/TP CRJ2/RM LLWS +20 BLO 1000"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.767,39.532]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "000", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO345002/TM 1721/FL1000/TP CRJ2/RM LLWS +20 BLO 1000"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.767,39.532]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "000", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO345002/TM 1721/FL1000/TP CRJ2/RM LLWS +20 BLO 1000"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.767,39.532]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "000", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO345002/TM 1721/FL1000/TP CRJ2/RM LLWS +20 BLO 1000/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.767,39.532]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "000", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO345002/TM 1721/FL1000/TP CRJ2/RM LLWS +20 BLO 1000/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.767,39.532]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "000", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO345002/TM 1721/FL1000/TP CRJ2/RM LLWS +20 BLO 1000/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.767,39.532]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:21:00Z", 
+    "airepType": "Urgent PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "000", 
+    "tbType1": "LLWS", 
+    "rawOb": "RNO UUA /OV KRNO345002/TM 1721/FL1000/TP CRJ2/RM LLWS +20 BLO 1000/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.767,39.532]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:22:00Z", 
+    "airepType": "PIREP", 
+    "acType": "PC12", 
+    "temp": "-11", 
+    "fltlvl": "170", 
+    "icgInt1": "LGT", 
+    "icgType1": "RIME", 
+    "rawOb": "HVN UA /OV MAD/TM 1722/FL170/TP PC12/TA M11/IC LGT RIME"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.692,41.314]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:24:00Z", 
+    "airepType": "PIREP", 
+    "acType": "SR22", 
+    "fltlvl": "060", 
     "tbInt1": "LGT-MOD", 
+    "tbType1": "CHOP", 
+    "rawOb": "EEN UA /OV EEN180020/TM 1724/FL060/TP SR22/TB LGT-MOD CHOP"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.183,42.471]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:25:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE35", 
+    "temp": "4", 
+    "fltlvl": "100", 
+    "icgInt1": "LGT", 
+    "icgType1": "RIME", 
+    "rawOb": "SVH UA /OV BZM080007/TM 1725/FL100/TP BE35/TA 04/IC LGT RIME 100/RM ZTLFD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-81.102,35.901]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:25:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE35", 
+    "temp": "4", 
+    "fltlvl": "100", 
+    "icgInt1": "LGT", 
+    "icgType1": "RIME", 
+    "rawOb": "SVH UA /OV BZM080007/TM 1725/FL100/TP BE35/TA 04/IC LGT RIME 100/RM ZTLFD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-81.102,35.901]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:25:00Z", 
+    "airepType": "PIREP", 
+    "acType": "G280", 
+    "cloudCvg1": "OVC", 
+    "cloudBas1": "30", 
+    "fltlvl": "030", 
+    "rawOb": "RDG UA /OV RDG315003/TM 1725/FL030/TP G280/SK 030 OVC"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.020,40.406]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:27:00Z", 
+    "airepType": "PIREP", 
+    "acType": "C182", 
+    "cloudCvg1": "OVC", 
+    "cloudBas1": "15", 
+    "fltlvl": "015", 
+    "rawOb": "TIW UA /OV KTIW350003/TM 1727/FL015/TP C182/SK OVC015/RM DURD RY17"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.565,47.317]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:28:00Z", 
+    "airepType": "AIREP", 
+    "acType": "WJA1862", 
+    "temp": "-56", 
+    "wdir": "128", 
+    "wspd": "75", 
+    "fltlvl": "340", 
+    "rawOb": "ARP WJA1862 4530N 12643W 1728 F340 MS56 128/075KT"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-126.717,45.500]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:28:00Z", 
+    "airepType": "AIREP", 
+    "acType": "WJA1862", 
+    "temp": "-56", 
+    "wdir": "128", 
+    "wspd": "75", 
+    "fltlvl": "340", 
+    "rawOb": "ARP WJA1862 4530N 12643W 1728 F340 MS56 128/075KT"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-126.717,45.500]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:28:00Z", 
+    "airepType": "AIREP", 
+    "acType": "BOX393", 
+    "temp": "-56", 
+    "wdir": "239", 
+    "wspd": "74", 
+    "fltlvl": "370", 
+    "rawOb": "ARP BOX393 5354N 06327W 1728 F370 M56 239/74 DORYY 1756 5800N 05000W KT DAALI DDL YWK 271728 F20A"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-63.450,53.900]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "CWAO", 
+    "obsTime": "2018-04-27T17:28:00Z", 
+    "airepType": "AIREP", 
+    "acType": "BOX393", 
+    "temp": "-56", 
+    "wdir": "239", 
+    "wspd": "74", 
+    "fltlvl": "370", 
+    "rawOb": "ARP BOX393 5354N06327W 1728 F370 DORYY 1756 5800N05000W MS56 239/74 KT DAALI DDL YWK 271728 F20A "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-63.450,53.900]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:29:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "240", 
+    "tbInt1": "NEG", 
+    "rawOb": "GRR UA /OV VIO/TM 1729/FL240/TP CRJ2/TB NEG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-85.497,42.787]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:29:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CRJ2", 
+    "fltlvl": "240", 
+    "tbInt1": "NEG", 
+    "rawOb": "GRR UA /OV VIO/TM 1729/FL240/TP CRJ2/TB NEG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-85.497,42.787]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KWBC", 
+    "obsTime": "2018-04-27T17:30:00Z", 
+    "airepType": "PIREP", 
+    "acType": "TBM", 
+    "fltlvl": "015", 
+    "tbInt1": "MOD", 
+    "rawOb": "TMB UA /OV 2WSW/TM 1730/FL015/TP TBM/TB MOD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.433,25.648]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:30:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CRJ2", 
+    "temp": "-10", 
+    "cloudCvg1": "SCT", 
+    "cloudBas1": "32", 
+    "fltlvl": "032", 
+    "icgInt1": "NEG", 
+    "rawOb": "CWA UA /OV KCWA/TM 1730/FL032/TP CRJ2/SK SCT032-TOPUNKN/BKN080-TOPUNKN/TA M10/IC NEG/RM DURC RWY 17"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-89.667,44.778]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:30:00Z", 
+    "airepType": "PIREP", 
+    "acType": "CRJ2", 
+    "temp": "-10", 
+    "cloudCvg1": "SCT", 
+    "cloudBas1": "32", 
+    "fltlvl": "032", 
+    "icgInt1": "NEG", 
+    "rawOb": "CWA UA /OV KCWA/TM 1730/FL032/TP CRJ2/SK SCT032-TOPUNKN/BKN080-TOPUNKN/TA M10/IC NEG/RM DURC RWY 17 "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-89.667,44.778]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:30:00Z", 
+    "airepType": "PIREP", 
+    "acType": "", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "11", 
+    "fltlvl": "011", 
+    "rawOb": "UAO UA /OV KUAO/TM 1730/FL011/TP X/SK BKN011-TOPUNKN/RM DURD RWY 17"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.770,45.247]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:32:00Z", 
+    "airepType": "PIREP", 
+    "acType": "P32R", 
+    "fltlvl": "060", 
+    "tbInt1": "LGT-MOD", 
+    "rawOb": "DEC UA /OV AXC/TM 1732/FL060/TP P32R/TB LGT-MOD /RM ZKC FDC/AF"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.856,39.737]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:36:00Z", 
+    "airepType": "PIREP", 
+    "acType": "BE35", 
+    "cloudCvg1": "BKN", 
+    "cloudBas1": "40", 
+    "fltlvl": "040", 
+    "rawOb": "DAB UA /OV 15W OMN/TM 1736/FL040/TP BE35/SK BKN 040 "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-81.399,29.303]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:36:00Z", 
+    "airepType": "PIREP", 
+    "acType": "B737", 
+    "fltlvl": "160", 
+    "tbInt1": "LGT", 
     "tbFreq1": "CONT", 
-    "rawOb": "FOD UA /OV FOD120025/TM 0225/FL350/TP B737/TB CONT LGT OCNL MOD "
+    "rawOb": "JOT UA /OV JOT330030/TM 1736/FL160/TP B737/TB CONT LGT FL160-190 "
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-93.845,42.360]
+      "coordinates": [-88.634,41.987]
     } 
   },
   { "type": "Feature",
     "properties": {
-    "icaoId": "CYZT", 
-    "obsTime": "2018-04-27T02:25:00Z", 
+    "icaoId": "KMSC", 
+    "obsTime": "2018-04-27T17:37:00Z", 
     "airepType": "PIREP", 
-    "acType": "PA31", 
+    "acType": "HELO", 
     "cloudCvg1": "BKN", 
-    "cloudBas1": "1", 
-    "fltlvl": "000", 
-    "rawOb": "VR UA /OV CYAZ /TM 0225 /FLDURC /TP PA31 /SK 001 BKN /RM VIS ON GROUND THR RWY 11 3/4SM "
+    "cloudBas1": "65", 
+    "fltlvl": "065", 
+    "rawOb": "DAB UA /OV 3S OMN/TM 1737/FL065/TP HELO/SK BKN 065 "
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-125.772,49.082]
+      "coordinates": [-81.113,29.253]
     } 
   },
   { "type": "Feature",
     "properties": {
-    "icaoId": "CYZT", 
-    "obsTime": "2018-04-27T02:25:00Z", 
-    "airepType": "PIREP", 
-    "acType": "PA31", 
-    "cloudCvg1": "BKN", 
-    "cloudBas1": "1", 
-    "fltlvl": "000", 
-    "rawOb": "VR UA /OV CYAZ /TM 0225 /FLDURC /TP PA31 /SK 001 BKN /RM VIS ON GROUND THR RWY 11 3/4SM "
+    "icaoId": "KAWN", 
+    "obsTime": "2018-04-27T17:38:00Z", 
+    "airepType": "AIREP", 
+    "acType": "BOX393", 
+    "temp": "-57", 
+    "wdir": "238", 
+    "wspd": "71", 
+    "fltlvl": "370", 
+    "rawOb": "ARP BOX393 5441N 06118W 1738 F370 M57 238/71 DORYY 1756 5800N 05000W KT DAALI DDL YHO 271738 F22A"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-125.772,49.082]
+      "coordinates": [-61.300,54.683]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+    "icaoId": "CWAO", 
+    "obsTime": "2018-04-27T17:38:00Z", 
+    "airepType": "AIREP", 
+    "acType": "BOX393", 
+    "temp": "-57", 
+    "wdir": "238", 
+    "wspd": "71", 
+    "fltlvl": "370", 
+    "rawOb": "ARP BOX393 5441N06118W 1738 F370 DORYY 1756 5800N05000W MS57 238/71 KT DAALI DDL YHO 271738 F22A "
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-61.300,54.683]
     } 
   }]}

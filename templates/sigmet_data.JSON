@@ -5,18 +5,18 @@
       "icaoId": "KKCI", 
       "airSigmetType": "SIGMET", 
       "hazard": "CONVECTIVE", 
-      "validTimeFrom": "2018-04-27T01:55:00Z", 
-      "validTimeTo": "2018-04-27T03:55:00Z", 
+      "validTimeFrom": "2018-04-27T16:55:00Z", 
+      "validTimeTo": "2018-04-27T18:55:00Z", 
       "severity": "2", 
-      "altitudeHi1": 32000, 
-      "altitudeHi2": 32000, 
-      "rawAirSigmet": "WSUS32 KKCI 270155 \nSIGC  \nCONVECTIVE SIGMET 2C \nVALID UNTIL 0355Z \nTX OK \nFROM 60SSW MMB-60W OKC-40NNW SPS-20NNW CDS-60SSW MMB \nAREA EMBD TS MOV FROM 32025KT. TOPS TO FL320. \n \n"
+      "altitudeHi1": 40000, 
+      "altitudeHi2": 40000, 
+      "rawAirSigmet": "WSUS31 KKCI 271655 \nSIGE  \nCONVECTIVE SIGMET 38E \nVALID UNTIL 1855Z \nRI DE NJ NY MD NC VA CSTL WTRS \nFROM 140SSE HTO-180SE SIE-140ESE ECG \nLINE TS 30 NM WIDE MOV FROM 24015KT. TOPS TO FL400. \nCELL MOV FROM 21040KT. \n \n"
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-100.35,35.42],[-98.83,35.35],[-98.90,34.60],[-100.43,34.68],
-        [-100.35,35.42] ] ]
+        [[-71.47,38.86],[-72.43,37.08],[-73.80,35.47],[-73.30,35.19],
+        [-71.88,36.83],[-70.88,38.67],[-71.47,38.86] ] ]
     } 
   },
   { "type": "Feature",
@@ -24,18 +24,18 @@
       "icaoId": "KKCI", 
       "airSigmetType": "SIGMET", 
       "hazard": "CONVECTIVE", 
-      "validTimeFrom": "2018-04-27T01:55:00Z", 
-      "validTimeTo": "2018-04-27T03:55:00Z", 
+      "validTimeFrom": "2018-04-27T16:55:00Z", 
+      "validTimeTo": "2018-04-27T18:55:00Z", 
       "severity": "2", 
-      "altitudeHi1": 32000, 
-      "altitudeHi2": 32000, 
-      "rawAirSigmet": "WSUS32 KKCI 270155 \nSIGC  \nCONVECTIVE SIGMET 2C \nVALID UNTIL 0355Z \nTX OK \nFROM 60SSW MMB-60W OKC-40NNW SPS-20NNW CDS-60SSW MMB \nAREA EMBD TS MOV FROM 32025KT. TOPS TO FL320. \n \n"
+      "altitudeHi1": 40000, 
+      "altitudeHi2": 40000, 
+      "rawAirSigmet": "WSUS31 KKCI 271655 \nSIGE  \nCONVECTIVE SIGMET 38E \nVALID UNTIL 1855Z \nRI DE NJ NY MD NC VA CSTL WTRS \nFROM 140SSE HTO-180SE SIE-140ESE ECG \nLINE TS 30 NM WIDE MOV FROM 24015KT. TOPS TO FL400. \nCELL MOV FROM 21040KT. \n \n"
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-100.35,35.42],[-98.83,35.35],[-98.90,34.60],[-100.43,34.68],
-        [-100.35,35.42] ] ]
+        [[-71.47,38.86],[-72.43,37.08],[-73.80,35.47],[-73.30,35.19],
+        [-71.88,36.83],[-70.88,38.67],[-71.47,38.86] ] ]
     } 
   },
   { "type": "Feature",
@@ -43,18 +43,18 @@
       "icaoId": "KKCI", 
       "airSigmetType": "SIGMET", 
       "hazard": "CONVECTIVE", 
-      "validTimeFrom": "2018-04-27T01:55:00Z", 
-      "validTimeTo": "2018-04-27T03:55:00Z", 
+      "validTimeFrom": "2018-04-27T16:55:00Z", 
+      "validTimeTo": "2018-04-27T18:55:00Z", 
       "severity": "2", 
-      "altitudeHi1": 43000, 
-      "altitudeHi2": 43000, 
-      "rawAirSigmet": "WSUS33 KKCI 270155 \nSIGW  \nCONVECTIVE SIGMET 2W \nVALID UNTIL 0355Z \nNV CA \nFROM 50NW FMG-60WNW OAL \nLINE EMBD TS 25 NM WIDE MOV FROM 17015KT. TOPS TO FL430. \n \n"
+      "altitudeHi1": 40000, 
+      "altitudeHi2": 40000, 
+      "rawAirSigmet": "WSUS31 KKCI 271655 \nSIGE  \nCONVECTIVE SIGMET 39E \nVALID UNTIL 1855Z \nFL AND CSTL WTRS \nFROM 50WSW MIA-70ESE EYW-50SW EYW-30NNW EYW-50WSW MIA \nAREA EMBD TS MOV FROM 26015KT. TOPS TO FL400. \n \n"
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-120.66,40.00],[-119.16,38.26],[-118.72,38.49],[-120.21,40.23],
-        [-120.66,40.00] ] ]
+        [[-81.16,25.48],[-80.62,24.14],[-82.45,24.00],[-82.01,25.05],
+        [-81.16,25.48] ] ]
     } 
   },
   { "type": "Feature",
@@ -62,17 +62,17 @@
       "icaoId": "KKCI", 
       "airSigmetType": "SIGMET", 
       "hazard": "CONVECTIVE", 
-      "validTimeFrom": "2018-04-27T01:55:00Z", 
-      "validTimeTo": "2018-04-27T03:55:00Z", 
+      "validTimeFrom": "2018-04-27T16:55:00Z", 
+      "validTimeTo": "2018-04-27T18:55:00Z", 
       "severity": "2", 
-      "altitudeHi1": 43000, 
-      "altitudeHi2": 43000, 
-      "rawAirSigmet": "WSUS33 KKCI 270155 \nSIGW  \nCONVECTIVE SIGMET 2W \nVALID UNTIL 0355Z \nNV CA \nFROM 50NW FMG-60WNW OAL \nLINE EMBD TS 25 NM WIDE MOV FROM 17015KT. TOPS TO FL430. \n \n"
+      "altitudeHi1": 40000, 
+      "altitudeHi2": 40000, 
+      "rawAirSigmet": "WSUS31 KKCI 271655 \nSIGE  \nCONVECTIVE SIGMET 39E \nVALID UNTIL 1855Z \nFL AND CSTL WTRS \nFROM 50WSW MIA-70ESE EYW-50SW EYW-30NNW EYW-50WSW MIA \nAREA EMBD TS MOV FROM 26015KT. TOPS TO FL400. \n \n"
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-120.66,40.00],[-119.16,38.26],[-118.72,38.49],[-120.21,40.23],
-        [-120.66,40.00] ] ]
+        [[-81.16,25.48],[-80.62,24.14],[-82.45,24.00],[-82.01,25.05],
+        [-81.16,25.48] ] ]
     } 
   }]}

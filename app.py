@@ -1,11 +1,12 @@
 from flask import Flask
-from flask import render_template
-from flask import send_file
+from flask import render_template,send_from_directory
 import Data_Server
-
+# initializes a flask app
 app = Flask(__name__)
-
-# sets the what flask returns for a web site path
+# has the Data_Server function refresh the files served to the server
+a=Data_Server.aviation_data()
+print a
+# responded for each path accessed by a web page
 @app.route('/')
 def aviation(name=None):
     return render_template('Test.html',name=name),
@@ -24,6 +25,10 @@ def metar(name=None):
 @app.route("/airmet.JSON")
 def airmet(name=None):
     return render_template('airmet_data.JSON')
+@app.route("/static/<path:path>")
+def send_static(path):
+    return send_from_directory(path)
+
 
 if __name__ == '__main__':
     app.run()

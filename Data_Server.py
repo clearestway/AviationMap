@@ -15,9 +15,6 @@ def aviation_data():
 
 
 
-
-
-
         url1='https://www.aviationweather.gov/gis/scripts/AirepJSON.php'
 
         response_aircraft = urllib2.urlopen(url1)
