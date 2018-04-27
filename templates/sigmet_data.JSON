@@ -1,0 +1,78 @@
+{ "type": "FeatureCollection",
+  "features": [
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KKCI", 
+      "airSigmetType": "SIGMET", 
+      "hazard": "CONVECTIVE", 
+      "validTimeFrom": "2018-04-27T01:55:00Z", 
+      "validTimeTo": "2018-04-27T03:55:00Z", 
+      "severity": "2", 
+      "altitudeHi1": 32000, 
+      "altitudeHi2": 32000, 
+      "rawAirSigmet": "WSUS32 KKCI 270155 \nSIGC  \nCONVECTIVE SIGMET 2C \nVALID UNTIL 0355Z \nTX OK \nFROM 60SSW MMB-60W OKC-40NNW SPS-20NNW CDS-60SSW MMB \nAREA EMBD TS MOV FROM 32025KT. TOPS TO FL320. \n \n"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-100.35,35.42],[-98.83,35.35],[-98.90,34.60],[-100.43,34.68],
+        [-100.35,35.42] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KKCI", 
+      "airSigmetType": "SIGMET", 
+      "hazard": "CONVECTIVE", 
+      "validTimeFrom": "2018-04-27T01:55:00Z", 
+      "validTimeTo": "2018-04-27T03:55:00Z", 
+      "severity": "2", 
+      "altitudeHi1": 32000, 
+      "altitudeHi2": 32000, 
+      "rawAirSigmet": "WSUS32 KKCI 270155 \nSIGC  \nCONVECTIVE SIGMET 2C \nVALID UNTIL 0355Z \nTX OK \nFROM 60SSW MMB-60W OKC-40NNW SPS-20NNW CDS-60SSW MMB \nAREA EMBD TS MOV FROM 32025KT. TOPS TO FL320. \n \n"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-100.35,35.42],[-98.83,35.35],[-98.90,34.60],[-100.43,34.68],
+        [-100.35,35.42] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KKCI", 
+      "airSigmetType": "SIGMET", 
+      "hazard": "CONVECTIVE", 
+      "validTimeFrom": "2018-04-27T01:55:00Z", 
+      "validTimeTo": "2018-04-27T03:55:00Z", 
+      "severity": "2", 
+      "altitudeHi1": 43000, 
+      "altitudeHi2": 43000, 
+      "rawAirSigmet": "WSUS33 KKCI 270155 \nSIGW  \nCONVECTIVE SIGMET 2W \nVALID UNTIL 0355Z \nNV CA \nFROM 50NW FMG-60WNW OAL \nLINE EMBD TS 25 NM WIDE MOV FROM 17015KT. TOPS TO FL430. \n \n"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-120.66,40.00],[-119.16,38.26],[-118.72,38.49],[-120.21,40.23],
+        [-120.66,40.00] ] ]
+    } 
+  },
+  { "type": "Feature",
+    "properties": {
+      "icaoId": "KKCI", 
+      "airSigmetType": "SIGMET", 
+      "hazard": "CONVECTIVE", 
+      "validTimeFrom": "2018-04-27T01:55:00Z", 
+      "validTimeTo": "2018-04-27T03:55:00Z", 
+      "severity": "2", 
+      "altitudeHi1": 43000, 
+      "altitudeHi2": 43000, 
+      "rawAirSigmet": "WSUS33 KKCI 270155 \nSIGW  \nCONVECTIVE SIGMET 2W \nVALID UNTIL 0355Z \nNV CA \nFROM 50NW FMG-60WNW OAL \nLINE EMBD TS 25 NM WIDE MOV FROM 17015KT. TOPS TO FL430. \n \n"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-120.66,40.00],[-119.16,38.26],[-118.72,38.49],[-120.21,40.23],
+        [-120.66,40.00] ] ]
+    } 
+  }]}
