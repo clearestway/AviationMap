@@ -5,18 +5,18 @@
       "icaoId": "KKCI", 
       "airSigmetType": "SIGMET", 
       "hazard": "CONVECTIVE", 
-      "validTimeFrom": "2018-04-27T16:55:00Z", 
-      "validTimeTo": "2018-04-27T18:55:00Z", 
+      "validTimeFrom": "2018-04-27T19:55:00Z", 
+      "validTimeTo": "2018-04-27T21:55:00Z", 
       "severity": "2", 
-      "altitudeHi1": 40000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WSUS31 KKCI 271655 \nSIGE  \nCONVECTIVE SIGMET 38E \nVALID UNTIL 1855Z \nRI DE NJ NY MD NC VA CSTL WTRS \nFROM 140SSE HTO-180SE SIE-140ESE ECG \nLINE TS 30 NM WIDE MOV FROM 24015KT. TOPS TO FL400. \nCELL MOV FROM 21040KT. \n \n"
+      "altitudeHi1": 45000, 
+      "altitudeHi2": 60000, 
+      "rawAirSigmet": "WSUS31 KKCI 271955 \nSIGE  \nCONVECTIVE SIGMET 43E \nVALID UNTIL 2155Z \nFL AND CSTL WTRS \nFROM 40ENE PBI-60SE MIA-80S MIA-40SW MIA-30E RSW-40ENE PBI \nAREA TS MOV FROM 25025KT. TOPS ABV FL450. \n \n"
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-71.47,38.86],[-72.43,37.08],[-73.80,35.47],[-73.30,35.19],
-        [-71.88,36.83],[-70.88,38.67],[-71.47,38.86] ] ]
+        [[-79.40,26.93],[-79.52,25.09],[-80.30,24.47],[-80.82,25.33],
+        [-81.22,26.53],[-79.40,26.93] ] ]
     } 
   },
   { "type": "Feature",
@@ -24,55 +24,17 @@
       "icaoId": "KKCI", 
       "airSigmetType": "SIGMET", 
       "hazard": "CONVECTIVE", 
-      "validTimeFrom": "2018-04-27T16:55:00Z", 
-      "validTimeTo": "2018-04-27T18:55:00Z", 
+      "validTimeFrom": "2018-04-27T19:55:00Z", 
+      "validTimeTo": "2018-04-27T21:55:00Z", 
       "severity": "2", 
-      "altitudeHi1": 40000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WSUS31 KKCI 271655 \nSIGE  \nCONVECTIVE SIGMET 38E \nVALID UNTIL 1855Z \nRI DE NJ NY MD NC VA CSTL WTRS \nFROM 140SSE HTO-180SE SIE-140ESE ECG \nLINE TS 30 NM WIDE MOV FROM 24015KT. TOPS TO FL400. \nCELL MOV FROM 21040KT. \n \n"
+      "altitudeHi1": 45000, 
+      "altitudeHi2": 60000, 
+      "rawAirSigmet": "WSUS31 KKCI 271955 \nSIGE  \nCONVECTIVE SIGMET 43E \nVALID UNTIL 2155Z \nFL AND CSTL WTRS \nFROM 40ENE PBI-60SE MIA-80S MIA-40SW MIA-30E RSW-40ENE PBI \nAREA TS MOV FROM 25025KT. TOPS ABV FL450. \n \n"
     },
     "geometry": {
       "type": "Polygon",
       "coordinates": [
-        [[-71.47,38.86],[-72.43,37.08],[-73.80,35.47],[-73.30,35.19],
-        [-71.88,36.83],[-70.88,38.67],[-71.47,38.86] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KKCI", 
-      "airSigmetType": "SIGMET", 
-      "hazard": "CONVECTIVE", 
-      "validTimeFrom": "2018-04-27T16:55:00Z", 
-      "validTimeTo": "2018-04-27T18:55:00Z", 
-      "severity": "2", 
-      "altitudeHi1": 40000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WSUS31 KKCI 271655 \nSIGE  \nCONVECTIVE SIGMET 39E \nVALID UNTIL 1855Z \nFL AND CSTL WTRS \nFROM 50WSW MIA-70ESE EYW-50SW EYW-30NNW EYW-50WSW MIA \nAREA EMBD TS MOV FROM 26015KT. TOPS TO FL400. \n \n"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-81.16,25.48],[-80.62,24.14],[-82.45,24.00],[-82.01,25.05],
-        [-81.16,25.48] ] ]
-    } 
-  },
-  { "type": "Feature",
-    "properties": {
-      "icaoId": "KKCI", 
-      "airSigmetType": "SIGMET", 
-      "hazard": "CONVECTIVE", 
-      "validTimeFrom": "2018-04-27T16:55:00Z", 
-      "validTimeTo": "2018-04-27T18:55:00Z", 
-      "severity": "2", 
-      "altitudeHi1": 40000, 
-      "altitudeHi2": 40000, 
-      "rawAirSigmet": "WSUS31 KKCI 271655 \nSIGE  \nCONVECTIVE SIGMET 39E \nVALID UNTIL 1855Z \nFL AND CSTL WTRS \nFROM 50WSW MIA-70ESE EYW-50SW EYW-30NNW EYW-50WSW MIA \nAREA EMBD TS MOV FROM 26015KT. TOPS TO FL400. \n \n"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [[-81.16,25.48],[-80.62,24.14],[-82.45,24.00],[-82.01,25.05],
-        [-81.16,25.48] ] ]
+        [[-79.40,26.93],[-79.52,25.09],[-80.30,24.47],[-80.82,25.33],
+        [-81.22,26.53],[-79.40,26.93] ] ]
     } 
   }]}
