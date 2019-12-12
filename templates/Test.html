@@ -64,7 +64,7 @@
 	var aircraft_group = L.layerGroup();
 	var airmet_group = L.layerGroup();
     var metar = new L.GeoJSON.AJAX(["/metar.JSON"],{onEachFeature:popUp}).addTo(metar_group);
-    var sigmet = new L.GeoJSON.AJAX(["/sigmet.JSON"],{onEachFeature:popUp},).addTo(sigmet_group)
+    var sigmet = new L.GeoJSON.AJAX(["/sigmet.JSON"],{onEachFeature:popUp},).addTo(sigmet_group);
     var aircraft = new L.GeoJSON.AJAX(["/aircraft.JSON"],{onEachFeature:popUp}).addTo(aircraft_group);
     var airmet = new L.GeoJSON.AJAX(["/airmet.JSON"],{onEachFeature:popUp}).addTo(airmet_group);
 
